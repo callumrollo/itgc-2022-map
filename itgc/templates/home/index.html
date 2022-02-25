@@ -333,23 +333,6 @@
                     onEachFeature: popupText
                 })
 
-
-            // Extra ITGC layers
-            // Add ship trackline
-            // Create polyline to collect 'realtime' trackline in-browser.  Start it with the current position.
-            // Add ship icon.  First, create an icon for the marker, then add a new L.marker using that icon
-            // L.BoatIcon creates a vector ship icon along with an optional wind indicator arrow/barb
-            var shipIcon = new L.BoatIcon();
-            shipIcon.setHeadingWind($.getData("NBPGyroHeading",1),$.getData("NBPSUSTrueWindSpdKn",1),$.getData("NBPSUSTrueWindDir",1));
-            shipMarker = new L.marker(getCurrentPosition(), {icon: shipIcon});
-            shipMarker.addTo(map);
-
-
-            // Add waypoint marker
-            // Seals
-
-
-
             let ctdLayer = L.geoJson(ctdDict, {
                 pointToLayer: function (feature, latlng) {
                     return new L.CircleMarker(latlng, {radius: 5,
@@ -363,7 +346,8 @@
 
             let tmcLayer = L.layerGroup([L.geoJson(tmcDict, {
                 pointToLayer: function (feature, latlng) {
-                    return new L.CircleMarker(latlng, {radius: 7,
+                    return new L.CircleMarker(latlng, {radius: 6,
+                        fillOpacity: 1.0,
                         color: 'black',
                         fillColor: '#b523ff',
                         weight: 1,});
@@ -455,26 +439,15 @@
             }),
            L.geoJson(shipDaysDict, {
                 pointToLayer: function (feature, latlng) {
-                    return new L.CircleMarker(latlng, {radius: 5,
-                        fillOpacity: 0.9,
+                    return new L.CircleMarker(latlng, {radius: 4,
+                        fillOpacity: 1.0,
                         color: 'black',
                         fillColor: 'black',
                         weight: 1,});
                 },
                 onEachFeature: popupText
             })]).addTo(map);
-            let pointsLayer = L.geoJSON(pointsDict, {
-                pointToLayer: function (feature, latlng) {
-                    return L.marker(latlng, {icon: locsIcon});
-                },
-                onEachFeature: popupText
-            }).addTo(map);
-            let wpLayer = L.geoJSON(wpDict, {
-                pointToLayer: function (feature, latlng) {
-                    return L.marker(latlng, {icon: targetIcon});
-                },
-                onEachFeature: popupText
-            }).addTo(map);
+
             var terminator = L.terminator();
             // Optional layers that plot on top of the basemap
             let mapLayers = {
@@ -486,17 +459,10 @@
                 // Bathymetry layer for the southern ocean (below 60S)  Created by J. Race and C. Linden during NBP1704.  There are notes in the admin wiki about how this was done.
                 Bathymetry: L.tileLayer("https://maps.nbp.usap.gov/maptiles/Bathymetry/{z}/{x}/{y}.png",
                     {minZoom: 1, maxZoom: 12, attribution: "GEBCO", errorTileUrl: '/maptiles/transparent-tile.png'}),
-                // Layer showing the EEZs for the world
-                EEZ: L.tileLayer("https://dasng.nbp.usap.gov/BetterMap/Charts/EEZ/{z}/{x}/{y}.png",
-                    {minZoom: 0, maxZoom: 8, errorTileUrl: '/maptiles/transparent-tile.png'}),
-                "Day/Night overlay": terminator,
-                Graticule: graticule,
-                "Graticule (high lat)": graticuleHighLat,
+                "Graticule": graticuleHighLat,
                 "GEBCO 2020 <span style='color: red'>50 m</span><br><span style='color: blue'>200 m</span> <span style='color: grey'>500 m</span> 1000 m)<br><hr>": gebcoLinesLayer,
 
                 Ship: shipLayer,
-                Waypoint: wpLayer,
-                "Points of interest": pointsLayer,
                 "gliders": glidersLayer,
                 CTD: ctdLayer,
                 TMC: tmcLayer,
@@ -539,46 +505,11 @@
                     imperial: true,
                     nautic: true
                 }));
-                // Add a ruler (for measuring lengths on the map)
-                var Ruler = L.Control.LinearMeasurement.extend(
-                    {
-                        layerSelected: function(e)
-                        {
-                            var html = [
-                                    '<table>',
-                                    ' <tr><td class="cost_label">Total Distance:</td><td class="cost_value">{total_distance}</td></tr>',
-                                    '</table>'
-                                ].join(''),
-                                numberWithCommas = function(x) {
-                                    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                                };
-                            var distance = e.total.scalar;
-                            var data = {
-                                total_distance: numberWithCommas(L.Util.formatNum(distance, 1))
-                            };
-                            //var content = L.Util.template(html, data),
-                            //	popup = L.popup().setContent(content);
-                            //e.total_label.bindPopup(popup, { offset: [45, 0] });
-                            //e.total_label.openPopup();
-                        }
-                    });
-                map.addControl(new Ruler({
-                    unitSystem: 'metric',
-                    color: '#FF0080'
-                }));
+
 
                 // Set listener for onMouseMove to show Lat/Lon in an infobox
                 map.on('mousemove', onMouseMove);
             }
-
-
-
-            // Set listener for onZoomEnd
-            map.on('zoomend', onZoomEnd);
-
-            // Refresh data every minute
-            window.setInterval(UpdateMap, 50000);
-
 
         </script>
         </script>

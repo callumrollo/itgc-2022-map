@@ -1,0 +1,633 @@
+{% extends "layout.html" %}
+
+{% block additional_css %}
+
+    <!-- Link to leaflet CSS and javascript for maps-->
+    <link rel="stylesheet" href="/static/css/leaflet.css"/>
+    <link rel="stylesheet" href= "/static/css/Leaflet.css"/>
+    <link rel="stylesheet" href="/static/css/leaflet_002.css"/>
+    <script src="static/js/leaflet.js"></script>
+    <!-- Link to providers CSS and javascript for leaflet provider extension-->
+    <script src="static/js/Leaflet.Graticule.js"></script>
+
+    <title>ITGC map</title>
+
+    <!-- Palmer stuff here-->
+    <script type="text/javascript" src="static/js/proj4js-compressed.js"></script>
+    <script type="text/javascript" src="static/js/proj4leaflet.js"></script>
+    <script type="text/javascript" src="static/js/countries-110m.js"></script>
+    <script src="static/js/leaflet-omnivore.js"></script>
+    <script src="static/js/jquery-1.7.2.js"></script>
+    <script src="static/js/leaflet.boatmarker.js"></script>
+    <!-- Require vessel_homepage.js where the function $.getData() is defined -->
+    <script type="text/javascript" src="static/js/suncalc.js"></script>
+    <script type="text/javascript" src="static/js/vessel_homepage.js"></script>
+    <script src="static/js/palmer.js"></script>
+    <!-- Possible junk js-->
+    <script src="static/js/Leaflet.js"></script>
+    <script src="static/js/L.js"></script>
+    <script src="static/js/L_002.js"></script>
+    <script src="static/js/leaflet_002.js"></script>
+    <script src="static/js/leaflet_003.js"></script>
+    <script src="static/js/leaflet_004.js"></script>
+    <script src="static/js/leaflet_005.js"></script>
+    <script src="static/js/leaflet_006.js"></script>
+
+
+{% endblock %}
+
+{% block extra_nav %}
+
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Select Mission
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            {% for m in mission_list %}
+                <a class="dropdown-item" href="/mission{{ m.Number }}" >Mission {{ m.Number }} {{ m.Name }}</a>
+            {% endfor %}
+        </div>
+    </li>
+
+
+
+{% endblock %}
+
+{% block main_content %}
+
+        <div class="container timesel">
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">start date</th>
+                <th scope="col">end date</th>
+                <th scope="col"></th>
+
+            </tr>
+            </thead>
+            <tbody>
+            <td><form action="" method="POST" class="account-form">
+            <input name="start" type="date" placeholder=" Start date" class="form-control" value="{{ start }}" required>
+            <input name="start_time" type="time" placeholder=" Start time" class="form-control" value="{{ start_time }}" optional></td>
+            <td> <input name="end" type="date" placeholder=" End date " class="form-control" value="{{ end }}" required>
+            <input name="end_time" type="time" placeholder="End time" class="form-control" value="{{ end_time }}" optional></td>
+            <td><button type="submit" class="btn btn-danger">Subset to dates</button></td>
+            <div style="clear: both;"></div></form>
+            </tbody>
+        </table>
+        {{ start }} {{ pre_start_time }} - {{ end }} {{ pre_end_time }}
+    </div>
+
+
+
+        <div id="map" style="height: 800px; "></div>
+        <!-- Script to create a leaflet map-->
+        <script nonce="{{ nonce }}">
+
+            // geojson layers passed from view method
+            let divesDict = JSON.parse('{{ dives_by_glider_json| tojson | safe}}');
+            let linesDict = JSON.parse('{{ lines_by_glider_json| tojson | safe}}');
+            let latestDivesDict = JSON.parse('{{ recentdivesdict| tojson | safe}}');
+            // Extra databases for ITGC
+            let ctdDict = JSON.parse('{{ ctd_dict| tojson | safe}}');
+            let tmcDict = JSON.parse('{{ tmc_dict| tojson | safe}}');
+            let fishDict = JSON.parse('{{ fish_dict| tojson | safe}}');
+            let vmpDict = JSON.parse('{{ vmp_dict| tojson | safe}}');
+            let coreDict = JSON.parse('{{ core_dict| tojson | safe}}');
+            let thorDict = JSON.parse('{{ thor_dict| tojson | safe}}');
+            let huginDict = JSON.parse('{{ hugin_dict| tojson | safe}}');
+            let huginBottleDict = JSON.parse('{{ hugin_bottle_dict| tojson | safe}}');
+            let alrDict = JSON.parse('{{ alr_dict| tojson | safe}}');
+            let shipDict = JSON.parse('{{ ship_dict| tojson | safe}}');
+            let shipDaysDict = JSON.parse('{{ ship_days_dict| tojson | safe}}');
+            let wpDict = JSON.parse('{{ wp_dict| tojson | safe}}');
+            let pointsDict = JSON.parse('{{ points_dict| tojson | safe}}');
+            let depth50 = JSON.parse('{{ isobath_dict["depth_50_m"] | tojson | safe}}');
+            let depth200 = JSON.parse('{{ isobath_dict["depth_200_m"] | tojson | safe}}');
+            let depth500 = JSON.parse('{{ isobath_dict["depth_500_m"] | tojson | safe}}');
+            let depth1000 = JSON.parse('{{ isobath_dict["depth_1000_m"] | tojson | safe}}');
+
+            // Palmer stuff
+            map	= L.map('map', {
+                    worldCopyJump: true,
+                    contextmenu: true,  // Add right-click context menu, and its options
+                    contextmenuWidth: 140,
+                    // This is where you can put extra menu items for the right-click context menu
+                    contextmenuItems: [{
+                        text: 'Show coordinates',
+                        callback: showCoordinates
+                    },
+                        {
+                            text: 'Center map here',
+                            callback: centerMap
+                        }
+                        , '-',
+                        {
+                            text: 'Zoom in',
+                            icon: '/static/img/icons/zoom-in.png',
+                            callback: zoomIn
+                        },
+                        {
+                            text: 'Zoom out',
+                            icon: '/static/img/icons/zoom-out.png',
+                            callback: zoomOut
+                        }]
+                }
+            );
+
+            var zoom = getParameterByName('zoom') || 6; // initial map zoom
+            followShip = getParameterByName('followship') || false;  // boolean whether to have the map auto-center on the ship on refresh
+            autozoom = getParameterByName('autozoom') || false;  // boolean whether to have the map auto-zoom to the ship and the next waypoint
+            showControls = getParameterByName('showcontrols') || true; // boolean whether to display the infobox (speed, heading, etc)
+            //Set map options
+            map.options.maxZoom = getParameterByName('maxzoom') || 18; //set max zoom level
+            map.options.minZoom = 3; // set min zoom level (most zoomed out it can be)
+            //map.options.worldCopyJump = true;
+            var init_lat = getParameterByName('lat') || $.getData("NBPs330Lat",6);; // initial lat
+            var init_lon = getParameterByName('lon') || $.getData("NBPs330Lon",6); // initial lon
+            var startposition = new L.LatLng(parseFloat(init_lat),parseFloat(init_lon));
+
+            // Set initial map view (center & zoom)
+            map.setView([-74,-114.2], 8);
+
+            //map.setView([-73,-115], zoom);
+            map.attributionControl.setPrefix("Zoom: " + zoom);
+            map.zoomControl.remove() // hide zoom control.  readd if showcontrols is true (see below)
+
+
+
+            // A series of optional map layers. ortho has addTo(map) so is on by default
+
+
+            let osm =  L.tileLayer("https://maps.nbp.usap.gov/maptiles/osm-intl/{z}/{x}/{y}.png",
+                {maxZoom: 18, attribution: "© OpenStreetMap", errorTileUrl: '/maptiles/transparent-tile.png'}).addTo(map);
+            // Graticule for lon and lat lines on map
+
+            let graticule = L.latlngGraticule({
+                showLabel: true,
+                weight: 0.8,
+                fontColor: 'white',
+                zoomInterval: [
+                    {start: 3, end: 4, interval: 30},
+                    {start: 5, end: 5, interval: 10},
+                    {start: 6, end: 6, interval: 5},
+                    {start: 7, end: 8, interval: 3},
+                    {start: 9, end: 9, interval: 1},
+                    {start: 9, end: 10, interval: 0.5},
+                    {start: 11, end: 11, interval: 0.25},
+                    {start: 12, end: 13, interval: 1/12},
+                ]
+            })
+
+            // Optional high lat graticule with finer graduations in lat
+            let graticuleHighLat = L.latlngGraticule({
+                showLabel: true,
+                weight: 0.8,
+                fontColor: 'white',
+                zoomInterval:
+                    { latitude: [
+                            {start: 3, end: 4, interval: 10},
+                            {start: 5, end: 5, interval: 3},
+                            {start: 6, end: 6, interval: 2},
+                            {start: 7, end: 8, interval: 1},
+                            {start: 9, end: 9, interval: 0.25},
+                            {start: 9, end: 10, interval: 0.25},
+                            {start: 11, end: 11, interval: 1/12},
+                            {start: 12, end: 13, interval: 1/30},
+
+                        ],
+                        longitude: [
+                            {start: 3, end: 4, interval: 30},
+                            {start: 5, end: 5, interval: 10},
+                            {start: 6, end: 6, interval: 5},
+                            {start: 7, end: 8, interval: 3},
+                            {start: 9, end: 9, interval: 1},
+                            {start: 9, end: 10, interval: 0.5},
+                            {start: 11, end: 11, interval: 0.25},
+                            {start: 12, end: 13, interval: 1/12},
+
+                        ]}
+
+            }).addTo(map);
+
+            // Add basemap layers to mao
+            let basemaps = {
+                OpenStreetMap: osm,
+            };
+
+            // Argos tag zone
+
+            let locsIcon = L.icon({
+                iconUrl: '/static/img/icons/argos.png',
+                shadowUrl: '/static/img/icons/targetshadow.png',
+                iconSize:     [50, 40], // size of the icon
+                shadowSize:   [40, 40], // size of the shadow
+                iconAnchor:   [25, 30], // point of the icon which will correspond to marker's location
+                shadowAnchor: [10, 32],  // the same for the shadow
+                popupAnchor:  [0, -30] // point from which the popup should open relative to the iconAnchor
+            });
+
+            // Argos tag layers in style of glider layers
+
+
+
+
+            let gebcoLinesLayer = L.layerGroup([L.geoJSON(depth50, {
+                    attribution: "GEBCO & C Rollo",
+                    color:'red',
+                }),
+
+                L.geoJSON(depth200, {
+                    attribution: "GEBCO & C Rollo",
+                    color:'blue',
+                }),
+
+                L.geoJSON(depth500, {
+                    attribution: "GEBCO & C Rollo",
+                    color:'grey',
+                }),
+
+                 L.geoJSON(depth1000, {
+                    attribution: "GEBCO & C Rollo",
+                    color:'black',
+                })])
+
+            // Add the targets and seaglider icons
+
+            let targetIcon = L.icon({
+                iconUrl: '/static/img/icons/target.png',
+                shadowUrl: '/static/img/icons/targetshadow.png',
+                iconSize:     [16, 32], // size of the icon
+                shadowSize:   [32, 32], // size of the shadow
+                iconAnchor:   [8, 31], // point of the icon which will correspond to marker's location
+                shadowAnchor: [6, 31],  // the same for the shadow
+                popupAnchor:  [0, -30] // point from which the popup should open relative to the iconAnchor
+            });
+
+            let seagliderIcon = L.icon({
+                iconUrl: '/static/img/icons/seaglider.png',
+                shadowUrl: '/static/img/icons/seaglidershadow.png',
+                iconSize:     [40, 30], // size of the icon
+                shadowSize:   [55, 30], // size of the shadow
+                iconAnchor:   [20, 29], // point of the icon which will correspond to marker's location
+                shadowAnchor: [20, 30],  // the same for the shadow
+                popupAnchor:  [3, -30] // point from which the popup should open relative to the iconAnchor
+            });
+
+
+            // Function adds popup content to markers
+            function popupText(feature, layer) {
+                layer.bindPopup(feature.properties.popupContent);
+            }
+            function style(feature) {
+                return {
+                    weight: 1,
+                    color: getColor(feature.properties.gliderOrder),
+                };
+            }
+
+            // setting color from geojson. We have enough unique colors for 8 gliders. After that they'll all be white
+            function getColor(style) {
+                switch (style) {
+                    case 0:
+                        return "#ff7f0e" ;
+                    case 1:
+                        return "#4ac6a9";
+                    case 2:
+                        return '#d71f2c';
+                    case 3:
+                        return '#8aff5e';
+                    case 4:
+                        return '#d910be';
+                    case 5:
+                        return '#daff00';
+                    case 6:
+                        return '#07010a';
+                    default:
+                        return 'black';
+                }
+            }
+
+            function styler(feature) {
+                return {
+                    weight: 3,
+                    color: getColor2(feature.properties.gliderOrder),
+                };
+            }
+
+            // setting color from geojson. We have enough unique colors for 8 gliders. After that they'll all be white
+            function getColor2(style) {
+                switch (style) {
+                    case 0:
+                        return "#ee8803" ;
+                    case 1:
+                        return "#385be5";
+                    case 2:
+                        return '#07cb27';
+                    case 3:
+                        return '#0e0e0e';
+                    case 4:
+                        return '#f5f5f5';
+                }
+            }
+            // Use layer group for gliders
+            let glidersLayer = L.layerGroup([
+                L.geoJson(linesDict, {style: style}),
+
+                L.geoJson(divesDict, {
+                    pointToLayer: function (feature, latlng) {
+                        return new L.CircleMarker(latlng, {radius: 5,
+                            fillOpacity: 0.8,
+                            color: 'black',
+                            fillColor: getColor(feature.properties.gliderOrder),
+                            weight: 1,});
+                    },
+                    onEachFeature: popupText
+                }),
+
+                L.geoJSON(latestDivesDict, {
+                    pointToLayer: function (feature, latlng) {
+                        return L.marker(latlng, {icon: seagliderIcon});
+                    },
+                    onEachFeature: popupText
+                }),
+
+
+            ])
+
+
+            // Extra ITGC layers
+            // Add ship trackline
+            // Create polyline to collect 'realtime' trackline in-browser.  Start it with the current position.
+            // Add ship icon.  First, create an icon for the marker, then add a new L.marker using that icon
+            // L.BoatIcon creates a vector ship icon along with an optional wind indicator arrow/barb
+            var shipIcon = new L.BoatIcon();
+            shipIcon.setHeadingWind($.getData("NBPGyroHeading",1),$.getData("NBPSUSTrueWindSpdKn",1),$.getData("NBPSUSTrueWindDir",1));
+            shipMarker = new L.marker(getCurrentPosition(), {icon: shipIcon});
+            shipMarker.addTo(map);
+
+
+            // Add waypoint marker
+            // Seals
+
+
+
+            let ctdLayer = L.geoJson(ctdDict, {
+                pointToLayer: function (feature, latlng) {
+                    return new L.CircleMarker(latlng, {radius: 5,
+                        fillOpacity: 0.8,
+                        color: 'black',
+                        fillColor: 'yellow',
+                        weight: 1,});
+                },
+                onEachFeature: popupText
+            })
+
+            let tmcLayer = L.layerGroup([L.geoJson(tmcDict, {
+                pointToLayer: function (feature, latlng) {
+                    return new L.CircleMarker(latlng, {radius: 5,
+                        fillOpacity: 0.8,
+                        color: 'black',
+                        fillColor: 'grey',
+                        weight: 1,});
+                },
+                onEachFeature: popupText
+            }),
+                L.geoJson(fishDict, {
+                pointToLayer: function (feature, latlng) {
+                    return new L.CircleMarker(latlng, {radius: 5,
+                        fillOpacity: 0.8,
+                        color: 'black',
+                        fillColor: 'red',
+                        weight: 1,});
+                },
+                onEachFeature: popupText
+            }),
+            ])
+            let vmpLayer = L.geoJson(vmpDict, {
+                pointToLayer: function (feature, latlng) {
+                    return new L.CircleMarker(latlng, {radius: 5,
+                        fillOpacity: 0.8,
+                        color: 'black',
+                        fillColor: 'green',
+                        weight: 1,});
+                },
+                onEachFeature: popupText
+            })
+            let coreIcon = L.icon({
+                iconUrl: '/static/img/icons/core.png',
+                iconSize:     [30, 30], // size of the icon
+                iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
+                popupAnchor:  [0, -15] // point from which the popup should open relative to the iconAnchor
+            });
+            let waterIcon =  L.icon({
+                iconUrl: '/static/img/icons/bottle.png',
+                iconSize:     [30, 30], // size of the icon
+                iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
+                popupAnchor:  [5, -15] // point from which the popup should open relative to the iconAnchor
+            });
+
+            let coreLayer =  L.geoJSON(coreDict, {
+                    pointToLayer: function (feature, latlng) {
+                        return L.marker(latlng, {icon: coreIcon});
+                    },
+                    onEachFeature: popupText
+            })
+
+            let thorIcon = L.icon({
+                iconUrl: '/static/img/icons/thor.png',
+                iconSize:     [30, 35], // size of the icon
+                iconAnchor:   [20, 15], // point of the icon which will correspond to marker's location
+                popupAnchor:  [0, -15] // point from which the popup should open relative to the iconAnchor
+            });
+
+            let thorLayer =  L.geoJSON(thorDict, {
+                    pointToLayer: function (feature, latlng) {
+                        return L.marker(latlng, {icon: thorIcon});
+                    },
+                    onEachFeature: popupText
+            })
+
+
+            let huginLayer =  L.layerGroup([L.geoJSON(huginDict, {color:'#00b2ff',
+                    lineStringToLayer: function (feature, latlng) {
+                        return L.line(latlng, );
+                    },
+                    onEachFeature: popupText
+            }),
+
+
+             L.geoJSON(huginBottleDict, {
+                pointToLayer: function (feature, latlng) {
+                    return L.marker(latlng, {icon: waterIcon});
+                },
+                onEachFeature: popupText
+            })])
+
+            let alrLayer =  L.geoJSON(alrDict, {color:'#fffb08',
+                    lineStringToLayer: function (feature, latlng) {
+                        return L.line(latlng, );
+                    },
+                    onEachFeature: popupText
+            })
+            let shipLayer = L.layerGroup([ L.geoJSON(shipDict, {style: styler,
+                lineStringToLayer: function (feature, latlng) {
+                    return L.line(latlng, );
+                },
+                onEachFeature: popupText
+            }),
+           L.geoJson(shipDaysDict, {
+                pointToLayer: function (feature, latlng) {
+                    return new L.CircleMarker(latlng, {radius: 5,
+                        fillOpacity: 0.9,
+                        color: 'black',
+                        fillColor: 'black',
+                        weight: 1,});
+                },
+                onEachFeature: popupText
+            })]).addTo(map);
+            let pointsLayer = L.geoJSON(pointsDict, {
+                pointToLayer: function (feature, latlng) {
+                    return L.marker(latlng, {icon: locsIcon});
+                },
+                onEachFeature: popupText
+            }).addTo(map);
+            let wpLayer = L.geoJSON(wpDict, {
+                pointToLayer: function (feature, latlng) {
+                    return L.marker(latlng, {icon: targetIcon});
+                },
+                onEachFeature: popupText
+            }).addTo(map);
+            var terminator = L.terminator();
+            // Optional layers that plot on top of the basemap
+            let mapLayers = {
+
+                "Ocean shading": L.tileLayer("https://maps.nbp.usap.gov/maptiles/ocean_tiles/{z}/{y}/{x}.png",
+                    {maxZoom: 16, attribution: "© Esri, USGS, NOAA", errorTileUrl: '/static/img/transparent-tile.png'}),
+                Labels: L.tileLayer("https://maps.nbp.usap.gov/maptiles/label_tiles/{z}/{y}/{x}.png",
+                    {maxZoom: 8, attribution: "© Esri, USGS, NOAA", errorTileUrl: '/maptiles/transparent-tile.png'}),
+                // Bathymetry layer for the southern ocean (below 60S)  Created by J. Race and C. Linden during NBP1704.  There are notes in the admin wiki about how this was done.
+                Bathymetry: L.tileLayer("https://maps.nbp.usap.gov/maptiles/Bathymetry/{z}/{x}/{y}.png",
+                    {minZoom: 1, maxZoom: 12, attribution: "GEBCO", errorTileUrl: '/maptiles/transparent-tile.png'}),
+                // Layer showing the EEZs for the world
+                EEZ: L.tileLayer("https://dasng.nbp.usap.gov/BetterMap/Charts/EEZ/{z}/{x}/{y}.png",
+                    {minZoom: 0, maxZoom: 8, errorTileUrl: '/maptiles/transparent-tile.png'}),
+                "Day/Night overlay": terminator,
+                Graticule: graticule,
+                "Graticule (high lat)": graticuleHighLat,
+                "GEBCO 2020 <span style='color: red'>50 m</span><br><span style='color: blue'>200 m</span> <span style='color: grey'>500 m</span> 1000 m)<br><hr>": gebcoLinesLayer,
+
+                Ship: shipLayer,
+                Waypoint: wpLayer,
+                "Points of interest": pointsLayer,
+                "gliders": glidersLayer,
+                CTD: ctdLayer,
+                TMC: tmcLayer,
+                VMP: vmpLayer,
+                "mono core 🟫": coreLayer,
+                "mega/kasten core ⛏": thorLayer,
+                "<span style='color: #00b2ff'>Hugin</span>": huginLayer,
+                "<span style='color:#fffb08'>ALR</span><br><hr>": alrLayer,
+                {% for d, n in amsr_dict.items() %}
+                    "AMSR sea ice {{d}}": L.tileLayer("{{ n }}/{z}/{x}/{y}.png", {tms: true, opacity: 0.7, minZoom: 1, maxZoom: 10},
+                        {minZoom: 0, maxZoom: 8, errorTileUrl:  '/static/img/transparent-tile.png'}),
+                {% endfor %}
+                {% for d, n in modis_dict.items() %}
+                    "MODIS {{d}}": L.tileLayer("{{ n }}/{z}/{x}/{y}.png", {tms: true, opacity: 0.5, minZoom: 1, maxZoom: 10},
+                        {minZoom: 0, maxZoom: 8, errorTileUrl:  '/static/img/transparent-tile.png'}),
+                {% endfor %}
+                {% for d, n in polar_dict.items() %}
+                    "Polar View {{d}}": L.tileLayer("{{ n }}/{z}/{x}/{y}.png", {tms: true, opacity: 0.7, minZoom: 1, maxZoom: 10},
+                        {minZoom: 0, maxZoom: 8, errorTileUrl:  '/static/img/transparent-tile.png'}),
+                {% endfor %}
+
+            };
+
+
+            // More Palmer stuff
+            // Add a layer controller for turning on and off layers
+            controlPanel = L.control.layers(basemaps, mapLayers,{position: 'topright'});
+            // Add a day/night terminator option
+
+            // **** If we havne't hidden them, show the map controls *****
+            if (showControls == true)
+            {
+                //Add control panel
+                controlPanel.addTo(map);
+                new L.control.zoom().addTo(map);
+                $("#latlon").show();
+                //Add nautical scale
+                map.addControl(new L.Control.ScaleNautic({
+                    metric: true,
+                    imperial: true,
+                    nautic: true
+                }));
+                // Add a ruler (for measuring lengths on the map)
+                var Ruler = L.Control.LinearMeasurement.extend(
+                    {
+                        layerSelected: function(e)
+                        {
+                            var html = [
+                                    '<table>',
+                                    ' <tr><td class="cost_label">Total Distance:</td><td class="cost_value">{total_distance}</td></tr>',
+                                    '</table>'
+                                ].join(''),
+                                numberWithCommas = function(x) {
+                                    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                                };
+                            var distance = e.total.scalar;
+                            var data = {
+                                total_distance: numberWithCommas(L.Util.formatNum(distance, 1))
+                            };
+                            //var content = L.Util.template(html, data),
+                            //	popup = L.popup().setContent(content);
+                            //e.total_label.bindPopup(popup, { offset: [45, 0] });
+                            //e.total_label.openPopup();
+                        }
+                    });
+                map.addControl(new Ruler({
+                    unitSystem: 'metric',
+                    color: '#FF0080'
+                }));
+
+                // Set listener for onMouseMove to show Lat/Lon in an infobox
+                map.on('mousemove', onMouseMove);
+            }
+
+
+
+            // Set listener for onZoomEnd
+            map.on('zoomend', onZoomEnd);
+
+            // Refresh data every minute
+            window.setInterval(UpdateMap, 50000);
+
+
+        </script>
+        </script>
+    </div>
+
+
+<div class="container instructions">
+<h3> How do I use this map?</h3>
+    - Select layers with icon in upper right corner <br>
+    - Click on items to get info including location, time and event number<br>
+    - Subset times using the calendar fields at the top of the page. Note, this will reset the map, so select time before selecting layers <br>
+    - If you don't see any background imagery, visit <a href=https://dasng.nbp.usap.gov>https://dasng.nbp.usap.gov</a>
+    click "advanced" and "proceed to dasng.nbp.usap.gov (unsafe)" or similar, then come back here and refresh the page. This will tell your browser to trust data coming from NBP's servers <br>
+    - You can use the ruler on the left to get a distance between points. Do the same with <a href=https://maps.nbp.usap.gov>https://maps.nbp.usap.gov</a>  to get map layers<br>
+    - Points of interest can be added to the map by editing a file on the science drive science/NBP2202/data-to-map/points-for-map.txt.
+    You can right-click on the map and select "show coordinates" where you wish to place a pin. NB These points can take up to a minute appear on the map & will require a refresh
+<h3> Where are the data coming from?</h3>
+    - Ships's track and several background layers like place names and GEBCO bathymetry are pulled from the ship's systems in the same manner as the NBP map<br>
+    - AMSR ice extent and MODIS imagery are created from the AMSR and MODIS geotiffs using gdal2tiles (thanks Ashley!) and gdalwarp (thanks Li!). This is updated daily<br>
+    - Glider data are pulled from a database that is updated a few times a day<br>
+    - Other datasets are automagically parsed from the event log. You can see the scripts used to perform this on the science drive in "data-to-map"<br>
+    - Want to see your dataset on here? Talk to Callum :) <br>
+<h3> What else is here?</h3>
+    - This website is based on the <a href="ueaglider.uea.ac.uk">ueaglider website</a> with modifications to pull data from NBP rather than the internet <br>
+    - All code is available in a <a href="github.com/ueaglider/ueaglider-web">GitHub repo</a> or from Callum <br>
+    - This is a work in progress! Any feedback is much appreciated
+</div>
+{% endblock %}
+

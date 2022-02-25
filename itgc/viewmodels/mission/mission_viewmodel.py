@@ -5,11 +5,24 @@ import glob
 import datetime
 import pandas as pd
 import numpy as np
-
+from typing import Optional
+import flask
+from flask import Request
 folder = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 sys.path.insert(0, folder)
+from itgc.infrastructure import request_dict
 
-from itgc.viewmodels.shared.viewmodelbase import ViewModelBase
+
+class ViewModelBase:
+    def __init__(self):
+        self.request: Request = flask.request
+        self.request_dict = request_dict.create('')
+        self.year = datetime.datetime.now().year
+        self.error: Optional[str] = None
+        self.message: Optional[str] = None
+
+    def to_dict(self):
+        return self.__dict__
 
 blank_json_dict = {"type": "FeatureCollection", "features": []}
 
@@ -47,9 +60,6 @@ class MissionViewModel(ViewModelBase):
         self.mission_list = []
         self.targets = blank_json_dict
         self.lon, self.lat = 1.236, 52.624
-        self.waypoints = blank_json_dict
-        self.waypointdict = blank_json_dict
-        self.targetdict = blank_json_dict
         self.start = self.request_dict.start
         self.end = self.request_dict.end
         self.start_time = self.request_dict.start_time
@@ -85,11 +95,8 @@ class MissionViewModel(ViewModelBase):
         # dives, mission_gliders, dives_by_glider, most_recent_dives = blank_json_dict, blank_json_dict, blank_json_dict, blank_json_dict
         dives_by_glider = []
         if not dives_by_glider:
-            self.zoom = 'No dives yet for this mission'
-            self.dive_page_links = []
             self.recentdivesdict = blank_json_dict
             self.dives_by_glider_json = blank_json_dict
-            self.dives_by_glider_json_dupe = []
             self.lines_by_glider_json = blank_json_dict
         isobath_dict = {}
         mission_folder = folder + '/static/json/isobaths'

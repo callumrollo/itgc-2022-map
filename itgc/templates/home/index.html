@@ -1,6 +1,16 @@
-{% extends "layout.html" %}
-
-{% block additional_css %}
+<!DOCTYPE html>
+<html lang="en">
+<!-- This is a common layout for all the other pages -->
+<head>
+    <meta charset="UTF-8">
+    <!--meta http-equiv="Content-Security-Policy" content="script-src 'self' 'nonce-{{nonce}}' *.jsdelivr.net *.bootstrapcdn.com unpkg.com; img-src *;"-->
+    <!-- CSS and javascript for bootstrap-->
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css"/>
+    <script src="static/js/popper.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <!-- CSS from our static folder-->
+    <link rel="stylesheet" href="/static/css/site.css"/>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
 
     <!-- Link to leaflet CSS and javascript for maps-->
     <link rel="stylesheet" href="/static/css/leaflet.css"/>
@@ -34,27 +44,10 @@
     <script src="static/js/leaflet_006.js"></script>
 
 
-{% endblock %}
-
-{% block extra_nav %}
-
-    <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Select Mission
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            {% for m in mission_list %}
-                <a class="dropdown-item" href="/mission{{ m.Number }}" >Mission {{ m.Number }} {{ m.Name }}</a>
-            {% endfor %}
-        </div>
-    </li>
+</head>
 
 
-
-{% endblock %}
-
-{% block main_content %}
-
+    <body>
         <div class="container timesel">
         <table class="table">
             <thead>
@@ -629,5 +622,4 @@
     - All code is available in a <a href="github.com/ueaglider/ueaglider-web">GitHub repo</a> or from Callum <br>
     - This is a work in progress! Any feedback is much appreciated
 </div>
-{% endblock %}
-
+</body>

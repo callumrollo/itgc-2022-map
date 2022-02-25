@@ -79,8 +79,6 @@
 
             // geojson layers passed from view method
             let divesDict = JSON.parse('{{ glider_dives_dict | tojson | safe}}');
-            let linesDict = JSON.parse('{{ glider_lines_dict | tojson | safe}}');
-            let latestDivesDict = JSON.parse('{{ glider_locs_dict| tojson | safe}}');
             // Extra databases for ITGC
             let ctdDict = JSON.parse('{{ ctd_dict| tojson | safe}}');
             let tmcDict = JSON.parse('{{ tmc_dict| tojson | safe}}');
@@ -324,10 +322,7 @@
                 }
             }
             // Use layer group for gliders
-            let glidersLayer = L.layerGroup([
-                L.geoJson(linesDict, {style: style}),
-
-                L.geoJson(divesDict, {
+            let glidersLayer = L.geoJson(divesDict, {
                     pointToLayer: function (feature, latlng) {
                         return new L.CircleMarker(latlng, {radius: 5,
                             fillOpacity: 0.8,
@@ -336,17 +331,7 @@
                             weight: 1,});
                     },
                     onEachFeature: popupText
-                }),
-
-                L.geoJSON(latestDivesDict, {
-                    pointToLayer: function (feature, latlng) {
-                        return L.marker(latlng, {icon: seagliderIcon});
-                    },
-                    onEachFeature: popupText
-                }),
-
-
-            ])
+                })
 
 
             // Extra ITGC layers
@@ -378,10 +363,9 @@
 
             let tmcLayer = L.layerGroup([L.geoJson(tmcDict, {
                 pointToLayer: function (feature, latlng) {
-                    return new L.CircleMarker(latlng, {radius: 5,
-                        fillOpacity: 0.8,
+                    return new L.CircleMarker(latlng, {radius: 7,
                         color: 'black',
-                        fillColor: 'grey',
+                        fillColor: '#b523ff',
                         weight: 1,});
                 },
                 onEachFeature: popupText

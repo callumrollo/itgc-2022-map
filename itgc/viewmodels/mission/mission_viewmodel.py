@@ -8,6 +8,7 @@ import numpy as np
 from typing import Optional
 import flask
 from flask import Request
+
 folder = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 sys.path.insert(0, folder)
 from itgc.infrastructure import request_dict
@@ -45,6 +46,7 @@ def subset_json_times(json_dict, start_time, end_time):
             features_in_time.append(feature)
     json_dict['features'] = features_in_time
     return json_dict
+
 
 blank_json_dict = {"type": "FeatureCollection", "features": []}
 
@@ -113,7 +115,6 @@ class MissionViewModel(ViewModelBase):
             self.end_dt = datetime.datetime(int(self.end[:4]), int(self.end[5:7]), int(self.end[8:]),
                                             end_hour, end_min)
 
-    def check_dives(self):
         isobath_dict = {}
         mission_folder = folder + '/static/json/isobaths'
         for depth in [50, 200, 500, 1000]:
@@ -125,7 +126,7 @@ class MissionViewModel(ViewModelBase):
     def add_events(self):
         event_dir = folder + '/static/nbp_data/'
         for dataset in ['ctd', 'tmc', 'core', 'thor', 'hugin', 'alr', 'vmp', 'ship', 'wp', 'points', 'ship_days',
-                        'hugin_bottle', 'fish', 'glider_dives', 'glider_locs', 'glider_lines']:
+                        'hugin_bottle', 'fish', 'glider_dives']:
             try:
                 if self.hidef_ship_track and dataset == 'ship':
                     df = pd.read_csv(f"{event_dir}1_min_nrt.csv", parse_dates=['datetime'])
@@ -199,7 +200,5 @@ class MissionViewModel(ViewModelBase):
         self.time_message = f"{self.start} {self.pre_start_time} to {self.end} {self.pre_end_time}"
         if len(self.time_message) < 10:
             self.time_message = ""
-        print('time_message', self.time_message)
-        print(len(self.time_message))
         self.start_time = None
         self.end_time = None

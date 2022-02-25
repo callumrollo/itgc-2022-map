@@ -24,6 +24,28 @@ class ViewModelBase:
     def to_dict(self):
         return self.__dict__
 
+
+def subset_json_times(json_dict, start_time, end_time):
+    features = json_dict['features']
+    features_in_time = []
+    for feature in features:
+        try:
+            start = datetime.datetime.fromisoformat(feature['start'])
+        except:
+            try:
+                start = datetime.datetime.fromisoformat(feature['end'])
+            except:
+                features_in_time.append(feature)
+                continue
+        try:
+            end = datetime.datetime.fromisoformat(feature['end'])
+        except:
+            end = start
+        if start_time <= start <= end_time or start_time <= end <= end_time:
+            features_in_time.append(feature)
+    json_dict['features'] = features_in_time
+    return json_dict
+
 blank_json_dict = {"type": "FeatureCollection", "features": []}
 
 
@@ -92,12 +114,6 @@ class MissionViewModel(ViewModelBase):
                                             end_hour, end_min)
 
     def check_dives(self):
-        # dives, mission_gliders, dives_by_glider, most_recent_dives = blank_json_dict, blank_json_dict, blank_json_dict, blank_json_dict
-        dives_by_glider = []
-        if not dives_by_glider:
-            self.recentdivesdict = blank_json_dict
-            self.dives_by_glider_json = blank_json_dict
-            self.lines_by_glider_json = blank_json_dict
         isobath_dict = {}
         mission_folder = folder + '/static/json/isobaths'
         for depth in [50, 200, 500, 1000]:
@@ -109,7 +125,7 @@ class MissionViewModel(ViewModelBase):
     def add_events(self):
         event_dir = folder + '/static/nbp_data/'
         for dataset in ['ctd', 'tmc', 'core', 'thor', 'hugin', 'alr', 'vmp', 'ship', 'wp', 'points', 'ship_days',
-                        'hugin_bottle', 'fish']:
+                        'hugin_bottle', 'fish', 'glider_dives', 'glider_locs', 'glider_lines']:
             try:
                 if self.hidef_ship_track and dataset == 'ship':
                     df = pd.read_csv(f"{event_dir}1_min_nrt.csv", parse_dates=['datetime'])
@@ -132,26 +148,15 @@ class MissionViewModel(ViewModelBase):
                     self.__setattr__(f"{dataset}_dict", tgtdict)
                     continue
                 with open(f"{event_dir}{dataset}.json") as json_to_load:
-                    json_dict = json.load(json_to_load)
-                features = json_dict['features']
-                features_in_time = []
-                for feature in features:
-                    try:
-                        start = datetime.datetime.fromisoformat(feature['start'])
-                    except:
-                        try:
-                            start = datetime.datetime.fromisoformat(feature['end'])
-                        except:
-                            features_in_time.append(feature)
-                            continue
-                    try:
-                        end = datetime.datetime.fromisoformat(feature['end'])
-                    except:
-                        end = start
-                    if self.start_dt <= start <= self.end_dt or self.start_dt <= end <= self.end_dt:
-                        features_in_time.append(feature)
-                    json_dict['features'] = features_in_time
-                self.__setattr__(f"{dataset}_dict", json_dict)
+                    json_obj = json.load(json_to_load)
+                if type(json_obj) == list:
+                    json_dict_sub = []
+                    for json_dictionary in json_obj:
+                        json_sub = subset_json_times(json_dictionary, self.start_dt, self.end_dt)
+                        json_dict_sub.append(json_sub)
+                else:
+                    json_dict_sub = subset_json_times(json_obj, self.start_dt, self.end_dt)
+                self.__setattr__(f"{dataset}_dict", json_dict_sub)
             except:
                 self.__setattr__(f"{dataset}_dict", blank_json_dict)
         try:
@@ -191,5 +196,10 @@ class MissionViewModel(ViewModelBase):
             self.polar_dict = {}
         self.pre_start_time = self.start_time
         self.pre_end_time = self.end_time
+        self.time_message = f"{self.start} {self.pre_start_time} to {self.end} {self.pre_end_time}"
+        if len(self.time_message) < 10:
+            self.time_message = ""
+        print('time_message', self.time_message)
+        print(len(self.time_message))
         self.start_time = None
         self.end_time = None

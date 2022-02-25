@@ -68,7 +68,7 @@
             <div style="clear: both;"></div></form>
             </tbody>
         </table>
-        {{ start }} {{ pre_start_time }} - {{ end }} {{ pre_end_time }}
+        {{ time_message }}
     </div>
 
 
@@ -78,9 +78,9 @@
         <script nonce="{{ nonce }}">
 
             // geojson layers passed from view method
-            let divesDict = JSON.parse('{{ dives_by_glider_json| tojson | safe}}');
-            let linesDict = JSON.parse('{{ lines_by_glider_json| tojson | safe}}');
-            let latestDivesDict = JSON.parse('{{ recentdivesdict| tojson | safe}}');
+            let divesDict = JSON.parse('{{ glider_dives_dict | tojson | safe}}');
+            let linesDict = JSON.parse('{{ glider_lines_dict | tojson | safe}}');
+            let latestDivesDict = JSON.parse('{{ glider_locs_dict| tojson | safe}}');
             // Extra databases for ITGC
             let ctdDict = JSON.parse('{{ ctd_dict| tojson | safe}}');
             let tmcDict = JSON.parse('{{ tmc_dict| tojson | safe}}');

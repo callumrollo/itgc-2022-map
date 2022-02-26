@@ -346,17 +346,17 @@
 
             let tmcLayer = L.layerGroup([L.geoJson(tmcDict, {
                 pointToLayer: function (feature, latlng) {
-                    return new L.CircleMarker(latlng, {radius: 6,
+                    return new L.CircleMarker(latlng, {radius: 8,
                         fillOpacity: 1.0,
                         color: 'black',
-                        fillColor: '#b523ff',
+                        fillColor: 'red',
                         weight: 1,});
                 },
                 onEachFeature: popupText
             }),
                 L.geoJson(fishDict, {
                 pointToLayer: function (feature, latlng) {
-                    return new L.CircleMarker(latlng, {radius: 5,
+                    return new L.CircleMarker(latlng, {radius: 4,
                         fillOpacity: 0.8,
                         color: 'black',
                         fillColor: 'red',

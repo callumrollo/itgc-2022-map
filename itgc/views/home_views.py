@@ -8,6 +8,7 @@ blueprint = flask.Blueprint('home', __name__, template_folder='templates')
 @response(template_file='/home/index.html')
 def index_get():
     vm = MissionViewModel()
+    vm.add_events()
     return vm.to_dict()
 
 

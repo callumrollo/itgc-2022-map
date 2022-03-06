@@ -1,0 +1,3525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.908516666667,
+          -73.1141333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.66<br>73\u00b0 6.85'S         113\u00b0 54.51' W<br>Event: Start of VMP test and cast?!<br>Start: 2022-01-16 14:55:00<br>End: 2022-01-16 15:37:00"
+      },
+      "id": 65,
+      "start": "2022-01-16T14:55:00",
+      "end": "2022-01-16T15:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.888883333333,
+          -73.1109166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.73<br>73\u00b0 6.66'S         113\u00b0 53.33' W<br>Event: VMP Section<br>Start: 2022-01-16 15:38:00<br>End: 2022-01-16 16:10:00"
+      },
+      "id": 72,
+      "start": "2022-01-16T15:38:00",
+      "end": "2022-01-16T16:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.87100000000001,
+          -73.1079333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.74<br>73\u00b0 6.48'S         113\u00b0 52.26' W<br>Event: VMP Section<br>Start: 2022-01-16 16:11:00<br>End: 2022-01-16 16:26:00"
+      },
+      "id": 73,
+      "start": "2022-01-16T16:11:00",
+      "end": "2022-01-16T16:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.853033333333,
+          -73.1047833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.75<br>73\u00b0 6.29'S         113\u00b0 51.18' W<br>Event: VMP Section<br>Start: NaT<br>End: 2022-01-16 17:12:00"
+      },
+      "id": 74,
+      "start": "NaT",
+      "end": "2022-01-16T17:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.83755,
+          -73.10235
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.76<br>73\u00b0 6.14'S         113\u00b0 50.25' W<br>Event: VMP Section<br>Start: 2022-01-16 17:12:00<br>End: 2022-01-16 17:45:00"
+      },
+      "id": 75,
+      "start": "2022-01-16T17:12:00",
+      "end": "2022-01-16T17:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.81073333333299,
+          -73.0979166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.77<br>73\u00b0 5.88'S         113\u00b0 48.64' W<br>Event: VMP Section<br>Start: 2022-01-16 17:45:00<br>End: 2022-01-16 18:15:00"
+      },
+      "id": 76,
+      "start": "2022-01-16T17:45:00",
+      "end": "2022-01-16T18:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.790733333333,
+          -73.0945
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.78<br>73\u00b0 5.67'S         113\u00b0 47.44' W<br>Event: VMP Section<br>Start: 2022-01-16 18:17:00<br>End: 2022-01-16 18:55:00"
+      },
+      "id": 77,
+      "start": "2022-01-16T18:17:00",
+      "end": "2022-01-16T18:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8676,
+          -74.2167166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.149<br>74\u00b0 13.0'S         111\u00b0 52.06' W<br>Event: VMP Section<br>Start: 2022-01-21 15:10:00<br>End: 2022-01-21 15:21:00"
+      },
+      "id": 148,
+      "start": "2022-01-21T15:10:00",
+      "end": "2022-01-21T15:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.87543333333299,
+          -74.21696666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.150<br>74\u00b0 13.02'S         111\u00b0 52.53' W<br>Event: VMP Section<br>Start: 2022-01-21 15:23:00<br>End: 2022-01-21 15:34:00"
+      },
+      "id": 149,
+      "start": "2022-01-21T15:23:00",
+      "end": "2022-01-21T15:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.88585,
+          -74.2174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.151<br>74\u00b0 13.04'S         111\u00b0 53.15' W<br>Event: VMP Section<br>Start: 2022-01-21 15:34:00<br>End: 2022-01-21 15:47:00"
+      },
+      "id": 150,
+      "start": "2022-01-21T15:34:00",
+      "end": "2022-01-21T15:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.900783333333,
+          -74.218
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.152<br>74\u00b0 13.08'S         111\u00b0 54.05' W<br>Event: VMP Section<br>Start: 2022-01-21 15:49:00<br>End: 2022-01-21 16:06:00"
+      },
+      "id": 151,
+      "start": "2022-01-21T15:49:00",
+      "end": "2022-01-21T16:06:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92945,
+          -74.21905
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.153<br>74\u00b0 13.14'S         111\u00b0 55.77' W<br>Event: VMP Section<br>Start: 2022-01-21 16:07:00<br>End: 2022-01-21 16:33:00"
+      },
+      "id": 152,
+      "start": "2022-01-21T16:07:00",
+      "end": "2022-01-21T16:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9685,
+          -74.2205166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.154<br>74\u00b0 13.23'S         111\u00b0 58.11' W<br>Event: VMP Section<br>Start: 2022-01-21 16:34:00<br>End: 2022-01-21 17:21:00"
+      },
+      "id": 153,
+      "start": "2022-01-21T16:34:00",
+      "end": "2022-01-21T17:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0379,
+          -74.2232
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.155<br>74\u00b0 13.39'S         112\u00b0 2.27' W<br>Event: VMP Section<br>Start: 2022-01-21 17:21:00<br>End: 2022-01-21 18:25:00"
+      },
+      "id": 154,
+      "start": "2022-01-21T17:21:00",
+      "end": "2022-01-21T18:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.13285,
+          -74.2274833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.156<br>74\u00b0 13.65'S         112\u00b0 7.97' W<br>Event: VMP Section<br>Start: 2022-01-21 18:25:00<br>End: 2022-01-21 19:21:00"
+      },
+      "id": 155,
+      "start": "2022-01-21T18:25:00",
+      "end": "2022-01-21T19:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.214133333333,
+          -74.2311333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.157<br>74\u00b0 13.87'S         112\u00b0 12.85' W<br>Event: VMP Section<br>Start: 2022-01-21 19:21:00<br>End: 2022-01-21 20:31:00"
+      },
+      "id": 156,
+      "start": "2022-01-21T19:21:00",
+      "end": "2022-01-21T20:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.315333333333,
+          -74.2355666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.158<br>74\u00b0 14.13'S         112\u00b0 18.92' W<br>Event: VMP Section<br>Start: 2022-01-21 20:32:00<br>End: 2022-01-21 21:56:00"
+      },
+      "id": 157,
+      "start": "2022-01-21T20:32:00",
+      "end": "2022-01-21T21:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.33955,
+          -74.1444333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.171<br>74\u00b0 8.67'S         113\u00b0 20.37' W<br>Event: VMP Section<br>Start: 2022-01-22 17:36:00<br>End: 2022-01-22 18:17:00"
+      },
+      "id": 170,
+      "start": "2022-01-22T17:36:00",
+      "end": "2022-01-22T18:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32833333333299,
+          -74.1532166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.172<br>74\u00b0 9.19'S         113\u00b0 19.7' W<br>Event: VMP Section<br>Start: 2022-01-22 18:18:00<br>End: 2022-01-22 18:43:00"
+      },
+      "id": 171,
+      "start": "2022-01-22T18:18:00",
+      "end": "2022-01-22T18:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.324316666667,
+          -74.1563833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.173<br>74\u00b0 9.38'S         113\u00b0 19.46' W<br>Event: VMP Section<br>Start: 2022-01-22 18:43:00<br>End: 2022-01-22 19:06:00"
+      },
+      "id": 172,
+      "start": "2022-01-22T18:43:00",
+      "end": "2022-01-22T19:06:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.320166666667,
+          -74.1595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.174<br>74\u00b0 9.57'S         113\u00b0 19.21' W<br>Event: VMP Section<br>Start: 2022-01-22 19:06:00<br>End: 2022-01-22 19:30:00"
+      },
+      "id": 173,
+      "start": "2022-01-22T19:06:00",
+      "end": "2022-01-22T19:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.31535,
+          -74.1623
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.175<br>74\u00b0 9.74'S         113\u00b0 18.92' W<br>Event: VMP Section<br>Start: 2022-01-22 19:30:00<br>End: 2022-01-22 19:56:00"
+      },
+      "id": 174,
+      "start": "2022-01-22T19:30:00",
+      "end": "2022-01-22T19:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.307033333333,
+          -74.1646166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.176<br>74\u00b0 9.88'S         113\u00b0 18.42' W<br>Event: VMP Section<br>Start: 2022-01-22 19:56:00<br>End: 2022-01-22 20:29:00"
+      },
+      "id": 175,
+      "start": "2022-01-22T19:56:00",
+      "end": "2022-01-22T20:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.295066666667,
+          -74.1675833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.177<br>74\u00b0 10.05'S         113\u00b0 17.7' W<br>Event: VMP Section<br>Start: 2022-01-22 20:30:00<br>End: 2022-01-22 21:02:00"
+      },
+      "id": 176,
+      "start": "2022-01-22T20:30:00",
+      "end": "2022-01-22T21:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2845,
+          -74.1707666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.178<br>74\u00b0 10.25'S         113\u00b0 17.07' W<br>Event: VMP Section<br>Start: 2022-01-22 21:03:00<br>End: 2022-01-22 21:41:00"
+      },
+      "id": 177,
+      "start": "2022-01-22T21:03:00",
+      "end": "2022-01-22T21:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.179<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 178,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.26875,
+          -74.1737666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.180<br>74\u00b0 10.43'S         113\u00b0 16.12' W<br>Event: VMP Section<br>Start: 2022-01-22 21:42:00<br>End: 2022-01-22 22:15:00"
+      },
+      "id": 179,
+      "start": "2022-01-22T21:42:00",
+      "end": "2022-01-22T22:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.25126666666701,
+          -74.1747833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.181<br>74\u00b0 10.49'S         113\u00b0 15.08' W<br>Event: VMP Section<br>Start: 2022-01-22 22:16:00<br>End: 2022-01-22 22:55:00"
+      },
+      "id": 180,
+      "start": "2022-01-22T22:16:00",
+      "end": "2022-01-22T22:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.227066666667,
+          -74.1747166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.182<br>74\u00b0 10.48'S         113\u00b0 13.62' W<br>Event: VMP Section<br>Start: 2022-01-22 22:56:00<br>End: 2022-01-22 23:37:00"
+      },
+      "id": 181,
+      "start": "2022-01-22T22:56:00",
+      "end": "2022-01-22T23:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.20126666666701,
+          -74.17475
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.183<br>74\u00b0 10.49'S         113\u00b0 12.08' W<br>Event: VMP Section<br>Start: 2022-01-22 23:38:00<br>End: 2022-01-23 00:19:00"
+      },
+      "id": 182,
+      "start": "2022-01-22T23:38:00",
+      "end": "2022-01-23T00:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.255966666667,
+          -74.2411333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.212<br>74\u00b0 14.47'S         112\u00b0 15.36' W<br>Event: VMP Section<br>Start: 2022-01-24 23:08:00<br>End: 2022-01-25 00:00:00"
+      },
+      "id": 211,
+      "start": "2022-01-24T23:08:00",
+      "end": "2022-01-25T00:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.225266666667,
+          -74.2397166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.213<br>74\u00b0 14.38'S         112\u00b0 13.52' W<br>Event: VMP Section<br>Start: 2022-01-25 00:00:00<br>End: 2022-01-25 00:47:00"
+      },
+      "id": 212,
+      "start": "2022-01-25T00:00:00",
+      "end": "2022-01-25T00:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.199216666667,
+          -74.2374833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.214<br>74\u00b0 14.25'S         112\u00b0 11.95' W<br>Event: VMP Section<br>Start: 2022-01-25 00:47:00<br>End: 2022-01-25 01:39:00"
+      },
+      "id": 213,
+      "start": "2022-01-25T00:47:00",
+      "end": "2022-01-25T01:39:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.170183333333,
+          -74.2347333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.215<br>74\u00b0 14.08'S         112\u00b0 10.21' W<br>Event: VMP Section<br>Start: 2022-01-25 01:39:00<br>End: 2022-01-25 02:22:00"
+      },
+      "id": 214,
+      "start": "2022-01-25T01:39:00",
+      "end": "2022-01-25T02:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.144016666667,
+          -74.23235
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.216<br>74\u00b0 13.94'S         112\u00b0 8.64' W<br>Event: VMP Section<br>Start: 2022-01-25 02:23:00<br>End: 2022-01-25 03:02:00"
+      },
+      "id": 215,
+      "start": "2022-01-25T02:23:00",
+      "end": "2022-01-25T03:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.12055,
+          -74.2302
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.217<br>74\u00b0 13.81'S         112\u00b0 7.23' W<br>Event: VMP Section<br>Start: 2022-01-25 03:03:00<br>End: 2022-01-25 03:51:00"
+      },
+      "id": 216,
+      "start": "2022-01-25T03:03:00",
+      "end": "2022-01-25T03:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.093066666667,
+          -74.22785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.218<br>74\u00b0 13.67'S         112\u00b0 5.58' W<br>Event: VMP Section<br>Start: 2022-01-25 03:51:00<br>End: 2022-01-25 04:34:00"
+      },
+      "id": 217,
+      "start": "2022-01-25T03:51:00",
+      "end": "2022-01-25T04:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.06726666666701,
+          -74.2258166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.219<br>74\u00b0 13.55'S         112\u00b0 4.04' W<br>Event: VMP Section<br>Start: 2022-01-25 04:35:00<br>End: 2022-01-25 05:17:00"
+      },
+      "id": 218,
+      "start": "2022-01-25T04:35:00",
+      "end": "2022-01-25T05:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.04,
+          -74.2243166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.220<br>74\u00b0 13.46'S         112\u00b0 2.4' W<br>Event: VMP Section<br>Start: 2022-01-25 05:18:00<br>End: 2022-01-25 05:55:00"
+      },
+      "id": 219,
+      "start": "2022-01-25T05:18:00",
+      "end": "2022-01-25T05:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.015666666667,
+          -74.22353333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.221<br>74\u00b0 13.41'S         112\u00b0 0.94' W<br>Event: VMP Section<br>Start: 2022-01-25 05:56:00<br>End: 2022-01-25 06:41:00"
+      },
+      "id": 220,
+      "start": "2022-01-25T05:56:00",
+      "end": "2022-01-25T06:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.087966666667,
+          -74.22715
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.231<br>74\u00b0 13.63'S         112\u00b0 5.28' W<br>Event: VMP Section<br>Start: 2022-01-24 18:08:00<br>End: 2022-01-24 17:01:00"
+      },
+      "id": 230,
+      "start": "2022-01-24T18:08:00",
+      "end": "2022-01-24T17:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.098583333333,
+          -74.21255
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.232<br>74\u00b0 12.75'S         112\u00b0 5.91' W<br>Event: VMP Section<br>Start: 2022-01-24 19:02:00<br>End: 2022-01-24 19:47:00"
+      },
+      "id": 231,
+      "start": "2022-01-24T19:02:00",
+      "end": "2022-01-24T19:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.10701666666701,
+          -74.2003666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.233<br>74\u00b0 12.02'S         112\u00b0 6.42' W<br>Event: VMP Section<br>Start: 2022-01-24 19:48:00<br>End: 2022-01-24 20:33:00"
+      },
+      "id": 232,
+      "start": "2022-01-24T19:48:00",
+      "end": "2022-01-24T20:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11686666666701,
+          -74.1186666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.234<br>74\u00b0 7.12'S         112\u00b0 7.01' W<br>Event: VMP Section<br>Start: 2022-01-24 20:33:00<br>End: 2022-01-24 21:29:00"
+      },
+      "id": 233,
+      "start": "2022-01-24T20:33:00",
+      "end": "2022-01-24T21:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.343083333333,
+          -74.1064
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.322<br>74\u00b0 6.38'S         113\u00b0 20.58' W<br>Event: VMP Section<br>Start: 2022-01-28 12:49:00<br>End: 2022-01-28 13:03:00"
+      },
+      "id": 321,
+      "start": "2022-01-28T12:49:00",
+      "end": "2022-01-28T13:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.33735,
+          -74.1075166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.323<br>74\u00b0 6.45'S         113\u00b0 20.24' W<br>Event: VMP Section<br>Start: 2022-01-28 13:04:00<br>End: 2022-01-28 13:19:00"
+      },
+      "id": 322,
+      "start": "2022-01-28T13:04:00",
+      "end": "2022-01-28T13:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3308,
+          -74.10865
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.324<br>74\u00b0 6.52'S         113\u00b0 19.85' W<br>Event: VMP Section<br>Start: 2022-01-28 13:20:00<br>End: 2022-01-28 13:36:00"
+      },
+      "id": 323,
+      "start": "2022-01-28T13:20:00",
+      "end": "2022-01-28T13:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.323766666667,
+          -74.1098
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.325<br>74\u00b0 6.59'S         113\u00b0 19.43' W<br>Event: VMP Section<br>Start: 2022-01-28 13:37:00<br>End: 2022-01-28 13:57:00"
+      },
+      "id": 324,
+      "start": "2022-01-28T13:37:00",
+      "end": "2022-01-28T13:57:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.314933333333,
+          -74.1111833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.326<br>74\u00b0 6.67'S         113\u00b0 18.9' W<br>Event: VMP Section<br>Start: 2022-01-28 13:58:00<br>End: 2022-01-28 14:22:00"
+      },
+      "id": 325,
+      "start": "2022-01-28T13:58:00",
+      "end": "2022-01-28T14:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3043,
+          -74.1128666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.327<br>74\u00b0 6.77'S         113\u00b0 18.26' W<br>Event: VMP Section<br>Start: 2022-01-28 14:23:00<br>End: 2022-01-28 14:49:00"
+      },
+      "id": 326,
+      "start": "2022-01-28T14:23:00",
+      "end": "2022-01-28T14:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.29371666666701,
+          -74.1145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.328<br>74\u00b0 6.87'S         113\u00b0 17.62' W<br>Event: VMP Section<br>Start: 2022-01-28 14:49:00<br>End: 2022-01-28 15:14:00"
+      },
+      "id": 327,
+      "start": "2022-01-28T14:49:00",
+      "end": "2022-01-28T15:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.28256666666701,
+          -74.11515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.329<br>74\u00b0 6.91'S         113\u00b0 16.95' W<br>Event: VMP Section<br>Start: 2022-01-28 15:15:00<br>End: 2022-01-28 15:38:00"
+      },
+      "id": 328,
+      "start": "2022-01-28T15:15:00",
+      "end": "2022-01-28T15:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.27276666666701,
+          -74.1173166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.330<br>74\u00b0 7.04'S         113\u00b0 16.37' W<br>Event: VMP Section<br>Start: 2022-01-28 15:38:00<br>End: 2022-01-28 16:03:00"
+      },
+      "id": 329,
+      "start": "2022-01-28T15:38:00",
+      "end": "2022-01-28T16:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.26195,
+          -74.1193
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.331<br>74\u00b0 7.16'S         113\u00b0 15.72' W<br>Event: VMP Section<br>Start: 2022-01-28 16:03:00<br>End: 2022-01-28 16:29:00"
+      },
+      "id": 330,
+      "start": "2022-01-28T16:03:00",
+      "end": "2022-01-28T16:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.251183333333,
+          -74.12095
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.332<br>74\u00b0 7.26'S         113\u00b0 15.07' W<br>Event: VMP Section<br>Start: 2022-01-28 16:29:00<br>End: 2022-01-28 16:55:00"
+      },
+      "id": 331,
+      "start": "2022-01-28T16:29:00",
+      "end": "2022-01-28T16:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.23925,
+          -74.1228166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.333<br>74\u00b0 7.37'S         113\u00b0 14.35' W<br>Event: VMP Section<br>Start: 2022-01-28 16:56:00<br>End: 2022-01-28 17:23:00"
+      },
+      "id": 332,
+      "start": "2022-01-28T16:56:00",
+      "end": "2022-01-28T17:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.227666666667,
+          -74.1245833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.334<br>74\u00b0 7.47'S         113\u00b0 13.66' W<br>Event: VMP Section<br>Start: 2022-01-28 17:23:00<br>End: 2022-01-28 17:51:00"
+      },
+      "id": 333,
+      "start": "2022-01-28T17:23:00",
+      "end": "2022-01-28T17:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.21576666666701,
+          -74.1264333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP014<br>Event no.335<br>74\u00b0 7.59'S         113\u00b0 12.95' W<br>Event: VMP Section<br>Start: 2022-01-28 17:51:00<br>End: 2022-01-28 18:16:00"
+      },
+      "id": 334,
+      "start": "2022-01-28T17:51:00",
+      "end": "2022-01-28T18:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.205333333333,
+          -74.1280333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP015<br>Event no.336<br>74\u00b0 7.68'S         113\u00b0 12.32' W<br>Event: VMP Section<br>Start: 2022-01-28 18:16:00<br>End: 2022-01-28 18:43:00"
+      },
+      "id": 335,
+      "start": "2022-01-28T18:16:00",
+      "end": "2022-01-28T18:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.194083333333,
+          -74.13006666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP016<br>Event no.337<br>74\u00b0 7.8'S         113\u00b0 11.64' W<br>Event: VMP Section<br>Start: 2022-01-28 18:44:00<br>End: 2022-01-28 19:13:00"
+      },
+      "id": 336,
+      "start": "2022-01-28T18:44:00",
+      "end": "2022-01-28T19:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.18241666666701,
+          -74.1323
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP017<br>Event no.338<br>74\u00b0 7.94'S         113\u00b0 10.95' W<br>Event: VMP Section<br>Start: 2022-01-28 19:14:00<br>End: 2022-01-28 19:41:00"
+      },
+      "id": 337,
+      "start": "2022-01-28T19:14:00",
+      "end": "2022-01-28T19:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.168916666667,
+          -74.1342833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP019<br>Event no.339<br>74\u00b0 8.06'S         113\u00b0 10.14' W<br>Event: VMP Section<br>Start: 2022-01-28 19:45:00<br>End: 2022-01-28 20:14:00"
+      },
+      "id": 338,
+      "start": "2022-01-28T19:45:00",
+      "end": "2022-01-28T20:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.156033333333,
+          -74.1360833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP020<br>Event no.340<br>74\u00b0 8.16'S         113\u00b0 9.36' W<br>Event: VMP Section<br>Start: 2022-01-28 20:15:00<br>End: 2022-01-28 20:45:00"
+      },
+      "id": 339,
+      "start": "2022-01-28T20:15:00",
+      "end": "2022-01-28T20:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.143583333333,
+          -74.1380666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP021<br>Event no.341<br>74\u00b0 8.28'S         113\u00b0 8.61' W<br>Event: VMP Section<br>Start: 2022-01-28 20:46:00<br>End: 2022-01-28 21:21:00"
+      },
+      "id": 340,
+      "start": "2022-01-28T20:46:00",
+      "end": "2022-01-28T21:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1288,
+          -74.1402666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP022<br>Event no.342<br>74\u00b0 8.42'S         113\u00b0 7.73' W<br>Event: VMP Section<br>Start: 2022-01-28 21:22:00<br>End: 2022-01-28 21:57:00"
+      },
+      "id": 341,
+      "start": "2022-01-28T21:22:00",
+      "end": "2022-01-28T21:57:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.36556666666701,
+          -74.0467
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.343<br>74\u00b0 2.8'S         113\u00b0 21.93' W<br>Event: VMP Section<br>Start: 2022-01-28 23:25:00<br>End: 2022-01-28 23:45:00"
+      },
+      "id": 342,
+      "start": "2022-01-28T23:25:00",
+      "end": "2022-01-28T23:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35743333333299,
+          -74.0482
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.344<br>74\u00b0 2.89'S         113\u00b0 21.45' W<br>Event: VMP Section<br>Start: 2022-01-28 23:46:00<br>End: 2022-01-29 00:08:00"
+      },
+      "id": 343,
+      "start": "2022-01-28T23:46:00",
+      "end": "2022-01-29T00:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.27365,
+          -74.1904833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.345<br>74\u00b0 11.43'S         112\u00b0 16.42' W<br>Event: VMP Section<br>Start: 2022-01-29 12:32:00<br>End: 2022-01-29 13:23:00"
+      },
+      "id": 344,
+      "start": "2022-01-29T12:32:00",
+      "end": "2022-01-29T13:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2475,
+          -74.1895166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.346<br>74\u00b0 11.37'S         112\u00b0 14.85' W<br>Event: VMP Section<br>Start: 2022-01-29 13:23:00<br>End: 2022-01-29 14:20:00"
+      },
+      "id": 345,
+      "start": "2022-01-29T13:23:00",
+      "end": "2022-01-29T14:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21635,
+          -74.18835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.347<br>74\u00b0 11.3'S         112\u00b0 12.98' W<br>Event: VMP Section<br>Start: 2022-01-29 14:24:00<br>End: 2022-01-29 15:20:00"
+      },
+      "id": 346,
+      "start": "2022-01-29T14:24:00",
+      "end": "2022-01-29T15:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.182633333333,
+          -74.1870833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.348<br>74\u00b0 11.22'S         112\u00b0 10.96' W<br>Event: VMP Section<br>Start: 2022-01-29 15:44:00<br>End: 2022-01-29 16:32:00"
+      },
+      "id": 347,
+      "start": "2022-01-29T15:44:00",
+      "end": "2022-01-29T16:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.158633333333,
+          -74.1864
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.349<br>74\u00b0 11.18'S         112\u00b0 9.52' W<br>Event: VMP Section<br>Start: 2022-01-29 16:33:00<br>End: 2022-01-29 17:23:00"
+      },
+      "id": 348,
+      "start": "2022-01-29T16:33:00",
+      "end": "2022-01-29T17:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1333,
+          -74.18525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.350<br>74\u00b0 11.11'S         112\u00b0 8.0' W<br>Event: VMP Section<br>Start: 2022-01-29 17:23:00<br>End: 2022-01-29 17:59:00"
+      },
+      "id": 349,
+      "start": "2022-01-29T17:23:00",
+      "end": "2022-01-29T17:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1144,
+          -74.1845333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.351<br>74\u00b0 11.07'S         112\u00b0 6.86' W<br>Event: VMP Section<br>Start: 2022-01-29 18:00:00<br>End: 2022-01-29 18:41:00"
+      },
+      "id": 350,
+      "start": "2022-01-29T18:00:00",
+      "end": "2022-01-29T18:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0938,
+          -74.1834666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.352<br>74\u00b0 11.01'S         112\u00b0 5.63' W<br>Event: VMP Section<br>Start: 2022-01-29 18:41:00<br>End: 2022-01-29 19:16:00"
+      },
+      "id": 351,
+      "start": "2022-01-29T18:41:00",
+      "end": "2022-01-29T19:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.075666666667,
+          -74.18271666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.353<br>74\u00b0 10.96'S         112\u00b0 4.54' W<br>Event: VMP Section<br>Start: 2022-01-29 19:17:00<br>End: 2022-01-29 19:56:00"
+      },
+      "id": 352,
+      "start": "2022-01-29T19:17:00",
+      "end": "2022-01-29T19:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.055366666667,
+          -74.1819
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.354<br>74\u00b0 10.91'S         112\u00b0 3.32' W<br>Event: VMP Section<br>Start: 2022-01-29 19:57:00<br>End: 2022-01-29 20:29:00"
+      },
+      "id": 353,
+      "start": "2022-01-29T19:57:00",
+      "end": "2022-01-29T20:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0354,
+          -74.1819666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.355<br>74\u00b0 10.92'S         112\u00b0 2.12' W<br>Event: VMP Section<br>Start: 2022-01-29 21:32:00<br>End: 2022-01-29 22:09:00"
+      },
+      "id": 354,
+      "start": "2022-01-29T21:32:00",
+      "end": "2022-01-29T22:09:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.015733333333,
+          -74.1811666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.356<br>74\u00b0 10.87'S         112\u00b0 0.94' W<br>Event: VMP Section<br>Start: 2022-01-29 22:10:00<br>End: 2022-01-29 22:42:00"
+      },
+      "id": 355,
+      "start": "2022-01-29T22:10:00",
+      "end": "2022-01-29T22:42:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.999366666667,
+          -74.18025
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.357<br>74\u00b0 10.82'S         111\u00b0 59.96' W<br>Event: VMP Section<br>Start: 2022-01-29 22:43:00<br>End: 2022-01-29 23:20:00"
+      },
+      "id": 356,
+      "start": "2022-01-29T22:43:00",
+      "end": "2022-01-29T23:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.378906666667,
+          -74.044495
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.368<br>74\u00b0 2.67'S         113\u00b0 22.73' W<br>Event: VMP Section<br>Start: 2022-01-30 12:15:00<br>End: 2022-01-30 12:33:00"
+      },
+      "id": 367,
+      "start": "2022-01-30T12:15:00",
+      "end": "2022-01-30T12:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.37136000000001,
+          -74.0459066666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.369<br>74\u00b0 2.75'S         113\u00b0 22.28' W<br>Event: VMP Section<br>Start: 2022-01-30 12:34:00<br>End: 2022-01-30 12:55:00"
+      },
+      "id": 368,
+      "start": "2022-01-30T12:34:00",
+      "end": "2022-01-30T12:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.36216666666701,
+          -74.0476666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.370<br>74\u00b0 2.86'S         113\u00b0 21.73' W<br>Event: VMP Section<br>Start: 2022-01-30 12:55:00<br>End: 2022-01-30 13:12:00"
+      },
+      "id": 369,
+      "start": "2022-01-30T12:55:00",
+      "end": "2022-01-30T13:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3542,
+          -74.0487666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.371<br>74\u00b0 2.93'S         113\u00b0 21.25' W<br>Event: VMP Section<br>Start: 2022-01-30 13:12:00<br>End: 2022-01-30 13:30:00"
+      },
+      "id": 370,
+      "start": "2022-01-30T13:12:00",
+      "end": "2022-01-30T13:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.345283333333,
+          -74.0502
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.372<br>74\u00b0 3.01'S         113\u00b0 20.72' W<br>Event: VMP Section<br>Start: 2022-01-30 13:30:00<br>End: 2022-01-30 13:50:00"
+      },
+      "id": 371,
+      "start": "2022-01-30T13:30:00",
+      "end": "2022-01-30T13:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.336716666667,
+          -74.05188333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.373<br>74\u00b0 3.11'S         113\u00b0 20.2' W<br>Event: VMP Section<br>Start: 2022-01-30 13:50:00<br>End: 2022-01-30 14:08:00"
+      },
+      "id": 372,
+      "start": "2022-01-30T13:50:00",
+      "end": "2022-01-30T14:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.328083333333,
+          -74.05325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.374<br>74\u00b0 3.2'S         113\u00b0 19.68' W<br>Event: VMP Section<br>Start: 2022-01-30 14:08:00<br>End: 2022-01-30 14:27:00"
+      },
+      "id": 373,
+      "start": "2022-01-30T14:08:00",
+      "end": "2022-01-30T14:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.319616666667,
+          -74.0547333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.375<br>74\u00b0 3.28'S         113\u00b0 19.18' W<br>Event: VMP Section<br>Start: 2022-01-30 14:27:00<br>End: 2022-01-30 14:46:00"
+      },
+      "id": 374,
+      "start": "2022-01-30T14:27:00",
+      "end": "2022-01-30T14:46:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.311166666667,
+          -74.05615
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.376<br>74\u00b0 3.37'S         113\u00b0 18.67' W<br>Event: VMP Section<br>Start: 2022-01-30 14:46:00<br>End: 2022-01-30 15:04:00"
+      },
+      "id": 375,
+      "start": "2022-01-30T14:46:00",
+      "end": "2022-01-30T15:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30186666666701,
+          -74.0573166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.377<br>74\u00b0 3.44'S         113\u00b0 18.11' W<br>Event: VMP Section<br>Start: 2022-01-30 15:05:00<br>End: 2022-01-30 15:22:00"
+      },
+      "id": 376,
+      "start": "2022-01-30T15:05:00",
+      "end": "2022-01-30T15:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2932,
+          -74.05855
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.378<br>74\u00b0 3.51'S         113\u00b0 17.59' W<br>Event: VMP Section<br>Start: 2022-01-30 15:23:00<br>End: 2022-01-30 15:42:00"
+      },
+      "id": 377,
+      "start": "2022-01-30T15:23:00",
+      "end": "2022-01-30T15:42:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.284283333333,
+          -74.0601833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.379<br>74\u00b0 3.61'S         113\u00b0 17.06' W<br>Event: VMP Section<br>Start: 2022-01-30 15:43:00<br>End: 2022-01-30 16:00:00"
+      },
+      "id": 378,
+      "start": "2022-01-30T15:43:00",
+      "end": "2022-01-30T16:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.27648333333299,
+          -74.0614333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.380<br>74\u00b0 3.69'S         113\u00b0 16.59' W<br>Event: VMP Section<br>Start: 2022-01-30 16:01:00<br>End: 2022-01-30 16:20:00"
+      },
+      "id": 379,
+      "start": "2022-01-30T16:01:00",
+      "end": "2022-01-30T16:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.267216666667,
+          -74.0631
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP014<br>Event no.381<br>74\u00b0 3.79'S         113\u00b0 16.03' W<br>Event: VMP Section<br>Start: 2022-01-30 16:21:00<br>End: 2022-01-30 16:39:00"
+      },
+      "id": 380,
+      "start": "2022-01-30T16:21:00",
+      "end": "2022-01-30T16:39:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.259166666667,
+          -74.0645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP015<br>Event no.382<br>74\u00b0 3.87'S         113\u00b0 15.55' W<br>Event: VMP Section<br>Start: 2022-01-30 16:40:00<br>End: 2022-01-30 17:00:00"
+      },
+      "id": 381,
+      "start": "2022-01-30T16:40:00",
+      "end": "2022-01-30T17:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2509,
+          -74.0562
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP016<br>Event no.383<br>74\u00b0 3.37'S         113\u00b0 15.05' W<br>Event: VMP Section<br>Start: 2022-01-30 17:01:00<br>End: 2022-01-30 17:21:00"
+      },
+      "id": 382,
+      "start": "2022-01-30T17:01:00",
+      "end": "2022-01-30T17:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.24205,
+          -74.0680666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP017<br>Event no.384<br>74\u00b0 4.08'S         113\u00b0 14.52' W<br>Event: VMP Section<br>Start: 2022-01-30 17:22:00<br>End: 2022-01-30 17:46:00"
+      },
+      "id": 383,
+      "start": "2022-01-30T17:22:00",
+      "end": "2022-01-30T17:46:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.231016666667,
+          -74.0699833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP018<br>Event no.385<br>74\u00b0 4.2'S         113\u00b0 13.86' W<br>Event: VMP Section<br>Start: 2022-01-30 17:46:00<br>End: 2022-01-30 18:09:00"
+      },
+      "id": 384,
+      "start": "2022-01-30T17:46:00",
+      "end": "2022-01-30T18:09:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.220933333333,
+          -74.0717166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP019<br>Event no.386<br>74\u00b0 4.3'S         113\u00b0 13.26' W<br>Event: VMP Section<br>Start: 2022-01-30 18:10:00<br>End: 2022-01-30 18:31:00"
+      },
+      "id": 385,
+      "start": "2022-01-30T18:10:00",
+      "end": "2022-01-30T18:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.21098333333299,
+          -74.0732666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP020<br>Event no.387<br>74\u00b0 4.4'S         113\u00b0 12.66' W<br>Event: VMP Section<br>Start: 2022-01-30 18:32:00<br>End: 2022-01-30 18:53:00"
+      },
+      "id": 386,
+      "start": "2022-01-30T18:32:00",
+      "end": "2022-01-30T18:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.201233333333,
+          -74.0747
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP021<br>Event no.388<br>74\u00b0 4.48'S         113\u00b0 12.07' W<br>Event: VMP Section<br>Start: 2022-01-30 18:54:00<br>End: 2022-01-30 19:16:00"
+      },
+      "id": 387,
+      "start": "2022-01-30T18:54:00",
+      "end": "2022-01-30T19:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1892,
+          -74.0761666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP022<br>Event no.389<br>74\u00b0 4.57'S         113\u00b0 11.35' W<br>Event: VMP Section<br>Start: 2022-01-30 19:17:00<br>End: 2022-01-30 19:54:00"
+      },
+      "id": 388,
+      "start": "2022-01-30T19:17:00",
+      "end": "2022-01-30T19:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.17458333333299,
+          -74.0784833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP023<br>Event no.390<br>74\u00b0 4.71'S         113\u00b0 10.47' W<br>Event: VMP Section<br>Start: 2022-01-30 19:46:00<br>End: 2022-01-30 20:11:00"
+      },
+      "id": 389,
+      "start": "2022-01-30T19:46:00",
+      "end": "2022-01-30T20:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.16175,
+          -74.0806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP024<br>Event no.391<br>74\u00b0 4.84'S         113\u00b0 9.7' W<br>Event: VMP Section<br>Start: 2022-01-30 20:12:00<br>End: 2022-01-30 20:38:00"
+      },
+      "id": 390,
+      "start": "2022-01-30T20:12:00",
+      "end": "2022-01-30T20:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1484,
+          -74.0827333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP025<br>Event no.392<br>74\u00b0 4.96'S         113\u00b0 8.9' W<br>Event: VMP Section<br>Start: 2022-01-30 20:38:00<br>End: 2022-01-30 21:04:00"
+      },
+      "id": 391,
+      "start": "2022-01-30T20:38:00",
+      "end": "2022-01-30T21:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.75736666666701,
+          -74.1360333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.415<br>74\u00b0 8.16'S         111\u00b0 45.44' W<br>Event: VMP Section<br>Start: 2022-02-01 05:37:00<br>End: 2022-02-01 05:59:00"
+      },
+      "id": 414,
+      "start": "2022-02-01T05:37:00",
+      "end": "2022-02-01T05:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7747,
+          -74.1360166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.416<br>74\u00b0 8.16'S         111\u00b0 46.48' W<br>Event: VMP Section<br>Start: 2022-02-01 05:59:00<br>End: 2022-02-01 06:18:00"
+      },
+      "id": 415,
+      "start": "2022-02-01T05:59:00",
+      "end": "2022-02-01T06:18:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.790483333333,
+          -74.1360333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.417<br>74\u00b0 8.16'S         111\u00b0 47.43' W<br>Event: VMP Section<br>Start: 2022-02-01 06:19:00<br>End: 2022-02-01 06:37:00"
+      },
+      "id": 416,
+      "start": "2022-02-01T06:19:00",
+      "end": "2022-02-01T06:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.80575,
+          -74.1360333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.418<br>74\u00b0 8.16'S         111\u00b0 48.35' W<br>Event: VMP Section<br>Start: 2022-02-01 06:38:00<br>End: 2022-02-01 07:02:00"
+      },
+      "id": 417,
+      "start": "2022-02-01T06:38:00",
+      "end": "2022-02-01T07:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.826466666667,
+          -74.1360666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.419<br>74\u00b0 8.16'S         111\u00b0 49.59' W<br>Event: VMP Section<br>Start: 2022-02-01 07:02:00<br>End: 2022-02-01 07:21:00"
+      },
+      "id": 418,
+      "start": "2022-02-01T07:02:00",
+      "end": "2022-02-01T07:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.84155,
+          -74.13605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.420<br>74\u00b0 8.16'S         111\u00b0 50.49' W<br>Event: VMP Section<br>Start: 2022-02-01 07:22:00<br>End: 2022-02-01 07:46:00"
+      },
+      "id": 419,
+      "start": "2022-02-01T07:22:00",
+      "end": "2022-02-01T07:46:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.864166666667,
+          -74.1360833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.421<br>74\u00b0 8.16'S         111\u00b0 51.85' W<br>Event: VMP Section<br>Start: 2022-02-01 08:03:00<br>End: 2022-02-01 08:19:00"
+      },
+      "id": 420,
+      "start": "2022-02-01T08:03:00",
+      "end": "2022-02-01T08:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8761,
+          -74.13605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.422<br>74\u00b0 8.16'S         111\u00b0 52.57' W<br>Event: VMP Section<br>Start: 2022-02-01 08:20:00<br>End: 2022-02-01 08:38:00"
+      },
+      "id": 421,
+      "start": "2022-02-01T08:20:00",
+      "end": "2022-02-01T08:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891533333333,
+          -74.1360833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.423<br>74\u00b0 8.16'S         111\u00b0 53.49' W<br>Event: VMP Section<br>Start: 2022-02-01 08:39:00<br>End: 2022-02-01 09:00:00"
+      },
+      "id": 422,
+      "start": "2022-02-01T08:39:00",
+      "end": "2022-02-01T09:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9079,
+          -74.1361333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.424<br>74\u00b0 8.17'S         111\u00b0 54.47' W<br>Event: VMP Section<br>Start: 2022-02-01 09:00:00<br>End: 2022-02-01 09:29:00"
+      },
+      "id": 423,
+      "start": "2022-02-01T09:00:00",
+      "end": "2022-02-01T09:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937716666667,
+          -74.1351166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.425<br>74\u00b0 8.11'S         111\u00b0 56.26' W<br>Event: VMP Section<br>Start: 2022-02-01 09:29:00<br>End: 2022-02-01 10:02:00"
+      },
+      "id": 424,
+      "start": "2022-02-01T09:29:00",
+      "end": "2022-02-01T10:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.966083333333,
+          -74.1351333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.426<br>74\u00b0 8.11'S         111\u00b0 57.96' W<br>Event: VMP Section<br>Start: 2022-02-01 10:02:00<br>End: 2022-02-01 10:33:00"
+      },
+      "id": 425,
+      "start": "2022-02-01T10:02:00",
+      "end": "2022-02-01T10:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.990516666667,
+          -74.13565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP014<br>Event no.427<br>74\u00b0 8.14'S         111\u00b0 59.43' W<br>Event: VMP Section<br>Start: 2022-02-01 10:33:00<br>End: 2022-02-01 11:01:00"
+      },
+      "id": 426,
+      "start": "2022-02-01T10:33:00",
+      "end": "2022-02-01T11:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01363333333299,
+          -74.13575
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP015<br>Event no.428<br>74\u00b0 8.15'S         112\u00b0 0.82' W<br>Event: VMP Section<br>Start: 2022-02-01 11:02:00<br>End: 2022-02-01 11:32:00"
+      },
+      "id": 427,
+      "start": "2022-02-01T11:02:00",
+      "end": "2022-02-01T11:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.038133333333,
+          -74.1358833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP016<br>Event no.429<br>74\u00b0 8.15'S         112\u00b0 2.29' W<br>Event: VMP Section<br>Start: 2022-02-01 11:33:00<br>End: 2022-02-01 12:05:00"
+      },
+      "id": 428,
+      "start": "2022-02-01T11:33:00",
+      "end": "2022-02-01T12:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.064416666667,
+          -74.1359333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP017<br>Event no.430<br>74\u00b0 8.16'S         112\u00b0 3.87' W<br>Event: VMP Section<br>Start: 2022-02-01 12:05:00<br>End: 2022-02-01 12:45:00"
+      },
+      "id": 429,
+      "start": "2022-02-01T12:05:00",
+      "end": "2022-02-01T12:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.097716666667,
+          -74.1359666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP018<br>Event no.431<br>74\u00b0 8.16'S         112\u00b0 5.86' W<br>Event: VMP Section<br>Start: 2022-02-01 12:46:00<br>End: 2022-02-01 13:33:00"
+      },
+      "id": 430,
+      "start": "2022-02-01T12:46:00",
+      "end": "2022-02-01T13:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.135933333333,
+          -74.1358833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP020<br>Event no.432<br>74\u00b0 8.15'S         112\u00b0 8.16' W<br>Event: VMP Section<br>Start: 2022-02-01 13:34:00<br>End: 2022-02-01 14:26:00"
+      },
+      "id": 431,
+      "start": "2022-02-01T13:34:00",
+      "end": "2022-02-01T14:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1791,
+          -74.1359166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP021<br>Event no.433<br>74\u00b0 8.16'S         112\u00b0 10.75' W<br>Event: VMP Section<br>Start: 2022-02-01 14:27:00<br>End: NaT"
+      },
+      "id": 432,
+      "start": "2022-02-01T14:27:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.18175,
+          -74.1359
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP022<br>Event no.434<br>74\u00b0 8.15'S         112\u00b0 10.9' W<br>Event: VMP Section<br>Start: 2022-02-01 14:30:00<br>End: 2022-02-01 15:13:00"
+      },
+      "id": 433,
+      "start": "2022-02-01T14:30:00",
+      "end": "2022-02-01T15:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.216933333333,
+          -74.1358833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP023<br>Event no.435<br>74\u00b0 8.15'S         112\u00b0 13.02' W<br>Event: VMP Section<br>Start: 2022-02-01 15:14:00<br>End: 2022-02-01 16:00:00"
+      },
+      "id": 434,
+      "start": "2022-02-01T15:14:00",
+      "end": "2022-02-01T16:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.25425,
+          -74.1358666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP024<br>Event no.436<br>74\u00b0 8.15'S         112\u00b0 15.25' W<br>Event: VMP Section<br>Start: 2022-02-01 16:01:00<br>End: 2022-02-01 16:41:00"
+      },
+      "id": 435,
+      "start": "2022-02-01T16:01:00",
+      "end": "2022-02-01T16:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.301516666667,
+          -74.0832333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.493<br>74\u00b0 4.99'S         113\u00b0 18.09' W<br>Event: VMP Section<br>Start: 2022-02-04 14:54:00<br>End: 2022-02-04 15:20:00"
+      },
+      "id": 492,
+      "start": "2022-02-04T14:54:00",
+      "end": "2022-02-04T15:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30165,
+          -74.08755
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.494<br>74\u00b0 5.25'S         113\u00b0 18.1' W<br>Event: VMP Section<br>Start: 2022-02-04 15:20:00<br>End: 2022-02-04 15:38:00"
+      },
+      "id": 493,
+      "start": "2022-02-04T15:20:00",
+      "end": "2022-02-04T15:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3028,
+          -74.0906833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.495<br>74\u00b0 5.44'S         113\u00b0 18.17' W<br>Event: VMP Section<br>Start: 2022-02-04 15:39:00<br>End: 2022-02-04 16:00:00"
+      },
+      "id": 494,
+      "start": "2022-02-04T15:39:00",
+      "end": "2022-02-04T16:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.304133333333,
+          -74.0940833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.496<br>74\u00b0 5.64'S         113\u00b0 18.25' W<br>Event: VMP Section<br>Start: 2022-02-04 16:00:00<br>End: 2022-02-04 16:20:00"
+      },
+      "id": 495,
+      "start": "2022-02-04T16:00:00",
+      "end": "2022-02-04T16:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.305466666667,
+          -74.09751666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.497<br>74\u00b0 5.85'S         113\u00b0 18.33' W<br>Event: VMP Section<br>Start: 2022-02-04 16:21:00<br>End: 2022-02-04 16:36:00"
+      },
+      "id": 496,
+      "start": "2022-02-04T16:21:00",
+      "end": "2022-02-04T16:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30656666666701,
+          -74.1001333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.498<br>74\u00b0 6.01'S         113\u00b0 18.39' W<br>Event: VMP Section<br>Start: 2022-02-04 16:37:00<br>End: 2022-02-04 16:54:00"
+      },
+      "id": 497,
+      "start": "2022-02-04T16:37:00",
+      "end": "2022-02-04T16:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.307666666667,
+          -74.1030833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.499<br>74\u00b0 6.18'S         113\u00b0 18.46' W<br>Event: VMP Section<br>Start: 2022-02-04 16:55:00<br>End: 2022-02-04 17:15:00"
+      },
+      "id": 498,
+      "start": "2022-02-04T16:55:00",
+      "end": "2022-02-04T17:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30906666666701,
+          -74.1064666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.500<br>74\u00b0 6.39'S         113\u00b0 18.54' W<br>Event: VMP Section<br>Start: 2022-02-04 17:15:00<br>End: 2022-02-04 17:37:00"
+      },
+      "id": 499,
+      "start": "2022-02-04T17:15:00",
+      "end": "2022-02-04T17:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.31085,
+          -74.11055
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.501<br>74\u00b0 6.63'S         113\u00b0 18.65' W<br>Event: VMP Section<br>Start: 2022-02-04 17:37:00<br>End: 2022-02-04 18:00:00"
+      },
+      "id": 500,
+      "start": "2022-02-04T17:37:00",
+      "end": "2022-02-04T18:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.31125,
+          -74.11695
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.502<br>74\u00b0 7.02'S         113\u00b0 18.68' W<br>Event: VMP Section<br>Start: 2022-02-04 18:03:00<br>End: 2022-02-04 18:24:00"
+      },
+      "id": 501,
+      "start": "2022-02-04T18:03:00",
+      "end": "2022-02-04T18:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.310233333333,
+          -74.1209666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.503<br>74\u00b0 7.26'S         113\u00b0 18.61' W<br>Event: VMP Section<br>Start: 2022-02-04 18:25:00<br>End: 2022-02-04 18:49:00"
+      },
+      "id": 502,
+      "start": "2022-02-04T18:25:00",
+      "end": "2022-02-04T18:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.308816666667,
+          -74.1257166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.504<br>74\u00b0 7.54'S         113\u00b0 18.53' W<br>Event: VMP Section<br>Start: 2022-02-04 18:50:00<br>End: 2022-02-04 19:16:00"
+      },
+      "id": 503,
+      "start": "2022-02-04T18:50:00",
+      "end": "2022-02-04T19:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.307066666667,
+          -74.1309333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.505<br>74\u00b0 7.86'S         113\u00b0 18.42' W<br>Event: VMP Section<br>Start: 2022-02-04 19:17:00<br>End: 2022-02-04 19:45:00"
+      },
+      "id": 504,
+      "start": "2022-02-04T19:17:00",
+      "end": "2022-02-04T19:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30263333333299,
+          -74.1362666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP014<br>Event no.506<br>74\u00b0 8.18'S         113\u00b0 18.16' W<br>Event: VMP Section<br>Start: 2022-02-04 19:46:00<br>End: 2022-02-04 20:10:00"
+      },
+      "id": 505,
+      "start": "2022-02-04T19:46:00",
+      "end": "2022-02-04T20:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.29666666666701,
+          -74.1407333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP015<br>Event no.507<br>74\u00b0 8.44'S         113\u00b0 17.8' W<br>Event: VMP Section<br>Start: 2022-02-04 20:11:00<br>End: 2022-02-04 20:36:00"
+      },
+      "id": 506,
+      "start": "2022-02-04T20:11:00",
+      "end": "2022-02-04T20:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.376416666667,
+          -74.14555
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.509<br>74\u00b0 8.73'S         113\u00b0 22.59' W<br>Event: VMP Section<br>Start: 2022-02-04 21:20:00<br>End: 2022-02-04 21:44:00"
+      },
+      "id": 508,
+      "start": "2022-02-04T21:20:00",
+      "end": "2022-02-04T21:44:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.370516666667,
+          -74.1486666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.510<br>74\u00b0 8.92'S         113\u00b0 22.23' W<br>Event: VMP Section<br>Start: 2022-02-04 21:45:00<br>End: 2022-02-04 21:59:00"
+      },
+      "id": 509,
+      "start": "2022-02-04T21:45:00",
+      "end": "2022-02-04T21:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.36691666666701,
+          -74.1502833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.511<br>74\u00b0 9.02'S         113\u00b0 22.02' W<br>Event: VMP Section<br>Start: 2022-02-04 22:00:00<br>End: 2022-02-04 22:18:00"
+      },
+      "id": 510,
+      "start": "2022-02-04T22:00:00",
+      "end": "2022-02-04T22:18:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.362783333333,
+          -74.15245
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.512<br>74\u00b0 9.15'S         113\u00b0 21.77' W<br>Event: VMP Section<br>Start: 2022-02-04 22:18:00<br>End: 2022-02-04 22:35:00"
+      },
+      "id": 511,
+      "start": "2022-02-04T22:18:00",
+      "end": "2022-02-04T22:35:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.247316666667,
+          -74.15045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.513<br>74\u00b0 9.03'S         112\u00b0 14.84' W<br>Event: VMP Section<br>Start: 2022-02-05 15:24:00<br>End: 2022-02-05 16:06:00"
+      },
+      "id": 512,
+      "start": "2022-02-05T15:24:00",
+      "end": "2022-02-05T16:06:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.230133333333,
+          -74.1539666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.514<br>74\u00b0 9.24'S         112\u00b0 13.81' W<br>Event: VMP Section<br>Start: 2022-02-05 16:07:00<br>End: 2022-02-05 17:02:00"
+      },
+      "id": 513,
+      "start": "2022-02-05T16:07:00",
+      "end": "2022-02-05T17:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2056,
+          -74.1587
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.515<br>74\u00b0 9.52'S         112\u00b0 12.34' W<br>Event: VMP Section<br>Start: 2022-02-05 17:05:00<br>End: 2022-02-05 17:53:00"
+      },
+      "id": 514,
+      "start": "2022-02-05T17:05:00",
+      "end": "2022-02-05T17:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11558333333299,
+          -74.1773166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.516<br>74\u00b0 10.64'S         112\u00b0 6.93' W<br>Event: VMP Section<br>Start: 2022-02-05 18:33:00<br>End: 2022-02-05 19:10:00"
+      },
+      "id": 515,
+      "start": "2022-02-05T18:33:00",
+      "end": "2022-02-05T19:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.099583333333,
+          -74.1796333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.517<br>74\u00b0 10.78'S         112\u00b0 5.97' W<br>Event: VMP Section<br>Start: 2022-02-05 19:11:00<br>End: 2022-02-05 19:48:00"
+      },
+      "id": 516,
+      "start": "2022-02-05T19:11:00",
+      "end": "2022-02-05T19:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.085033333333,
+          -74.1828333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.518<br>74\u00b0 10.97'S         112\u00b0 5.1' W<br>Event: VMP Section<br>Start: 2022-02-05 19:48:00<br>End: 2022-02-05 20:26:00"
+      },
+      "id": 517,
+      "start": "2022-02-05T19:48:00",
+      "end": "2022-02-05T20:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.063083333333,
+          -74.1865166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.519<br>74\u00b0 11.19'S         112\u00b0 3.78' W<br>Event: VMP Section<br>Start: 2022-02-05 20:27:00<br>End: 2022-02-05 21:04:00"
+      },
+      "id": 518,
+      "start": "2022-02-05T20:27:00",
+      "end": "2022-02-05T21:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.043433333333,
+          -74.1909833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.520<br>74\u00b0 11.46'S         112\u00b0 2.61' W<br>Event: VMP Section<br>Start: 2022-02-05 21:05:00<br>End: 2022-02-05 21:40:00"
+      },
+      "id": 519,
+      "start": "2022-02-05T21:05:00",
+      "end": "2022-02-05T21:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.358833333333,
+          -74.1044
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.521<br>74\u00b0 6.26'S         113\u00b0 21.53' W<br>Event: VMP Section<br>Start: 2022-02-06 14:51:00<br>End: 2022-02-06 14:59:00"
+      },
+      "id": 520,
+      "start": "2022-02-06T14:51:00",
+      "end": "2022-02-06T14:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35788333333299,
+          -74.10595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.522<br>74\u00b0 6.36'S         113\u00b0 21.47' W<br>Event: VMP Section<br>Start: 2022-02-06 15:00:00<br>End: 2022-02-06 15:08:00"
+      },
+      "id": 521,
+      "start": "2022-02-06T15:00:00",
+      "end": "2022-02-06T15:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.356783333333,
+          -74.1072333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.523<br>74\u00b0 6.43'S         113\u00b0 21.41' W<br>Event: VMP Section<br>Start: 2022-02-06 15:09:00<br>End: 2022-02-06 15:16:00"
+      },
+      "id": 522,
+      "start": "2022-02-06T15:09:00",
+      "end": "2022-02-06T15:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35573333333299,
+          -74.1084833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.524<br>74\u00b0 6.51'S         113\u00b0 21.34' W<br>Event: VMP Section<br>Start: 2022-02-06 15:17:00<br>End: 2022-02-06 15:26:00"
+      },
+      "id": 523,
+      "start": "2022-02-06T15:17:00",
+      "end": "2022-02-06T15:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.354683333333,
+          -74.11008333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.525<br>74\u00b0 6.6'S         113\u00b0 21.28' W<br>Event: VMP Section<br>Start: 2022-02-06 15:27:00<br>End: 2022-02-06 15:40:00"
+      },
+      "id": 524,
+      "start": "2022-02-06T15:27:00",
+      "end": "2022-02-06T15:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35273333333299,
+          -74.1123333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.526<br>74\u00b0 6.74'S         113\u00b0 21.16' W<br>Event: VMP Section<br>Start: 2022-02-06 15:41:00<br>End: 2022-02-06 15:58:00"
+      },
+      "id": 525,
+      "start": "2022-02-06T15:41:00",
+      "end": "2022-02-06T15:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35075,
+          -74.1152166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.527<br>74\u00b0 6.91'S         113\u00b0 21.05' W<br>Event: VMP Section<br>Start: 2022-02-06 15:59:00<br>End: 2022-02-06 16:19:00"
+      },
+      "id": 526,
+      "start": "2022-02-06T15:59:00",
+      "end": "2022-02-06T16:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.348283333333,
+          -74.1183166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.528<br>74\u00b0 7.1'S         113\u00b0 20.9' W<br>Event: VMP Section<br>Start: 2022-02-06 16:20:00<br>End: 2022-02-06 16:38:00"
+      },
+      "id": 527,
+      "start": "2022-02-06T16:20:00",
+      "end": "2022-02-06T16:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.346016666667,
+          -74.1214833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.529<br>74\u00b0 7.29'S         113\u00b0 20.76' W<br>Event: VMP Section<br>Start: 2022-02-06 16:40:00<br>End: 2022-02-06 17:02:00"
+      },
+      "id": 528,
+      "start": "2022-02-06T16:40:00",
+      "end": "2022-02-06T17:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3424,
+          -74.1253833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.530<br>74\u00b0 7.52'S         113\u00b0 20.54' W<br>Event: VMP Section<br>Start: 2022-02-06 17:04:00<br>End: 2022-02-06 17:25:00"
+      },
+      "id": 529,
+      "start": "2022-02-06T17:04:00",
+      "end": "2022-02-06T17:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.339533333333,
+          -74.1286833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.531<br>74\u00b0 7.72'S         113\u00b0 20.37' W<br>Event: VMP Section<br>Start: 2022-02-06 17:25:00<br>End: 2022-02-06 17:48:00"
+      },
+      "id": 530,
+      "start": "2022-02-06T17:25:00",
+      "end": "2022-02-06T17:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.337966666667,
+          -74.1324333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP014<br>Event no.532<br>74\u00b0 7.95'S         113\u00b0 20.28' W<br>Event: VMP Section<br>Start: 2022-02-06 17:49:00<br>End: 2022-02-06 18:12:00"
+      },
+      "id": 531,
+      "start": "2022-02-06T17:49:00",
+      "end": "2022-02-06T18:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.335166666667,
+          -74.1362833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP015<br>Event no.533<br>74\u00b0 8.18'S         113\u00b0 20.11' W<br>Event: VMP Section<br>Start: 2022-02-06 18:12:00<br>End: 2022-02-06 18:37:00"
+      },
+      "id": 532,
+      "start": "2022-02-06T18:12:00",
+      "end": "2022-02-06T18:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.332083333333,
+          -74.1404166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP016<br>Event no.534<br>74\u00b0 8.43'S         113\u00b0 19.92' W<br>Event: VMP Section<br>Start: 2022-02-06 18:38:00<br>End: 2022-02-06 19:05:00"
+      },
+      "id": 533,
+      "start": "2022-02-06T18:38:00",
+      "end": "2022-02-06T19:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32875,
+          -74.1447166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP017<br>Event no.535<br>74\u00b0 8.68'S         113\u00b0 19.72' W<br>Event: VMP Section<br>Start: 2022-02-06 19:05:00<br>End: 2022-02-06 19:29:00"
+      },
+      "id": 534,
+      "start": "2022-02-06T19:05:00",
+      "end": "2022-02-06T19:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.325883333333,
+          -74.14855
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP018<br>Event no.536<br>74\u00b0 8.91'S         113\u00b0 19.55' W<br>Event: VMP Section<br>Start: 2022-02-06 19:30:00<br>End: 2022-02-06 19:52:00"
+      },
+      "id": 535,
+      "start": "2022-02-06T19:30:00",
+      "end": "2022-02-06T19:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.322983333333,
+          -74.1523333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP019<br>Event no.537<br>74\u00b0 9.14'S         113\u00b0 19.38' W<br>Event: VMP Section<br>Start: 2022-02-06 19:53:00<br>End: 2022-02-06 20:16:00"
+      },
+      "id": 536,
+      "start": "2022-02-06T19:53:00",
+      "end": "2022-02-06T20:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.320233333333,
+          -74.15616666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP020<br>Event no.538<br>74\u00b0 9.37'S         113\u00b0 19.21' W<br>Event: VMP Section<br>Start: 2022-02-06 20:16:00<br>End: 2022-02-06 20:43:00"
+      },
+      "id": 537,
+      "start": "2022-02-06T20:16:00",
+      "end": "2022-02-06T20:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.31678333333299,
+          -74.1606166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP021<br>Event no.539<br>74\u00b0 9.64'S         113\u00b0 19.01' W<br>Event: VMP Section<br>Start: 2022-02-06 20:44:00<br>End: 2022-02-06 21:09:00"
+      },
+      "id": 538,
+      "start": "2022-02-06T20:44:00",
+      "end": "2022-02-06T21:09:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.311116666667,
+          -74.1642666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP022<br>Event no.540<br>74\u00b0 9.86'S         113\u00b0 18.67' W<br>Event: VMP Section<br>Start: 2022-02-06 21:09:00<br>End: 2022-02-06 21:36:00"
+      },
+      "id": 539,
+      "start": "2022-02-06T21:09:00",
+      "end": "2022-02-06T21:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.301066666667,
+          -74.1676666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP023<br>Event no.541<br>74\u00b0 10.06'S         113\u00b0 18.06' W<br>Event: VMP Section<br>Start: 2022-02-06 21:36:00<br>End: NaT"
+      },
+      "id": 540,
+      "start": "2022-02-06T21:36:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.484733333333,
+          -73.7823
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.635<br>73\u00b0 46.94'S         113\u00b0 29.08' W<br>Event: nan<br>Start: 2022-02-09 17:28:00<br>End: 2022-02-09 18:12:00"
+      },
+      "id": 634,
+      "start": "2022-02-09T17:28:00",
+      "end": "2022-02-09T18:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.481766666667,
+          -73.7908166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.636<br>73\u00b0 47.45'S         113\u00b0 28.91' W<br>Event: nan<br>Start: 2022-02-09 18:13:00<br>End: 2022-02-09 18:48:00"
+      },
+      "id": 635,
+      "start": "2022-02-09T18:13:00",
+      "end": "2022-02-09T18:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.480516666667,
+          -73.7976166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.637<br>73\u00b0 47.86'S         113\u00b0 28.83' W<br>Event: nan<br>Start: 2022-02-09 18:49:00<br>End: 2022-02-09 19:21:00"
+      },
+      "id": 636,
+      "start": "2022-02-09T18:49:00",
+      "end": "2022-02-09T19:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.482333333333,
+          -73.8038833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.638<br>73\u00b0 48.23'S         113\u00b0 28.94' W<br>Event: nan<br>Start: 2022-02-09 19:22:00<br>End: 2022-02-09 19:53:00"
+      },
+      "id": 637,
+      "start": "2022-02-09T19:22:00",
+      "end": "2022-02-09T19:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.481766666667,
+          -73.8100833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.639<br>73\u00b0 48.6'S         113\u00b0 28.91' W<br>Event: nan<br>Start: 2022-02-09 19:54:00<br>End: 2022-02-09 20:24:00"
+      },
+      "id": 638,
+      "start": "2022-02-09T19:54:00",
+      "end": "2022-02-09T20:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48153333333299,
+          -73.81595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.640<br>73\u00b0 48.96'S         113\u00b0 28.89' W<br>Event: nan<br>Start: 2022-02-09 20:25:00<br>End: 2022-02-09 20:59:00"
+      },
+      "id": 639,
+      "start": "2022-02-09T20:25:00",
+      "end": "2022-02-09T20:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48416666666701,
+          -73.82255
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.641<br>73\u00b0 49.35'S         113\u00b0 29.05' W<br>Event: nan<br>Start: 2022-02-09 21:00:00<br>End: 2022-02-09 21:30:00"
+      },
+      "id": 640,
+      "start": "2022-02-09T21:00:00",
+      "end": "2022-02-09T21:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.483466666667,
+          -73.82845
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.642<br>73\u00b0 49.71'S         113\u00b0 29.01' W<br>Event: nan<br>Start: 2022-02-09 21:30:00<br>End: 2022-02-09 21:59:00"
+      },
+      "id": 641,
+      "start": "2022-02-09T21:30:00",
+      "end": "2022-02-09T21:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48065,
+          -73.85566666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.643<br>73\u00b0 51.34'S         113\u00b0 28.84' W<br>Event: nan<br>Start: 2022-02-09 22:30:00<br>End: 2022-02-09 22:53:00"
+      },
+      "id": 642,
+      "start": "2022-02-09T22:30:00",
+      "end": "2022-02-09T22:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48073333333299,
+          -73.86025
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.644<br>73\u00b0 51.61'S         113\u00b0 28.84' W<br>Event: nan<br>Start: 2022-02-09 22:54:00<br>End: 2022-02-09 23:13:00"
+      },
+      "id": 643,
+      "start": "2022-02-09T22:54:00",
+      "end": "2022-02-09T23:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4817,
+          -73.8637
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.645<br>73\u00b0 51.82'S         113\u00b0 28.9' W<br>Event: nan<br>Start: 2022-02-09 23:13:00<br>End: 2022-02-09 23:33:00"
+      },
+      "id": 644,
+      "start": "2022-02-09T23:13:00",
+      "end": "2022-02-09T23:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.482183333333,
+          -73.8679333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.646<br>73\u00b0 52.08'S         113\u00b0 28.93' W<br>Event: nan<br>Start: 2022-02-09 23:35:00<br>End: 2022-02-09 23:56:00"
+      },
+      "id": 645,
+      "start": "2022-02-09T23:35:00",
+      "end": "2022-02-09T23:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.482183333333,
+          -73.87208333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.647<br>73\u00b0 52.32'S         113\u00b0 28.93' W<br>Event: nan<br>Start: 2022-02-09 23:57:00<br>End: 2022-02-10 00:17:00"
+      },
+      "id": 646,
+      "start": "2022-02-09T23:57:00",
+      "end": "2022-02-10T00:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4796,
+          -73.87593333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.648<br>73\u00b0 52.56'S         113\u00b0 28.78' W<br>Event: nan<br>Start: 2022-02-10 00:18:00<br>End: 2022-02-10 00:38:00"
+      },
+      "id": 647,
+      "start": "2022-02-10T00:18:00",
+      "end": "2022-02-10T00:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47665,
+          -73.8796833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.649<br>73\u00b0 52.78'S         113\u00b0 28.6' W<br>Event: nan<br>Start: 2022-02-10 00:39:00<br>End: 2022-02-10 01:01:00"
+      },
+      "id": 648,
+      "start": "2022-02-10T00:39:00",
+      "end": "2022-02-10T01:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7297,
+          -73.83785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.709<br>73\u00b0 50.27'S         118\u00b0 43.78' W<br>Event: nan<br>Start: 2022-02-14 01:58:00<br>End: 2022-02-14 02:25:00"
+      },
+      "id": 708,
+      "start": "2022-02-14T01:58:00",
+      "end": "2022-02-14T02:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7249,
+          -73.8417
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.710<br>73\u00b0 50.5'S         118\u00b0 43.49' W<br>Event: nan<br>Start: 2022-02-14 02:25:00<br>End: 2022-02-14 02:48:00"
+      },
+      "id": 709,
+      "start": "2022-02-14T02:25:00",
+      "end": "2022-02-14T02:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.71965,
+          -73.84515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.711<br>73\u00b0 50.71'S         118\u00b0 43.18' W<br>Event: nan<br>Start: 2022-02-14 02:49:00<br>End: 2022-02-14 03:10:00"
+      },
+      "id": 710,
+      "start": "2022-02-14T02:49:00",
+      "end": "2022-02-14T03:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.713933333333,
+          -73.8483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.712<br>73\u00b0 50.9'S         118\u00b0 42.84' W<br>Event: nan<br>Start: 2022-02-14 03:11:00<br>End: 2022-02-14 03:38:00"
+      },
+      "id": 711,
+      "start": "2022-02-14T03:11:00",
+      "end": "2022-02-14T03:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7066,
+          -73.8523333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.713<br>73\u00b0 51.14'S         118\u00b0 42.4' W<br>Event: nan<br>Start: 2022-02-14 03:39:00<br>End: 2022-02-14 04:08:00"
+      },
+      "id": 712,
+      "start": "2022-02-14T03:39:00",
+      "end": "2022-02-14T04:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.696716666667,
+          -73.8576166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.714<br>73\u00b0 51.46'S         118\u00b0 41.8' W<br>Event: nan<br>Start: 2022-02-14 04:14:00<br>End: 2022-02-14 04:36:00"
+      },
+      "id": 713,
+      "start": "2022-02-14T04:14:00",
+      "end": "2022-02-14T04:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.69085,
+          -73.8608833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.715<br>73\u00b0 51.65'S         118\u00b0 41.45' W<br>Event: nan<br>Start: 2022-02-14 04:37:00<br>End: 2022-02-14 04:58:00"
+      },
+      "id": 714,
+      "start": "2022-02-14T04:37:00",
+      "end": "2022-02-14T04:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.68535,
+          -73.8638833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP008<br>Event no.716<br>73\u00b0 51.83'S         118\u00b0 41.12' W<br>Event: nan<br>Start: 2022-02-14 04:59:00<br>End: 2022-02-14 05:23:00"
+      },
+      "id": 715,
+      "start": "2022-02-14T04:59:00",
+      "end": "2022-02-14T05:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.678633333333,
+          -73.8676
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP009<br>Event no.717<br>73\u00b0 52.06'S         118\u00b0 40.72' W<br>Event: nan<br>Start: 2022-02-14 05:24:00<br>End: 2022-02-14 05:50:00"
+      },
+      "id": 716,
+      "start": "2022-02-14T05:24:00",
+      "end": "2022-02-14T05:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.671866666667,
+          -73.8714
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP010<br>Event no.718<br>73\u00b0 52.28'S         118\u00b0 40.31' W<br>Event: nan<br>Start: 2022-02-14 05:50:00<br>End: 2022-02-14 06:18:00"
+      },
+      "id": 717,
+      "start": "2022-02-14T05:50:00",
+      "end": "2022-02-14T06:18:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.664083333333,
+          -73.8755166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP011<br>Event no.719<br>73\u00b0 52.53'S         118\u00b0 39.84' W<br>Event: nan<br>Start: 2022-02-14 06:19:00<br>End: 2022-02-14 06:49:00"
+      },
+      "id": 718,
+      "start": "2022-02-14T06:19:00",
+      "end": "2022-02-14T06:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.656116666667,
+          -73.8799166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP012<br>Event no.720<br>73\u00b0 52.8'S         118\u00b0 39.37' W<br>Event: nan<br>Start: 2022-02-14 06:50:00<br>End: 2022-02-14 07:25:00"
+      },
+      "id": 719,
+      "start": "2022-02-14T06:50:00",
+      "end": "2022-02-14T07:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.646583333333,
+          -73.8850666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP013<br>Event no.721<br>73\u00b0 53.1'S         118\u00b0 38.79' W<br>Event: nan<br>Start: 2022-02-14 07:25:00<br>End: 2022-02-14 08:27:00"
+      },
+      "id": 720,
+      "start": "2022-02-14T07:25:00",
+      "end": "2022-02-14T08:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.63135,
+          -73.89399999999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP014<br>Event no.722<br>73\u00b0 53.64'S         118\u00b0 37.88' W<br>Event: nan<br>Start: 2022-02-14 08:28:00<br>End: 2022-02-14 09:53:00"
+      },
+      "id": 721,
+      "start": "2022-02-14T08:28:00",
+      "end": "2022-02-14T09:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.777066666667,
+          -73.8850166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.725<br>73\u00b0 53.1'S         118\u00b0 46.62' W<br>Event: nan<br>Start: 2022-02-14 10:43:00<br>End: 2022-02-14 11:09:00"
+      },
+      "id": 724,
+      "start": "2022-02-14T10:43:00",
+      "end": "2022-02-14T11:09:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.776266666667,
+          -73.8893666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.726<br>73\u00b0 53.36'S         118\u00b0 46.58' W<br>Event: nan<br>Start: 2022-02-14 11:10:00<br>End: 2022-02-14 11:29:00"
+      },
+      "id": 725,
+      "start": "2022-02-14T11:10:00",
+      "end": "2022-02-14T11:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.775916666667,
+          -73.8927
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.727<br>73\u00b0 53.56'S         118\u00b0 46.56' W<br>Event: nan<br>Start: 2022-02-14 11:30:00<br>End: 2022-02-14 11:51:00"
+      },
+      "id": 726,
+      "start": "2022-02-14T11:30:00",
+      "end": "2022-02-14T11:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.77526666666701,
+          -73.8962333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.728<br>73\u00b0 53.77'S         118\u00b0 46.52' W<br>Event: nan<br>Start: 2022-02-14 11:51:00<br>End: 2022-02-14 12:13:00"
+      },
+      "id": 727,
+      "start": "2022-02-14T11:51:00",
+      "end": "2022-02-14T12:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7708,
+          -73.8995833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP005<br>Event no.729<br>73\u00b0 53.97'S         118\u00b0 46.25' W<br>Event: nan<br>Start: 2022-02-14 12:14:00<br>End: 2022-02-14 12:49:00"
+      },
+      "id": 728,
+      "start": "2022-02-14T12:14:00",
+      "end": "2022-02-14T12:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.422983333333,
+          -73.9810333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP006<br>Event no.748<br>73\u00b0 58.86'S         117\u00b0 25.38' W<br>Event: nan<br>Start: 2022-02-15 13:11:00<br>End: 2022-02-15 13:16:00"
+      },
+      "id": 747,
+      "start": "2022-02-15T13:11:00",
+      "end": "2022-02-15T13:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4222,
+          -73.98151666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP007<br>Event no.749<br>73\u00b0 58.89'S         117\u00b0 25.33' W<br>Event: nan<br>Start: 2022-02-15 13:17:00<br>End: 2022-02-15 13:32:00"
+      },
+      "id": 748,
+      "start": "2022-02-15T13:17:00",
+      "end": "2022-02-15T13:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.714933333333,
+          -73.8573333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.806<br>73\u00b0 51.44'S         118\u00b0 42.9' W<br>Event: nan<br>Start: 2022-02-20 04:38:00<br>End: 2022-02-20 05:14:00"
+      },
+      "id": 805,
+      "start": "2022-02-20T04:38:00",
+      "end": "2022-02-20T05:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.719466666667,
+          -73.8622166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.807<br>73\u00b0 51.73'S         118\u00b0 43.17' W<br>Event: nan<br>Start: 2022-02-20 05:15:00<br>End: 2022-02-20 05:51:00"
+      },
+      "id": 806,
+      "start": "2022-02-20T05:15:00",
+      "end": "2022-02-20T05:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.72518333333299,
+          -73.8669833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP003<br>Event no.808<br>73\u00b0 52.02'S         118\u00b0 43.51' W<br>Event: nan<br>Start: 2022-02-20 05:52:00<br>End: 2022-02-20 06:36:00"
+      },
+      "id": 807,
+      "start": "2022-02-20T05:52:00",
+      "end": "2022-02-20T06:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.731116666667,
+          -73.87276666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP004<br>Event no.809<br>73\u00b0 52.37'S         118\u00b0 43.87' W<br>Event: nan<br>Start: 2022-02-20 06:37:00<br>End: 2022-02-20 07:13:00"
+      },
+      "id": 808,
+      "start": "2022-02-20T06:37:00",
+      "end": "2022-02-20T07:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.74178333333299,
+          -73.8822166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.810<br>73\u00b0 52.93'S         118\u00b0 44.51' W<br>Event: nan<br>Start: 2022-02-20 08:05:00<br>End: 2022-02-20 08:39:00"
+      },
+      "id": 809,
+      "start": "2022-02-20T08:05:00",
+      "end": "2022-02-20T08:39:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.74695,
+          -73.8867833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.811<br>73\u00b0 53.21'S         118\u00b0 44.82' W<br>Event: nan<br>Start: 2022-02-20 08:41:00<br>End: 2022-02-20 09:04:00"
+      },
+      "id": 810,
+      "start": "2022-02-20T08:41:00",
+      "end": "2022-02-20T09:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.74185,
+          -73.8815166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.812<br>73\u00b0 52.89'S         118\u00b0 44.51' W<br>Event: nan<br>Start: 2022-02-20 09:46:00<br>End: 2022-02-20 10:27:00"
+      },
+      "id": 811,
+      "start": "2022-02-20T09:46:00",
+      "end": "2022-02-20T10:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.741583333333,
+          -73.8814666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP001<br>Event no.813<br>73\u00b0 52.89'S         118\u00b0 44.49' W<br>Event: nan<br>Start: 2022-02-20 11:24:00<br>End: 2022-02-20 11:57:00"
+      },
+      "id": 812,
+      "start": "2022-02-20T11:24:00",
+      "end": "2022-02-20T11:57:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7345,
+          -73.8746166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: VMP002<br>Event no.814<br>73\u00b0 52.48'S         118\u00b0 44.07' W<br>Event: nan<br>Start: 2022-02-20 12:01:00<br>End: 2022-02-20 12:40:00"
+      },
+      "id": 813,
+      "start": "2022-02-20T12:01:00",
+      "end": "2022-02-20T12:40:00"
+    }
+  ]
+}

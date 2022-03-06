@@ -1,0 +1,935 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.421,
+          -74.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1190<br>74\u00b0 7.8' S        113\u00b0 25.26' W<br>2022-02-10T15:59:00"
+      },
+      "start": "2022-02-10T15:59:00",
+      "end": "2022-02-10T15:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.427,
+          -74.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1191<br>74\u00b0 8.4' S        113\u00b0 25.62' W<br>2022-02-10T16:16:00"
+      },
+      "start": "2022-02-10T16:16:00",
+      "end": "2022-02-10T16:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.399,
+          -74.14699999999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1192<br>74\u00b0 8.82' S        113\u00b0 23.94' W<br>2022-02-10T16:34:00"
+      },
+      "start": "2022-02-10T16:34:00",
+      "end": "2022-02-10T16:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35700000000001,
+          -74.158
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1193<br>74\u00b0 9.48' S        113\u00b0 21.42' W<br>2022-02-10T16:53:00"
+      },
+      "start": "2022-02-10T16:53:00",
+      "end": "2022-02-10T16:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.33200000000001,
+          -74.165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1194<br>74\u00b0 9.9' S        113\u00b0 19.92' W<br>2022-02-10T17:08:00"
+      },
+      "start": "2022-02-10T17:08:00",
+      "end": "2022-02-10T17:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.307,
+          -74.168
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1195<br>74\u00b0 10.08' S        113\u00b0 18.42' W<br>2022-02-10T17:20:00"
+      },
+      "start": "2022-02-10T17:20:00",
+      "end": "2022-02-10T17:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.265,
+          -74.172
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1196<br>74\u00b0 10.32' S        113\u00b0 15.9' W<br>2022-02-10T17:31:00"
+      },
+      "start": "2022-02-10T17:31:00",
+      "end": "2022-02-10T17:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.229,
+          -74.179
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1197<br>74\u00b0 10.74' S        113\u00b0 13.74' W<br>2022-02-10T17:42:00"
+      },
+      "start": "2022-02-10T17:42:00",
+      "end": "2022-02-10T17:42:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.169,
+          -74.186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1198<br>74\u00b0 11.16' S        113\u00b0 10.14' W<br>2022-02-10T17:54:00"
+      },
+      "start": "2022-02-10T17:54:00",
+      "end": "2022-02-10T17:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.14399999999999,
+          -74.189
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1199<br>74\u00b0 11.34' S        113\u00b0 8.64' W<br>2022-02-10T18:07:00"
+      },
+      "start": "2022-02-10T18:07:00",
+      "end": "2022-02-10T18:07:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.102,
+          -74.199
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1200<br>74\u00b0 11.94' S        113\u00b0 6.12' W<br>2022-02-10T18:19:00"
+      },
+      "start": "2022-02-10T18:19:00",
+      "end": "2022-02-10T18:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.041,
+          -74.202
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1201<br>74\u00b0 12.12' S        113\u00b0 2.46' W<br>2022-02-10T18:31:00"
+      },
+      "start": "2022-02-10T18:31:00",
+      "end": "2022-02-10T18:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.991,
+          -74.204
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1202<br>74\u00b0 12.24' S        112\u00b0 59.46' W<br>2022-02-10T18:43:00"
+      },
+      "start": "2022-02-10T18:43:00",
+      "end": "2022-02-10T18:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.948,
+          -74.214
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1203<br>74\u00b0 12.84' S        112\u00b0 56.88' W<br>2022-02-10T18:55:00"
+      },
+      "start": "2022-02-10T18:55:00",
+      "end": "2022-02-10T18:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.89,
+          -74.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1204<br>74\u00b0 13.2' S        112\u00b0 53.4' W<br>2022-02-10T19:07:00"
+      },
+      "start": "2022-02-10T19:07:00",
+      "end": "2022-02-10T19:07:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.829,
+          -74.22399999999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1205<br>74\u00b0 13.44' S        112\u00b0 49.74' W<br>2022-02-10T19:19:00"
+      },
+      "start": "2022-02-10T19:19:00",
+      "end": "2022-02-10T19:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.771,
+          -74.227
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1206<br>74\u00b0 13.62' S        112\u00b0 46.26' W<br>2022-02-10T19:31:00"
+      },
+      "start": "2022-02-10T19:31:00",
+      "end": "2022-02-10T19:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.71600000000001,
+          -74.225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1207<br>74\u00b0 13.5' S        112\u00b0 42.96' W<br>2022-02-10T19:43:00"
+      },
+      "start": "2022-02-10T19:43:00",
+      "end": "2022-02-10T19:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.65899999999999,
+          -74.225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1208<br>74\u00b0 13.5' S        112\u00b0 39.54' W<br>2022-02-10T19:56:00"
+      },
+      "start": "2022-02-10T19:56:00",
+      "end": "2022-02-10T19:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.613,
+          -74.23100000000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1209<br>74\u00b0 13.86' S        112\u00b0 36.78' W<br>2022-02-10T20:06:00"
+      },
+      "start": "2022-02-10T20:06:00",
+      "end": "2022-02-10T20:06:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.552,
+          -74.232
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1210<br>74\u00b0 13.92' S        112\u00b0 33.12' W<br>2022-02-10T20:16:00"
+      },
+      "start": "2022-02-10T20:16:00",
+      "end": "2022-02-10T20:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.491,
+          -74.233
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1211<br>74\u00b0 13.98' S        112\u00b0 29.46' W<br>2022-02-10T20:26:00"
+      },
+      "start": "2022-02-10T20:26:00",
+      "end": "2022-02-10T20:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.414,
+          -74.237
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1212<br>74\u00b0 14.22' S        112\u00b0 24.84' W<br>2022-02-10T21:24:00"
+      },
+      "start": "2022-02-10T21:24:00",
+      "end": "2022-02-10T21:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.353,
+          -74.23899999999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1213<br>74\u00b0 14.34' S        112\u00b0 21.18' W<br>2022-02-10T21:34:00"
+      },
+      "start": "2022-02-10T21:34:00",
+      "end": "2022-02-10T21:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.291,
+          -74.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1214<br>74\u00b0 14.4' S        112\u00b0 17.46' W<br>2022-02-10T21:44:00"
+      },
+      "start": "2022-02-10T21:44:00",
+      "end": "2022-02-10T21:44:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.229,
+          -74.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1215<br>74\u00b0 14.4' S        112\u00b0 13.74' W<br>2022-02-10T21:54:00"
+      },
+      "start": "2022-02-10T21:54:00",
+      "end": "2022-02-10T21:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.169,
+          -74.237
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1216<br>74\u00b0 14.22' S        112\u00b0 10.14' W<br>2022-02-10T22:04:00"
+      },
+      "start": "2022-02-10T22:04:00",
+      "end": "2022-02-10T22:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11200000000001,
+          -74.232
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1217<br>74\u00b0 13.92' S        112\u00b0 6.72' W<br>2022-02-10T22:14:00"
+      },
+      "start": "2022-02-10T22:14:00",
+      "end": "2022-02-10T22:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.053,
+          -74.22800000000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1218<br>74\u00b0 13.68' S        112\u00b0 3.18' W<br>2022-02-10T22:24:00"
+      },
+      "start": "2022-02-10T22:24:00",
+      "end": "2022-02-10T22:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.986,
+          -74.226
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1219<br>74\u00b0 13.56' S        111\u00b0 59.16' W<br>2022-02-10T22:34:00"
+      },
+      "start": "2022-02-10T22:34:00",
+      "end": "2022-02-10T22:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928,
+          -74.221
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1220<br>74\u00b0 13.26' S        111\u00b0 55.68' W<br>2022-02-10T22:44:00"
+      },
+      "start": "2022-02-10T22:44:00",
+      "end": "2022-02-10T22:44:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.875,
+          -74.215
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1221<br>74\u00b0 12.9' S        111\u00b0 52.5' W<br>2022-02-10T22:54:00"
+      },
+      "start": "2022-02-10T22:54:00",
+      "end": "2022-02-10T22:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.51015,
+          -74.065
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1166<br>74\u00b0 3.9' S        112\u00b0 30.61' W<br>2022-02-07T17:13:00"
+      },
+      "start": "2022-02-07T17:13:00",
+      "end": "2022-02-07T17:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.51738329999999,
+          -74.047
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1167<br>74\u00b0 2.82' S        112\u00b0 31.04' W<br>2022-02-07T17:23:00"
+      },
+      "start": "2022-02-07T17:23:00",
+      "end": "2022-02-07T17:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5243,
+          -74.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1168<br>74\u00b0 1.8' S        112\u00b0 31.46' W<br>2022-02-07T17:33:00"
+      },
+      "start": "2022-02-07T17:33:00",
+      "end": "2022-02-07T17:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.52935,
+          -74.013
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1169<br>74\u00b0 0.78' S        112\u00b0 31.76' W<br>2022-02-07T17:43:00"
+      },
+      "start": "2022-02-07T17:43:00",
+      "end": "2022-02-07T17:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.53538329999999,
+          -73.995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1170<br>73\u00b0 59.7' S        112\u00b0 32.12' W<br>2022-02-07T17:53:00"
+      },
+      "start": "2022-02-07T17:53:00",
+      "end": "2022-02-07T17:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.53263329999999,
+          -73.976
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1171<br>73\u00b0 58.56' S        112\u00b0 31.96' W<br>2022-02-07T18:03:00"
+      },
+      "start": "2022-02-07T18:03:00",
+      "end": "2022-02-07T18:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5228,
+          -73.958
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1172<br>73\u00b0 57.48' S        112\u00b0 31.37' W<br>2022-02-07T18:13:00"
+      },
+      "start": "2022-02-07T18:13:00",
+      "end": "2022-02-07T18:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.52716670000001,
+          -73.939
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1173<br>73\u00b0 56.34' S        112\u00b0 31.63' W<br>2022-02-07T18:23:00"
+      },
+      "start": "2022-02-07T18:23:00",
+      "end": "2022-02-07T18:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.53268329999999,
+          -73.921
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1174<br>73\u00b0 55.26' S        112\u00b0 31.96' W<br>2022-02-07T18:33:00"
+      },
+      "start": "2022-02-07T18:33:00",
+      "end": "2022-02-07T18:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.53631670000001,
+          -73.902
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1175<br>73\u00b0 54.12' S        112\u00b0 32.18' W<br>2022-02-07T18:43:00"
+      },
+      "start": "2022-02-07T18:43:00",
+      "end": "2022-02-07T18:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.53115,
+          -73.884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1176<br>73\u00b0 53.04' S        112\u00b0 31.87' W<br>2022-02-07T18:53:00"
+      },
+      "start": "2022-02-07T18:53:00",
+      "end": "2022-02-07T18:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.51483329999999,
+          -73.867
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1177<br>73\u00b0 52.02' S        112\u00b0 30.89' W<br>2022-02-07T19:03:00"
+      },
+      "start": "2022-02-07T19:03:00",
+      "end": "2022-02-07T19:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.772,
+          -73.732
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1271<br>73\u00b0 43.92' S        112\u00b0 46.32' W<br>2022-02-18T14:29:00"
+      },
+      "start": "2022-02-18T14:29:00",
+      "end": "2022-02-18T14:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.854,
+          -73.709
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1272<br>73\u00b0 42.54' S        112\u00b0 51.24' W<br>2022-02-18T14:42:00"
+      },
+      "start": "2022-02-18T14:42:00",
+      "end": "2022-02-18T14:42:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.963,
+          -73.694
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1273<br>73\u00b0 41.64' S        112\u00b0 57.78' W<br>2022-02-18T14:53:00"
+      },
+      "start": "2022-02-18T14:53:00",
+      "end": "2022-02-18T14:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.07799999999999,
+          -73.686
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1274<br>73\u00b0 41.16' S        113\u00b0 4.68' W<br>2022-02-18T15:05:00"
+      },
+      "start": "2022-02-18T15:05:00",
+      "end": "2022-02-18T15:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.196,
+          -73.67699999999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1275<br>73\u00b0 40.62' S        113\u00b0 11.76' W<br>2022-02-18T15:17:00"
+      },
+      "start": "2022-02-18T15:17:00",
+      "end": "2022-02-18T15:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.316,
+          -73.667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1276<br>73\u00b0 40.02' S        113\u00b0 18.96' W<br>2022-02-18T15:29:00"
+      },
+      "start": "2022-02-18T15:29:00",
+      "end": "2022-02-18T15:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.431,
+          -73.661
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1277<br>73\u00b0 39.66' S        113\u00b0 25.86' W<br>2022-02-18T15:41:00"
+      },
+      "start": "2022-02-18T15:41:00",
+      "end": "2022-02-18T15:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.521,
+          -73.656
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1278<br>73\u00b0 39.36' S        113\u00b0 31.26' W<br>2022-02-18T15:53:00"
+      },
+      "start": "2022-02-18T15:53:00",
+      "end": "2022-02-18T15:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.633,
+          -73.649
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1279<br>73\u00b0 38.94' S        113\u00b0 37.98' W<br>2022-02-18T16:05:00"
+      },
+      "start": "2022-02-18T16:05:00",
+      "end": "2022-02-18T16:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.749,
+          -73.645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1280<br>73\u00b0 38.7' S        113\u00b0 44.94' W<br>2022-02-18T16:17:00"
+      },
+      "start": "2022-02-18T16:17:00",
+      "end": "2022-02-18T16:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.86399999999999,
+          -73.637
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1281<br>73\u00b0 38.22' S        113\u00b0 51.84' W<br>2022-02-18T16:29:00"
+      },
+      "start": "2022-02-18T16:29:00",
+      "end": "2022-02-18T16:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.98,
+          -73.632
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1282<br>73\u00b0 37.92' S        113\u00b0 58.8' W<br>2022-02-18T16:41:00"
+      },
+      "start": "2022-02-18T16:41:00",
+      "end": "2022-02-18T16:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.09700000000001,
+          -73.631
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1283<br>73\u00b0 37.86' S        114\u00b0 5.82' W<br>2022-02-18T16:53:00"
+      },
+      "start": "2022-02-18T16:53:00",
+      "end": "2022-02-18T16:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.214,
+          -73.633
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1284<br>73\u00b0 37.98' S        114\u00b0 12.84' W<br>2022-02-18T17:05:00"
+      },
+      "start": "2022-02-18T17:05:00",
+      "end": "2022-02-18T17:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.329,
+          -73.635
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1285<br>73\u00b0 38.1' S        114\u00b0 19.74' W<br>2022-02-18T17:17:00"
+      },
+      "start": "2022-02-18T17:17:00",
+      "end": "2022-02-18T17:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.445,
+          -73.638
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1286<br>73\u00b0 38.28' S        114\u00b0 26.7' W<br>2022-02-18T17:29:00"
+      },
+      "start": "2022-02-18T17:29:00",
+      "end": "2022-02-18T17:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.559,
+          -73.642
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1287<br>73\u00b0 38.52' S        114\u00b0 33.54' W<br>2022-02-18T17:41:00"
+      },
+      "start": "2022-02-18T17:41:00",
+      "end": "2022-02-18T17:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.67200000000001,
+          -73.649
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "TMC fish<br>sample ART1288<br>73\u00b0 38.94' S        114\u00b0 40.32' W<br>2022-02-18T17:53:00"
+      },
+      "start": "2022-02-18T17:53:00",
+      "end": "2022-02-18T17:53:00"
+    }
+  ]
+}

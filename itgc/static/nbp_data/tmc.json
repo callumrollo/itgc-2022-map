@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.343261666667,
+          -69.4495766666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC003<br>Event no.23<br>69\u00b0 26.97'S         102\u00b0 20.6' W<br>Event: Test cast for TM CTD, filled niskins with water from 350m<br>Start: 2022-01-12 18:43:00<br>End: 2022-01-12 19:30:00"
+      },
+      "id": 22,
+      "start": "2022-01-12T18:43:00",
+      "end": "2022-01-12T19:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.405716666667,
+          -69.4289666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC004<br>Event no.24<br>69\u00b0 25.74'S         102\u00b0 24.34' W<br>Event: Test cast for TM CTD, filled niskins with water from 350m<br>Start: 2022-01-12 19:54:00<br>End: NaT"
+      },
+      "id": 23,
+      "start": "2022-01-12T19:54:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.694,
+          -72.2048
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC006<br>Event no.48<br>72\u00b0 12.29'S         117\u00b0 41.64' W<br>Event: TMC CTD first complete sampling cast<br>Start: 2022-01-15 13:56:00<br>End: 2022-01-14 15:50:00"
+      },
+      "id": 47,
+      "start": "2022-01-15T13:56:00",
+      "end": "2022-01-14T15:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.94858333333299,
+          -73.1433333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC009<br>Event no.72<br>73\u00b0 8.6'S         113\u00b0 56.91' W<br>Event: TMC CTD <br>Start: 2022-01-16 21:04:00<br>End: 2022-01-16 21:53:00"
+      },
+      "id": 71,
+      "start": "2022-01-16T21:04:00",
+      "end": "2022-01-16T21:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.66505,
+          -73.79975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC019<br>Event no.108<br>73\u00b0 47.99'S         112\u00b0 39.9' W<br>Event: TMC CTD <br>Start: 2022-01-18 07:20:00<br>End: 2022-01-18 08:15:00"
+      },
+      "id": 107,
+      "start": "2022-01-18T07:20:00",
+      "end": "2022-01-18T08:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.666866666667,
+          -73.8001166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC020<br>Event no.115<br>73\u00b0 48.01'S         112\u00b0 40.01' W<br>Event: trace metal cast<br>Start: 2022-01-18 22:11:00<br>End: 2022-01-18 23:05:00"
+      },
+      "id": 114,
+      "start": "2022-01-18T22:11:00",
+      "end": "2022-01-18T23:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC023<br>Event no.129<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: TMC CTD <br>Start: NaT<br>End: NaT"
+      },
+      "id": 128,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.898733333333,
+          -74.1503666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC034<br>Event no.160<br>74\u00b0 9.02'S         111\u00b0 53.92' W<br>Event: TMC CTD <br>Start: 2022-01-22 00:53:00<br>End: 2022-01-22 01:37:00"
+      },
+      "id": 159,
+      "start": "2022-01-22T00:53:00",
+      "end": "2022-01-22T01:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3449,
+          -74.1753166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC042<br>Event no.185<br>74\u00b0 10.52'S         113\u00b0 20.69' W<br>Event: TMC CTD<br>Start: 2022-01-23 02:59:00<br>End: 2022-01-23 03:50:00"
+      },
+      "id": 184,
+      "start": "2022-01-23T02:59:00",
+      "end": "2022-01-23T03:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34459,
+          -74.1752783333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC076<br>Event no.248<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: ARTEMIS Pair<br>Start: 2022-01-26 13:17:00<br>End: NaT"
+      },
+      "id": 247,
+      "start": "2022-01-26T13:17:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3443,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC127<br>Event no.299<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 13:50:00<br>End: 2022-01-27 14:45:00"
+      },
+      "id": 298,
+      "start": "2022-01-27T13:50:00",
+      "end": "2022-01-27T14:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC140<br>Event no.319<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 318,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.083633333333,
+          -74.07595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC149<br>Event no.394<br>74\u00b0 4.56'S         113\u00b0 5.02' W<br>Event: Water samples to compare with Hugin sample<br>Start: NaT<br>End: 2022-01-30 23:44:00"
+      },
+      "id": 393,
+      "start": "NaT",
+      "end": "2022-01-30T23:44:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC156<br>Event no.404<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 403,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.085966666667,
+          -74.3929666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC168<br>Event no.457<br>74\u00b0 23.58'S         110\u00b0 5.16' W<br>Event: nan<br>Start: 2022-02-03 06:41:00<br>End: NaT"
+      },
+      "id": 456,
+      "start": "2022-02-03T06:41:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC185<br>Event no.485<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 484,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.666866666667,
+          -73.8001166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC195<br>Event no.565<br>73\u00b0 48.01'S         112\u00b0 40.01' W<br>Event: Southern polynya station revisit<br>Start: NaT<br>End: NaT"
+      },
+      "id": 564,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.644883333333,
+          -73.8069666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC196<br>Event no.567<br>73\u00b0 48.42'S         112\u00b0 38.69' W<br>Event: TMC CTD with monocore hanging beneath.  Into mud at 15m/min<br>Start: 2022-02-07 22:16:00<br>End: 2022-02-07 23:21:00"
+      },
+      "id": 566,
+      "start": "2022-02-07T22:16:00",
+      "end": "2022-02-07T23:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9003,
+          -74.2004166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC221<br>Event no.672<br>74\u00b0 12.03'S         110\u00b0 54.02' W<br>Event: BGC CTD<br>Start: 2022-02-11 13:38:00<br>End: 2022-02-11 14:20:00"
+      },
+      "id": 671,
+      "start": "2022-02-11T13:38:00",
+      "end": "2022-02-11T14:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC236<br>Event no.701<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 700,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.838033333333,
+          -73.92156666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC246<br>Event no.739<br>73\u00b0 55.29'S         118\u00b0 50.28' W<br>Event: ARTEMIS station<br>Start: 2022-02-15 03:28:00<br>End: NaT"
+      },
+      "id": 738,
+      "start": "2022-02-15T03:28:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC259<br>Event no.772<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: TMC CTD with monocore hanging <br>Start: NaT<br>End: NaT"
+      },
+      "id": 771,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.722833333333,
+          -73.8807833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC260<br>Event no.786<br>73\u00b0 52.85'S         118\u00b0 43.37' W<br>Event: *Actually not at the same place as Station 151<br>Start: 2022-02-19 02:26:00<br>End: NaT"
+      },
+      "id": 785,
+      "start": "2022-02-19T02:26:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.739433333333,
+          -73.8807333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC268<br>Event no.801<br>73\u00b0 52.84'S         118\u00b0 44.37' W<br>Event: TMC CTD no monocore<br>Start: NaT<br>End: NaT"
+      },
+      "id": 800,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.834213333333,
+          -73.7302633333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC272<br>Event no.823<br>73\u00b0 43.82'S         116\u00b0 50.05' W<br>Event: Getz B Trough - ARTEMIS Station<br>Start: 2022-02-20 21:13:00<br>End: 2022-02-20 22:11:00"
+      },
+      "id": 822,
+      "start": "2022-02-20T21:13:00",
+      "end": "2022-02-20T22:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.498816666667,
+          -73.6952366666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC280<br>Event no.850<br>73\u00b0 41.71'S         115\u00b0 29.93' W<br>Event: Trace metal clean CTD<br>Start: 2022-02-22 00:06:00<br>End: 2022-02-22 01:25:00"
+      },
+      "id": 849,
+      "start": "2022-02-22T00:06:00",
+      "end": "2022-02-22T01:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.07953333333299,
+          -74.0739
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC289<br>Event no.867<br>74\u00b0 4.43'S         113\u00b0 4.77' W<br>Event: calibration against Hugin 14, no monocore<br>Start: 2022-02-23 04:12:00<br>End: 2022-02-23 05:10:00"
+      },
+      "id": 866,
+      "start": "2022-02-23T04:12:00",
+      "end": "2022-02-23T05:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.398995,
+          -71.9999766666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC297<br>Event no.893<br>71\u00b0 60.0'S         119\u00b0 23.94' W<br>Event: TM CTD with no monocore<br>Start: 2022-02-25 02:08:00<br>End: 2022-02-25 04:04:00"
+      },
+      "id": 892,
+      "start": "2022-02-25T02:08:00",
+      "end": "2022-02-25T04:04:00"
+    }
+  ]
+}

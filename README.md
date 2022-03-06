@@ -17,7 +17,7 @@ This is a personal project by Callum Rollo. It has no official support or endors
 
 ### TODO
 
-- add installation instructions
-- upload static data
-- remove unnecessary JS
-- create branch for use on NBP
+-[ ] add installation instructions
+-[x] upload static data
+-[ ] remove unnecessary JS
+-[ ] create branch for use on NBP

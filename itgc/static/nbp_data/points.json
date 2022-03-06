@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0333,
+          -74.32369
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Bear Island<br>74\u00b0 19.42' S<br>111\u00b0 2.0' W"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.25604,
+          -74.29546
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Eastern Notch<br>74\u00b0 17.73' S<br>110\u00b0 15.36' W"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.24133,
+          -73.88439
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Martin Peninsula<br>73\u00b0 53.06' S<br>114\u00b0 14.48' W"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.65582,
+          -74.10853
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Getz Ice Shelf A<br>74\u00b0 6.51' S<br>115\u00b0 39.35' W"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34473,
+          -74.0271
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Getz Ice Shelf B<br>74\u00b0 1.63' S<br>118\u00b0 20.68' W"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.73333333333333,
+          -73.825
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "GETZ B WEST<br>73\u00b0 49.5' S<br>118\u00b0 44.0' W"
+      }
+    }
+  ]
+}

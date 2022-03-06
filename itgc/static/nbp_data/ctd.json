@@ -1,0 +1,4325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.34333333333299,
+          -69.4495
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD001<br>Event no.21<br>69\u00b0 26.97'S         102\u00b0 20.6' W<br>Event: Conv CTD/LADCP without monocore; no water samples; seal tags<br>Start: 2022-01-12 14:02:00<br>End: 2022-01-12 14:49:00"
+      },
+      "id": 20,
+      "start": "2022-01-12T14:02:00",
+      "end": "2022-01-12T14:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.343291666667,
+          -69.449585
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD002<br>Event no.22<br>69\u00b0 26.98'S         102\u00b0 20.6' W<br>Event: Conv CTD/LADCP with monocore, seal tags; water samples ART2001-ART2024<br>Start: 2022-01-12 15:14:00<br>End: 2022-01-12 16:01:00"
+      },
+      "id": 21,
+      "start": "2022-01-12T15:14:00",
+      "end": "2022-01-12T16:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8305,
+          -72.1565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD005<br>Event no.45<br>72\u00b0 9.39'S         117\u00b0 49.83' W<br>Event: LADCP Monocore BGC<br>Start: 2022-01-15 12:55:00<br>End: 2022-01-15 13:45:00"
+      },
+      "id": 44,
+      "start": "2022-01-15T12:55:00",
+      "end": "2022-01-15T13:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.622933333333,
+          -72.25993333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD007<br>Event no.53<br>72\u00b0 15.6'S         117\u00b0 37.38' W<br>Event: Glider calibration cast: SEA070; SG127 (approx. 1 nm away)<br>Start: 2022-01-15 18:34:00<br>End: NaT"
+      },
+      "id": 52,
+      "start": "2022-01-15T18:34:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.948,
+          -73.14433333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD008<br>Event no.71<br>73\u00b0 8.66'S         113\u00b0 56.88' W<br>Event: nan<br>Start: 2022-01-16 19:38:00<br>End: 2022-01-16 20:49:00"
+      },
+      "id": 70,
+      "start": "2022-01-16T19:38:00",
+      "end": "2022-01-16T20:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.95381166666701,
+          -73.1364366666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD010<br>Event no.79<br>73\u00b0 8.19'S         113\u00b0 57.23' W<br>Event: Cross trough section<br>Start: 2022-01-16 22:45:00<br>End: 2022-01-16 23:23:00"
+      },
+      "id": 78,
+      "start": "2022-01-16T22:45:00",
+      "end": "2022-01-16T23:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.897125,
+          -73.12015500000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD011<br>Event no.80<br>73\u00b0 7.21'S         113\u00b0 53.83' W<br>Event: Cross trough section<br>Start: 2022-01-16 23:45:00<br>End: 2022-01-17 00:16:00"
+      },
+      "id": 79,
+      "start": "2022-01-16T23:45:00",
+      "end": "2022-01-17T00:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.841118333333,
+          -73.1030883333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD012<br>Event no.81<br>73\u00b0 6.19'S         113\u00b0 50.47' W<br>Event: Cross trough section<br>Start: 2022-01-17 00:36:00<br>End: 2022-01-17 01:10:00"
+      },
+      "id": 80,
+      "start": "2022-01-17T00:36:00",
+      "end": "2022-01-17T01:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.786041666667,
+          -73.0866166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD013<br>Event no.82<br>73\u00b0 5.2'S         113\u00b0 47.16' W<br>Event: Cross trough section<br>Start: 2022-01-17 01:28:00<br>End: 2022-01-17 02:02:00"
+      },
+      "id": 81,
+      "start": "2022-01-17T01:28:00",
+      "end": "2022-01-17T02:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.73027833333299,
+          -73.07045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD014<br>Event no.83<br>73\u00b0 4.23'S         113\u00b0 43.82' W<br>Event: Cross trough section<br>Start: 2022-01-17 02:25:00<br>End: 2022-01-17 02:52:00"
+      },
+      "id": 82,
+      "start": "2022-01-17T02:25:00",
+      "end": "2022-01-17T02:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.673766666667,
+          -73.05278
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD015<br>Event no.84<br>73\u00b0 3.17'S         113\u00b0 40.43' W<br>Event: Cross trough section<br>Start: 2022-01-17 03:17:00<br>End: 2022-01-17 03:50:00"
+      },
+      "id": 83,
+      "start": "2022-01-17T03:17:00",
+      "end": "2022-01-17T03:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.998703333333,
+          -73.15302333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD016<br>Event no.85<br>73\u00b0 9.18'S         113\u00b0 59.92' W<br>Event: Cross trough section<br>Start: 2022-01-17 04:58:00<br>End: 2022-01-17 05:34:00"
+      },
+      "id": 84,
+      "start": "2022-01-17T04:58:00",
+      "end": "2022-01-17T05:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.66818333333299,
+          -73.80505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD017<br>Event no.88<br>73\u00b0 48.3'S         112\u00b0 40.09' W<br>Event: Glider calibration cast: SG558; SG510 (approx. 0.25 nm away from first SG558 deployment)<br>Start: 2022-01-17 15:44:00<br>End: NaT"
+      },
+      "id": 87,
+      "start": "2022-01-17T15:44:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.66511499999999,
+          -73.7997666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD018<br>Event no.107<br>73\u00b0 47.99'S         112\u00b0 39.91' W<br>Event: LADCP monocore bgc pH<br>Start: 2022-01-18 05:36:00<br>End: NaT"
+      },
+      "id": 106,
+      "start": "2022-01-18T05:36:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.205766666667,
+          -74.2157666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD021<br>Event no.123<br>74\u00b0 12.95'S         112\u00b0 12.35' W<br>Event: Glider calibration cast: SG620<br>Start: 2022-01-19 19:57:00<br>End: NaT"
+      },
+      "id": 122,
+      "start": "2022-01-19T19:57:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0795,
+          -74.2325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD022<br>Event no.128<br>74\u00b0 13.95'S         112\u00b0 4.77' W<br>Event: monocore, LADCP<br>Start: 2022-01-20 06:00:00<br>End: NaT"
+      },
+      "id": 127,
+      "start": "2022-01-20T06:00:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.501333333333,
+          -74.2150666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD024<br>Event no.135<br>74\u00b0 12.9'S         112\u00b0 30.08' W<br>Event: Glider calibration cast: SG613<br>Start: 2022-01-20 20:13:00<br>End: NaT"
+      },
+      "id": 134,
+      "start": "2022-01-20T20:13:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.28848333333299,
+          -74.23298333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD025<br>Event no.141<br>74\u00b0 13.98'S         112\u00b0 17.31' W<br>Event: Start of Tow-Yo section 1<br>Start: 2022-01-21 06:37:00<br>End: 2022-01-21 07:31:00"
+      },
+      "id": 140,
+      "start": "2022-01-21T06:37:00",
+      "end": "2022-01-21T07:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.26286999999999,
+          -74.2316583333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD026<br>Event no.142<br>74\u00b0 13.9'S         112\u00b0 15.77' W<br>Event: nan<br>Start: 2022-01-21 07:34:00<br>End: 2022-01-21 08:17:00"
+      },
+      "id": 141,
+      "start": "2022-01-21T07:34:00",
+      "end": "2022-01-21T08:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.239966666667,
+          -74.23116999999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD027<br>Event no.143<br>74\u00b0 13.87'S         112\u00b0 14.4' W<br>Event: nan<br>Start: 2022-01-21 08:19:00<br>End: 2022-01-21 09:03:00"
+      },
+      "id": 142,
+      "start": "2022-01-21T08:19:00",
+      "end": "2022-01-21T09:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.221855,
+          -74.23043
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD028<br>Event no.144<br>74\u00b0 13.83'S         112\u00b0 13.31' W<br>Event: nan<br>Start: 2022-01-21 09:05:00<br>End: 2022-01-21 09:48:00"
+      },
+      "id": 143,
+      "start": "2022-01-21T09:05:00",
+      "end": "2022-01-21T09:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.14960500000001,
+          -74.2282033333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD029<br>Event no.145<br>74\u00b0 13.69'S         112\u00b0 8.98' W<br>Event: nan<br>Start: 2022-01-21 10:22:00<br>End: 2022-01-21 11:07:00"
+      },
+      "id": 144,
+      "start": "2022-01-21T10:22:00",
+      "end": "2022-01-21T11:07:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.083198333333,
+          -74.225045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD030<br>Event no.146<br>74\u00b0 13.5'S         112\u00b0 4.99' W<br>Event: nan<br>Start: 2022-01-21 11:31:00<br>End: 2022-01-21 12:11:00"
+      },
+      "id": 145,
+      "start": "2022-01-21T11:31:00",
+      "end": "2022-01-21T12:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.00104499999999,
+          -74.22174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD031<br>Event no.147<br>74\u00b0 13.3'S         112\u00b0 0.06' W<br>Event: nan<br>Start: 2022-01-21 12:47:00<br>End: 2022-01-21 13:26:00"
+      },
+      "id": 146,
+      "start": "2022-01-21T12:47:00",
+      "end": "2022-01-21T13:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.868001666667,
+          -74.216705
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD032<br>Event no.148<br>74\u00b0 13.0'S         111\u00b0 52.08' W<br>Event: nan<br>Start: 2022-01-21 13:57:00<br>End: 2022-01-21 14:15:00"
+      },
+      "id": 147,
+      "start": "2022-01-21T13:57:00",
+      "end": "2022-01-21T14:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89861666666701,
+          -74.1512
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD033<br>Event no.159<br>74\u00b0 9.07'S         111\u00b0 53.92' W<br>Event: monocore, LADCP<br>Start: 2022-01-21 23:45:00<br>End: 2022-01-22 00:30:00"
+      },
+      "id": 158,
+      "start": "2022-01-21T23:45:00",
+      "end": "2022-01-22T00:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.446953333333,
+          -74.145005
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD035<br>Event no.164<br>74\u00b0 8.7'S         113\u00b0 26.82' W<br>Event: Start of Tow-Yo section 2<br>Start: 2022-01-22 14:26:00<br>End: 2022-01-22 14:43:00"
+      },
+      "id": 163,
+      "start": "2022-01-22T14:26:00",
+      "end": "2022-01-22T14:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.433333333333,
+          -74.14698
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD036<br>Event no.165<br>74\u00b0 8.82'S         113\u00b0 26.0' W<br>Event: nan<br>Start: 2022-01-22 14:45:00<br>End: 2022-01-22 15:04:00"
+      },
+      "id": 164,
+      "start": "2022-01-22T14:45:00",
+      "end": "2022-01-22T15:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.413151666667,
+          -74.1469883333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD037<br>Event no.166<br>74\u00b0 8.82'S         113\u00b0 24.79' W<br>Event: nan<br>Start: 2022-01-22 15:05:00<br>End: 2022-01-22 15:27:00"
+      },
+      "id": 165,
+      "start": "2022-01-22T15:05:00",
+      "end": "2022-01-22T15:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.38368999999999,
+          -74.1469833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD038<br>Event no.167<br>74\u00b0 8.82'S         113\u00b0 23.02' W<br>Event: nan<br>Start: 2022-01-22 15:27:00<br>End: 2022-01-22 15:50:00"
+      },
+      "id": 166,
+      "start": "2022-01-22T15:27:00",
+      "end": "2022-01-22T15:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.351,
+          -74.1469883333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD039<br>Event no.168<br>74\u00b0 8.82'S         113\u00b0 21.06' W<br>Event: End of Tow-Yo<br>Start: 2022-01-22 15:51:00<br>End: 2022-01-22 16:13:00"
+      },
+      "id": 167,
+      "start": "2022-01-22T15:51:00",
+      "end": "2022-01-22T16:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.312743333333,
+          -74.1461633333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD040<br>Event no.169<br>74\u00b0 8.77'S         113\u00b0 18.76' W<br>Event: End station of section<br>Start: 2022-01-22 16:31:00<br>End: 2022-01-22 16:58:00"
+      },
+      "id": 168,
+      "start": "2022-01-22T16:31:00",
+      "end": "2022-01-22T16:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3449,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD041<br>Event no.184<br>74\u00b0 10.52'S         113\u00b0 20.69' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 183,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.322566666667,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD043<br>Event no.190<br>74\u00b0 10.52'S         113\u00b0 19.35' W<br>Event: nan<br>Start: 2022-01-23 11:30:00<br>End: NaT"
+      },
+      "id": 189,
+      "start": "2022-01-23T11:30:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.30030833333299,
+          -74.166725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD044<br>Event no.195<br>74\u00b0 10.0'S         113\u00b0 18.02' W<br>Event: nan<br>Start: 2022-01-23 22:11:00<br>End: 2022-01-23 22:45:00"
+      },
+      "id": 194,
+      "start": "2022-01-23T22:11:00",
+      "end": "2022-01-23T22:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.251465,
+          -74.174995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD045<br>Event no.196<br>74\u00b0 10.5'S         113\u00b0 15.09' W<br>Event: nan<br>Start: 2022-01-23 23:12:00<br>End: 2022-01-23 23:54:00"
+      },
+      "id": 195,
+      "start": "2022-01-23T23:12:00",
+      "end": "2022-01-23T23:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.174225,
+          -74.1754233333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD046<br>Event no.197<br>74\u00b0 10.53'S         113\u00b0 10.45' W<br>Event: nan<br>Start: 2022-01-24 00:17:00<br>End: 2022-01-24 01:09:00"
+      },
+      "id": 196,
+      "start": "2022-01-24T00:17:00",
+      "end": "2022-01-24T01:09:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.131033333333,
+          -74.18785
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD047<br>Event no.198<br>74\u00b0 11.27'S         113\u00b0 7.86' W<br>Event: nan<br>Start: 2022-01-24 01:32:00<br>End: 2022-01-24 02:17:00"
+      },
+      "id": 197,
+      "start": "2022-01-24T01:32:00",
+      "end": "2022-01-24T02:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.050666666667,
+          -74.19999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD048<br>Event no.199<br>74\u00b0 12.0'S         113\u00b0 3.04' W<br>Event: nan<br>Start: 2022-01-24 02:42:00<br>End: 2022-01-24 03:23:00"
+      },
+      "id": 198,
+      "start": "2022-01-24T02:42:00",
+      "end": "2022-01-24T03:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.950383333333,
+          -74.2082
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD049<br>Event no.200<br>74\u00b0 12.49'S         112\u00b0 57.02' W<br>Event: nan<br>Start: 2022-01-24 03:50:00<br>End: 2022-01-24 04:27:00"
+      },
+      "id": 199,
+      "start": "2022-01-24T03:50:00",
+      "end": "2022-01-24T04:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.867883333333,
+          -74.21995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD050<br>Event no.201<br>74\u00b0 13.2'S         112\u00b0 52.07' W<br>Event: nan<br>Start: 2022-01-24 04:57:00<br>End: 2022-01-24 05:34:00"
+      },
+      "id": 200,
+      "start": "2022-01-24T04:57:00",
+      "end": "2022-01-24T05:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.829866666667,
+          -74.2258166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD051<br>Event no.202<br>74\u00b0 13.55'S         112\u00b0 49.79' W<br>Event: nan<br>Start: 2022-01-24 06:04:00<br>End: 2022-01-24 06:47:00"
+      },
+      "id": 201,
+      "start": "2022-01-24T06:04:00",
+      "end": "2022-01-24T06:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6918,
+          -74.2299666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD052<br>Event no.203<br>74\u00b0 13.8'S         112\u00b0 41.51' W<br>Event: nan<br>Start: 2022-01-24 07:16:00<br>End: 2022-01-24 08:05:00"
+      },
+      "id": 202,
+      "start": "2022-01-24T07:16:00",
+      "end": "2022-01-24T08:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.598566666667,
+          -74.2323
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD053<br>Event no.204<br>74\u00b0 13.94'S         112\u00b0 35.91' W<br>Event: nan<br>Start: 2022-01-24 08:33:00<br>End: 2022-01-24 09:22:00"
+      },
+      "id": 203,
+      "start": "2022-01-24T08:33:00",
+      "end": "2022-01-24T09:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.503583333333,
+          -74.2314333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD054<br>Event no.205<br>74\u00b0 13.89'S         112\u00b0 30.21' W<br>Event: nan<br>Start: 2022-01-24 09:48:00<br>End: 2022-01-24 10:40:00"
+      },
+      "id": 204,
+      "start": "2022-01-24T09:48:00",
+      "end": "2022-01-24T10:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.412933333333,
+          -74.23315
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD055<br>Event no.208<br>74\u00b0 13.99'S         112\u00b0 24.78' W<br>Event: nan<br>Start: 2022-01-24 13:37:00<br>End: 2022-01-24 14:23:00"
+      },
+      "id": 207,
+      "start": "2022-01-24T13:37:00",
+      "end": "2022-01-24T14:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3305,
+          -74.2351333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD056<br>Event no.209<br>74\u00b0 14.11'S         112\u00b0 19.83' W<br>Event: nan<br>Start: 2022-01-24 14:55:00<br>End: 2022-01-24 15:45:00"
+      },
+      "id": 208,
+      "start": "2022-01-24T14:55:00",
+      "end": "2022-01-24T15:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.256283333333,
+          -74.23169666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD057<br>Event no.210<br>74\u00b0 13.9'S         112\u00b0 15.38' W<br>Event: nan<br>Start: 2022-01-24 16:11:00<br>End: 2022-01-24 17:01:00"
+      },
+      "id": 209,
+      "start": "2022-01-24T16:11:00",
+      "end": "2022-01-24T17:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71455,
+          -74.1804166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD058<br>Event no.222<br>74\u00b0 10.83'S         111\u00b0 42.87' W<br>Event: nan<br>Start: 2022-01-25 07:47:00<br>End: 2022-01-25 08:06:00"
+      },
+      "id": 221,
+      "start": "2022-01-25T07:47:00",
+      "end": "2022-01-25T08:06:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7229,
+          -74.1255166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD059<br>Event no.223<br>74\u00b0 7.53'S         111\u00b0 43.37' W<br>Event: nan<br>Start: 2022-01-25 09:01:00<br>End: 2022-01-25 09:19:00"
+      },
+      "id": 222,
+      "start": "2022-01-25T09:01:00",
+      "end": "2022-01-25T09:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.675666666667,
+          -74.0805333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD060<br>Event no.224<br>74\u00b0 4.83'S         111\u00b0 40.54' W<br>Event: nan<br>Start: 2022-01-25 09:55:00<br>End: 2022-01-25 10:16:00"
+      },
+      "id": 223,
+      "start": "2022-01-25T09:55:00",
+      "end": "2022-01-25T10:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7033,
+          -74.04186666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD061<br>Event no.225<br>74\u00b0 2.51'S         111\u00b0 42.2' W<br>Event: nan<br>Start: 2022-01-25 11:10:00<br>End: 2022-01-25 11:33:00"
+      },
+      "id": 224,
+      "start": "2022-01-25T11:10:00",
+      "end": "2022-01-25T11:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.74935,
+          -73.9882166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD062<br>Event no.226<br>73\u00b0 59.29'S         111\u00b0 44.96' W<br>Event: nan<br>Start: 2022-01-25 12:18:00<br>End: 2022-01-25 12:48:00"
+      },
+      "id": 225,
+      "start": "2022-01-25T12:18:00",
+      "end": "2022-01-25T12:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.728683333333,
+          -74.0244333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD063<br>Event no.227<br>74\u00b0 1.47'S         111\u00b0 43.72' W<br>Event: nan<br>Start: 2022-01-25 13:28:00<br>End: 2022-01-25 13:50:00"
+      },
+      "id": 226,
+      "start": "2022-01-25T13:28:00",
+      "end": "2022-01-25T13:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.73365,
+          -74.00795
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD064<br>Event no.228<br>74\u00b0 0.48'S         111\u00b0 44.02' W<br>Event: nan<br>Start: 2022-01-25 14:42:00<br>End: 2022-01-25 14:42:00"
+      },
+      "id": 227,
+      "start": "2022-01-25T14:42:00",
+      "end": "2022-01-25T14:42:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.067033333333,
+          -73.9926833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD065<br>Event no.229<br>73\u00b0 59.56'S         112\u00b0 4.02' W<br>Event: nan<br>Start: 2022-01-25 15:39:00<br>End: 2022-01-25 16:20:00"
+      },
+      "id": 228,
+      "start": "2022-01-25T15:39:00",
+      "end": "2022-01-25T16:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21188333333299,
+          -74.1530833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD066<br>Event no.236<br>74\u00b0 9.18'S         112\u00b0 12.71' W<br>Event: nan<br>Start: 2022-01-25 21:44:00<br>End: 2022-01-25 22:32:00"
+      },
+      "id": 235,
+      "start": "2022-01-25T21:44:00",
+      "end": "2022-01-25T22:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.211983333333,
+          -74.1697166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD067<br>Event no.237<br>74\u00b0 10.18'S         112\u00b0 12.72' W<br>Event: nan<br>Start: 2022-01-25 23:17:00<br>End: 2022-01-26 00:01:00"
+      },
+      "id": 236,
+      "start": "2022-01-25T23:17:00",
+      "end": "2022-01-26T00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2141,
+          -74.1866333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD068<br>Event no.238<br>74\u00b0 11.2'S         112\u00b0 12.85' W<br>Event: nan<br>Start: 2022-01-26 00:27:00<br>End: 2022-01-26 01:13:00"
+      },
+      "id": 237,
+      "start": "2022-01-26T00:27:00",
+      "end": "2022-01-26T01:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21335,
+          -74.2030333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD069<br>Event no.239<br>74\u00b0 12.18'S         112\u00b0 12.8' W<br>Event: nan<br>Start: 2022-01-26 01:37:00<br>End: 2022-01-26 02:24:00"
+      },
+      "id": 238,
+      "start": "2022-01-26T01:37:00",
+      "end": "2022-01-26T02:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.220666666667,
+          -74.2200083333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD070<br>Event no.240<br>74\u00b0 13.2'S         112\u00b0 13.24' W<br>Event: nan<br>Start: 2022-01-26 02:45:00<br>End: 2022-01-26 03:32:00"
+      },
+      "id": 239,
+      "start": "2022-01-26T02:45:00",
+      "end": "2022-01-26T03:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.20965,
+          -74.23825
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD071<br>Event no.241<br>74\u00b0 14.29'S         112\u00b0 12.58' W<br>Event: nan<br>Start: 2022-01-26 03:58:00<br>End: 2022-01-26 04:49:00"
+      },
+      "id": 240,
+      "start": "2022-01-26T03:58:00",
+      "end": "2022-01-26T04:49:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.37758333333299,
+          -73.998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD072<br>Event no.242<br>73\u00b0 59.88'S         112\u00b0 22.65' W<br>Event: nan<br>Start: 2022-01-26 06:38:00<br>End: 2022-01-26 07:15:00"
+      },
+      "id": 241,
+      "start": "2022-01-26T06:38:00",
+      "end": "2022-01-26T07:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.682503333333,
+          -74.00626333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD073<br>Event no.243<br>74\u00b0 0.38'S         112\u00b0 40.95' W<br>Event: nan<br>Start: 2022-01-26 08:05:00<br>End: 2022-01-26 08:55:00"
+      },
+      "id": 242,
+      "start": "2022-01-26T08:05:00",
+      "end": "2022-01-26T08:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: nan<br>Event no.244<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 243,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.983833333333,
+          -74.0183
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD074<br>Event no.246<br>74\u00b0 1.1'S         112\u00b0 59.03' W<br>Event: nan<br>Start: 2022-01-26 09:43:00<br>End: 2022-01-26 10:11:00"
+      },
+      "id": 245,
+      "start": "2022-01-26T09:43:00",
+      "end": "2022-01-26T10:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD075<br>Event no.247<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: ARTEMIS Pair<br>Start: 2022-01-26 12:21:00<br>End: 2022-01-26 13:05:00"
+      },
+      "id": 246,
+      "start": "2022-01-26T12:21:00",
+      "end": "2022-01-26T13:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD077<br>Event no.249<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: 24 h Yo-Yo to examine temporal variability (tidal +) in the Dotson Outflow current<br>Start: 2022-01-26 15:40:00<br>End: 2022-01-26 16:15:00"
+      },
+      "id": 248,
+      "start": "2022-01-26T15:40:00",
+      "end": "2022-01-26T16:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD078<br>Event no.250<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 16:15:00<br>End: 2022-01-26 16:43:00"
+      },
+      "id": 249,
+      "start": "2022-01-26T16:15:00",
+      "end": "2022-01-26T16:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD079<br>Event no.251<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 16:43:00<br>End: 2022-01-26 17:10:00"
+      },
+      "id": 250,
+      "start": "2022-01-26T16:43:00",
+      "end": "2022-01-26T17:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34461666666701,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD080<br>Event no.252<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 17:11:00<br>End: 2022-01-26 17:38:00"
+      },
+      "id": 251,
+      "start": "2022-01-26T17:11:00",
+      "end": "2022-01-26T17:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD081<br>Event no.253<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 17:39:00<br>End: 2022-01-26 18:05:00"
+      },
+      "id": 252,
+      "start": "2022-01-26T17:39:00",
+      "end": "2022-01-26T18:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD082<br>Event no.254<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 18:06:00<br>End: 2022-01-26 18:33:00"
+      },
+      "id": 253,
+      "start": "2022-01-26T18:06:00",
+      "end": "2022-01-26T18:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34458333333299,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD083<br>Event no.255<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-26 18:34:00<br>End: 2022-01-26 19:01:00"
+      },
+      "id": 254,
+      "start": "2022-01-26T18:34:00",
+      "end": "2022-01-26T19:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD084<br>Event no.256<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 19:02:00<br>End: 2022-01-26 19:28:00"
+      },
+      "id": 255,
+      "start": "2022-01-26T19:02:00",
+      "end": "2022-01-26T19:28:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD085<br>Event no.257<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 19:29:00<br>End: 2022-01-26 19:55:00"
+      },
+      "id": 256,
+      "start": "2022-01-26T19:29:00",
+      "end": "2022-01-26T19:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344633333333,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD086<br>Event no.258<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 19:56:00<br>End: 2022-01-26 20:22:00"
+      },
+      "id": 257,
+      "start": "2022-01-26T19:56:00",
+      "end": "2022-01-26T20:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD087<br>Event no.259<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 20:23:00<br>End: 2022-01-26 20:48:00"
+      },
+      "id": 258,
+      "start": "2022-01-26T20:23:00",
+      "end": "2022-01-26T20:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD088<br>Event no.260<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 20:49:00<br>End: 2022-01-26 21:14:00"
+      },
+      "id": 259,
+      "start": "2022-01-26T20:49:00",
+      "end": "2022-01-26T21:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD089<br>Event no.261<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 21:15:00<br>End: 2022-01-26 21:41:00"
+      },
+      "id": 260,
+      "start": "2022-01-26T21:15:00",
+      "end": "2022-01-26T21:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD090<br>Event no.262<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 21:43:00<br>End: 2022-01-26 22:08:00"
+      },
+      "id": 261,
+      "start": "2022-01-26T21:43:00",
+      "end": "2022-01-26T22:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD091<br>Event no.263<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 22:10:00<br>End: 2022-01-26 22:36:00"
+      },
+      "id": 262,
+      "start": "2022-01-26T22:10:00",
+      "end": "2022-01-26T22:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD092<br>Event no.264<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 22:37:00<br>End: 2022-01-26 23:04:00"
+      },
+      "id": 263,
+      "start": "2022-01-26T22:37:00",
+      "end": "2022-01-26T23:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD093<br>Event no.265<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 23:05:00<br>End: 2022-01-26 23:33:00"
+      },
+      "id": 264,
+      "start": "2022-01-26T23:05:00",
+      "end": "2022-01-26T23:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3446,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD094<br>Event no.266<br>74\u00b0 10.52'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-26 23:34:00<br>End: 2022-01-27 00:01:00"
+      },
+      "id": 265,
+      "start": "2022-01-26T23:34:00",
+      "end": "2022-01-27T00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344566666667,
+          -74.1753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD095<br>Event no.267<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-27 00:03:00<br>End: 2022-01-27 00:30:00"
+      },
+      "id": 266,
+      "start": "2022-01-27T00:03:00",
+      "end": "2022-01-27T00:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344566666667,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD096<br>Event no.268<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-27 00:31:00<br>End: 2022-01-27 00:58:00"
+      },
+      "id": 267,
+      "start": "2022-01-27T00:31:00",
+      "end": "2022-01-27T00:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34458333333299,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD097<br>Event no.269<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-27 00:59:00<br>End: 2022-01-27 01:27:00"
+      },
+      "id": 268,
+      "start": "2022-01-27T00:59:00",
+      "end": "2022-01-27T01:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344566666667,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD098<br>Event no.270<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-27 01:29:00<br>End: 2022-01-27 01:56:00"
+      },
+      "id": 269,
+      "start": "2022-01-27T01:29:00",
+      "end": "2022-01-27T01:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344566666667,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD099<br>Event no.271<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-27 01:58:00<br>End: 2022-01-27 02:25:00"
+      },
+      "id": 270,
+      "start": "2022-01-27T01:58:00",
+      "end": "2022-01-27T02:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344566666667,
+          -74.1752833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD100<br>Event no.272<br>74\u00b0 10.52'S         113\u00b0 20.67' W<br>Event: nan<br>Start: 2022-01-27 02:27:00<br>End: 2022-01-27 02:54:00"
+      },
+      "id": 271,
+      "start": "2022-01-27T02:27:00",
+      "end": "2022-01-27T02:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD101<br>Event no.273<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 02:56:00<br>End: 2022-01-27 03:19:00"
+      },
+      "id": 272,
+      "start": "2022-01-27T02:56:00",
+      "end": "2022-01-27T03:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344283333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD102<br>Event no.274<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 03:22:00<br>End: 2022-01-27 03:46:00"
+      },
+      "id": 273,
+      "start": "2022-01-27T03:22:00",
+      "end": "2022-01-27T03:46:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD103<br>Event no.275<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 03:56:00<br>End: 2022-01-27 04:11:00"
+      },
+      "id": 274,
+      "start": "2022-01-27T03:56:00",
+      "end": "2022-01-27T04:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD104<br>Event no.276<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 04:23:00<br>End: 2022-01-27 04:47:00"
+      },
+      "id": 275,
+      "start": "2022-01-27T04:23:00",
+      "end": "2022-01-27T04:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34426666666701,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD105<br>Event no.277<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 04:48:00<br>End: 2022-01-27 05:11:00"
+      },
+      "id": 276,
+      "start": "2022-01-27T04:48:00",
+      "end": "2022-01-27T05:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD106<br>Event no.278<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 05:12:00<br>End: 2022-01-27 05:37:00"
+      },
+      "id": 277,
+      "start": "2022-01-27T05:12:00",
+      "end": "2022-01-27T05:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD107<br>Event no.279<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 05:39:00<br>End: 2022-01-27 06:02:00"
+      },
+      "id": 278,
+      "start": "2022-01-27T05:39:00",
+      "end": "2022-01-27T06:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD108<br>Event no.280<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 06:04:00<br>End: 2022-01-27 06:26:00"
+      },
+      "id": 279,
+      "start": "2022-01-27T06:04:00",
+      "end": "2022-01-27T06:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34426666666701,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD109<br>Event no.281<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 06:28:00<br>End: 2022-01-27 06:51:00"
+      },
+      "id": 280,
+      "start": "2022-01-27T06:28:00",
+      "end": "2022-01-27T06:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34426666666701,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD110<br>Event no.282<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 06:52:00<br>End: 2022-01-27 07:14:00"
+      },
+      "id": 281,
+      "start": "2022-01-27T06:52:00",
+      "end": "2022-01-27T07:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD111<br>Event no.283<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 07:15:00<br>End: 2022-01-27 07:37:00"
+      },
+      "id": 282,
+      "start": "2022-01-27T07:15:00",
+      "end": "2022-01-27T07:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD112<br>Event no.284<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 07:38:00<br>End: 2022-01-27 08:00:00"
+      },
+      "id": 283,
+      "start": "2022-01-27T07:38:00",
+      "end": "2022-01-27T08:00:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD113<br>Event no.285<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 08:01:00<br>End: 2022-01-27 08:23:00"
+      },
+      "id": 284,
+      "start": "2022-01-27T08:01:00",
+      "end": "2022-01-27T08:23:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD114<br>Event no.286<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 08:25:00<br>End: 2022-01-27 08:46:00"
+      },
+      "id": 285,
+      "start": "2022-01-27T08:25:00",
+      "end": "2022-01-27T08:46:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD115<br>Event no.287<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 08:48:00<br>End: 2022-01-27 09:10:00"
+      },
+      "id": 286,
+      "start": "2022-01-27T08:48:00",
+      "end": "2022-01-27T09:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD116<br>Event no.288<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 09:11:00<br>End: 2022-01-27 09:32:00"
+      },
+      "id": 287,
+      "start": "2022-01-27T09:11:00",
+      "end": "2022-01-27T09:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD117<br>Event no.289<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 09:33:00<br>End: 2022-01-27 09:54:00"
+      },
+      "id": 288,
+      "start": "2022-01-27T09:33:00",
+      "end": "2022-01-27T09:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34426666666701,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD118<br>Event no.290<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 09:56:00<br>End: 2022-01-27 10:17:00"
+      },
+      "id": 289,
+      "start": "2022-01-27T09:56:00",
+      "end": "2022-01-27T10:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD119<br>Event no.291<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 10:18:00<br>End: 2022-01-27 10:39:00"
+      },
+      "id": 290,
+      "start": "2022-01-27T10:18:00",
+      "end": "2022-01-27T10:39:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34426666666701,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD120<br>Event no.292<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 10:41:00<br>End: 2022-01-27 11:03:00"
+      },
+      "id": 291,
+      "start": "2022-01-27T10:41:00",
+      "end": "2022-01-27T11:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD121<br>Event no.293<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 11:04:00<br>End: 2022-01-27 11:27:00"
+      },
+      "id": 292,
+      "start": "2022-01-27T11:04:00",
+      "end": "2022-01-27T11:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD122<br>Event no.294<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 11:29:00<br>End: 2022-01-27 11:52:00"
+      },
+      "id": 293,
+      "start": "2022-01-27T11:29:00",
+      "end": "2022-01-27T11:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD123<br>Event no.295<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 11:53:00<br>End: 2022-01-27 12:16:00"
+      },
+      "id": 294,
+      "start": "2022-01-27T11:53:00",
+      "end": "2022-01-27T12:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD124<br>Event no.296<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 12:17:00<br>End: 2022-01-27 12:40:00"
+      },
+      "id": 295,
+      "start": "2022-01-27T12:17:00",
+      "end": "2022-01-27T12:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344233333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD125<br>Event no.297<br>74\u00b0 10.52'S         113\u00b0 20.65' W<br>Event: nan<br>Start: 2022-01-27 12:42:00<br>End: 2022-01-27 13:04:00"
+      },
+      "id": 296,
+      "start": "2022-01-27T12:42:00",
+      "end": "2022-01-27T13:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.344283333333,
+          -74.1753666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD126<br>Event no.298<br>74\u00b0 10.52'S         113\u00b0 20.66' W<br>Event: nan<br>Start: 2022-01-27 13:10:00<br>End: NaT"
+      },
+      "id": 297,
+      "start": "2022-01-27T13:10:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.799308333333,
+          -74.0898966666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD128<br>Event no.304<br>74\u00b0 5.39'S         111\u00b0 47.96' W<br>Event: nan<br>Start: 2022-01-27 22:36:00<br>End: 2022-01-27 22:58:00"
+      },
+      "id": 303,
+      "start": "2022-01-27T22:36:00",
+      "end": "2022-01-27T22:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.907646666667,
+          -74.0951916666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD129<br>Event no.305<br>74\u00b0 5.71'S         111\u00b0 54.46' W<br>Event: nan<br>Start: NaT<br>End: 2022-01-27 23:57:00"
+      },
+      "id": 304,
+      "start": "NaT",
+      "end": "2022-01-27T23:57:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03128000000001,
+          -74.100655
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD130<br>Event no.306<br>74\u00b0 6.04'S         112\u00b0 1.88' W<br>Event: nan<br>Start: 2022-01-28 01:04:00<br>End: 2022-01-28 01:40:00"
+      },
+      "id": 305,
+      "start": "2022-01-28T01:04:00",
+      "end": "2022-01-28T01:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.119903333333,
+          -74.104805
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD131<br>Event no.307<br>74\u00b0 6.29'S         112\u00b0 7.19' W<br>Event: nan<br>Start: 2022-01-28 02:12:00<br>End: 2022-01-28 02:52:00"
+      },
+      "id": 306,
+      "start": "2022-01-28T02:12:00",
+      "end": "2022-01-28T02:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2867,
+          -74.1094
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD132<br>Event no.308<br>74\u00b0 6.56'S         112\u00b0 17.2' W<br>Event: nan<br>Start: 2022-01-28 03:30:00<br>End: 2022-01-28 04:08:00"
+      },
+      "id": 307,
+      "start": "2022-01-28T03:30:00",
+      "end": "2022-01-28T04:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.483583333333,
+          -74.11421666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD133<br>Event no.309<br>74\u00b0 6.85'S         112\u00b0 29.01' W<br>Event: nan<br>Start: 2022-01-28 04:51:00<br>End: 2022-01-28 05:12:00"
+      },
+      "id": 308,
+      "start": "2022-01-28T04:51:00",
+      "end": "2022-01-28T05:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.52356666666701,
+          -74.0028166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD134<br>Event no.310<br>74\u00b0 0.17'S         112\u00b0 31.41' W<br>Event: nan<br>Start: 2022-01-28 06:34:00<br>End: 2022-01-28 07:08:00"
+      },
+      "id": 309,
+      "start": "2022-01-28T06:34:00",
+      "end": "2022-01-28T07:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.837016666667,
+          -74.0157333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD135<br>Event no.311<br>74\u00b0 0.94'S         112\u00b0 50.22' W<br>Event: nan<br>Start: 2022-01-28 08:00:00<br>End: 2022-01-28 08:35:00"
+      },
+      "id": 310,
+      "start": "2022-01-28T08:00:00",
+      "end": "2022-01-28T08:35:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.12286666666701,
+          -74.0230666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD136<br>Event no.312<br>74\u00b0 1.38'S         113\u00b0 7.37' W<br>Event: nan<br>Start: 2022-01-28 09:22:00<br>End: 2022-01-28 09:47:00"
+      },
+      "id": 311,
+      "start": "2022-01-28T09:22:00",
+      "end": "2022-01-28T09:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.243016666667,
+          -74.0272
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD137<br>Event no.313<br>74\u00b0 1.63'S         113\u00b0 14.58' W<br>Event: nan<br>Start: 2022-01-28 10:18:00<br>End: 2022-01-28 10:38:00"
+      },
+      "id": 312,
+      "start": "2022-01-28T10:18:00",
+      "end": "2022-01-28T10:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.351366666667,
+          -74.0306
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD138<br>Event no.314<br>74\u00b0 1.84'S         113\u00b0 21.08' W<br>Event: nan<br>Start: 2022-01-28 11:10:00<br>End: 2022-01-28 11:26:00"
+      },
+      "id": 313,
+      "start": "2022-01-28T11:10:00",
+      "end": "2022-01-28T11:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34465,
+          -74.02906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD139<br>Event no.318<br>74\u00b0 1.74'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-29 07:04:00<br>End: NaT"
+      },
+      "id": 317,
+      "start": "2022-01-29T07:04:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.664683333333,
+          -74.1166166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD141<br>Event no.360<br>74\u00b0 7.0'S         112\u00b0 39.88' W<br>Event: nan<br>Start: 2022-01-30 04:56:00<br>End: 2022-01-30 05:37:00"
+      },
+      "id": 359,
+      "start": "2022-01-30T04:56:00",
+      "end": "2022-01-30T05:37:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7817,
+          -74.1165666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD142<br>Event no.361<br>74\u00b0 6.99'S         112\u00b0 46.9' W<br>Event: nan<br>Start: 2022-01-30 06:08:00<br>End: 2022-01-30 06:40:00"
+      },
+      "id": 360,
+      "start": "2022-01-30T06:08:00",
+      "end": "2022-01-30T06:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.914633333333,
+          -74.1163333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD143<br>Event no.362<br>74\u00b0 6.98'S         112\u00b0 54.88' W<br>Event: nan<br>Start: 2022-01-30 07:11:00<br>End: 2022-01-30 07:42:00"
+      },
+      "id": 361,
+      "start": "2022-01-30T07:11:00",
+      "end": "2022-01-30T07:42:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.04705,
+          -74.1164166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD144<br>Event no.363<br>74\u00b0 6.99'S         113\u00b0 2.82' W<br>Event: nan<br>Start: 2022-01-30 08:13:00<br>End: 2022-01-30 08:44:00"
+      },
+      "id": 362,
+      "start": "2022-01-30T08:13:00",
+      "end": "2022-01-30T08:44:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.164916666667,
+          -74.1166833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD145<br>Event no.364<br>74\u00b0 7.0'S         113\u00b0 9.9' W<br>Event: nan<br>Start: 2022-01-30 09:11:00<br>End: 2022-01-30 09:36:00"
+      },
+      "id": 363,
+      "start": "2022-01-30T09:11:00",
+      "end": "2022-01-30T09:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.264666666667,
+          -74.1166833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD146<br>Event no.365<br>74\u00b0 7.0'S         113\u00b0 15.88' W<br>Event: nan<br>Start: 2022-01-30 10:01:00<br>End: 2022-01-30 10:25:00"
+      },
+      "id": 364,
+      "start": "2022-01-30T10:01:00",
+      "end": "2022-01-30T10:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34825,
+          -74.1165
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD147<br>Event no.366<br>74\u00b0 6.99'S         113\u00b0 20.89' W<br>Event: nan<br>Start: 2022-01-30 10:49:00<br>End: 2022-01-30 11:10:00"
+      },
+      "id": 365,
+      "start": "2022-01-30T10:49:00",
+      "end": "2022-01-30T11:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.083633333333,
+          -74.07595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD148<br>Event no.393<br>74\u00b0 4.56'S         113\u00b0 5.02' W<br>Event: Water samples to compare with Hugin sample<br>Start: 2022-01-30 23:16:00<br>End: NaT"
+      },
+      "id": 392,
+      "start": "2022-01-30T23:16:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.322316666667,
+          -74.10991666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD150<br>Event no.398<br>74\u00b0 6.6'S         113\u00b0 19.34' W<br>Event: Short outflow time series in mixing core <br>Start: 2022-01-31 11:26:00<br>End: 2022-01-31 11:48:00"
+      },
+      "id": 397,
+      "start": "2022-01-31T11:26:00",
+      "end": "2022-01-31T11:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32233333333299,
+          -74.10991666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD151<br>Event no.399<br>74\u00b0 6.6'S         113\u00b0 19.34' W<br>Event: nan<br>Start: 2022-01-31 11:44:00<br>End: 2022-01-31 12:09:00"
+      },
+      "id": 398,
+      "start": "2022-01-31T11:44:00",
+      "end": "2022-01-31T12:09:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32233333333299,
+          -74.10991666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD152<br>Event no.400<br>74\u00b0 6.6'S         113\u00b0 19.34' W<br>Event: nan<br>Start: 2022-01-31 12:10:00<br>End: 2022-01-31 12:30:00"
+      },
+      "id": 399,
+      "start": "2022-01-31T12:10:00",
+      "end": "2022-01-31T12:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32233333333299,
+          -74.10991666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD153<br>Event no.401<br>74\u00b0 6.6'S         113\u00b0 19.34' W<br>Event: nan<br>Start: 2022-01-31 12:31:00<br>End: 2022-01-31 12:50:00"
+      },
+      "id": 400,
+      "start": "2022-01-31T12:31:00",
+      "end": "2022-01-31T12:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.32233333333299,
+          -74.10991666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD154<br>Event no.402<br>74\u00b0 6.6'S         113\u00b0 19.34' W<br>Event: nan<br>Start: 2022-01-31 12:52:00<br>End: 2022-01-31 13:11:00"
+      },
+      "id": 401,
+      "start": "2022-01-31T12:52:00",
+      "end": "2022-01-31T13:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.685,
+          -74.2288333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD155<br>Event no.403<br>74\u00b0 13.73'S         112\u00b0 41.1' W<br>Event: Coastal current mid-DIS<br>Start: 2022-01-31 16:56:00<br>End: NaT"
+      },
+      "id": 402,
+      "start": "2022-01-31T16:56:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.068908333333,
+          -74.2283333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD157<br>Event no.405<br>74\u00b0 13.7'S         112\u00b0 4.13' W<br>Event: Start of hunt for channel outflow<br>Start: 2022-01-31 21:27:00<br>End: 2022-01-31 21:48:00"
+      },
+      "id": 404,
+      "start": "2022-01-31T21:27:00",
+      "end": "2022-01-31T21:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.099968333333,
+          -74.2297966666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD158<br>Event no.406<br>74\u00b0 13.79'S         112\u00b0 6.0' W<br>Event: nan<br>Start: 2022-01-31 22:04:00<br>End: 2022-01-31 22:28:00"
+      },
+      "id": 405,
+      "start": "2022-01-31T22:04:00",
+      "end": "2022-01-31T22:28:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.132591666667,
+          -74.23136833333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD159<br>Event no.407<br>74\u00b0 13.88'S         112\u00b0 7.96' W<br>Event: nan<br>Start: 2022-01-31 22:48:00<br>End: 2022-01-31 23:13:00"
+      },
+      "id": 406,
+      "start": "2022-01-31T22:48:00",
+      "end": "2022-01-31T23:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.165336666667,
+          -74.2329483333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD160<br>Event no.408<br>74\u00b0 13.98'S         112\u00b0 9.92' W<br>Event: nan<br>Start: 2022-01-31 23:32:00<br>End: 2022-01-31 23:59:00"
+      },
+      "id": 407,
+      "start": "2022-01-31T23:32:00",
+      "end": "2022-01-31T23:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.19995,
+          -74.23576666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD161<br>Event no.409<br>74\u00b0 14.15'S         112\u00b0 12.0' W<br>Event: meltwater at 350m?<br>Start: 2022-02-01 00:21:00<br>End: 2022-02-01 00:47:00"
+      },
+      "id": 408,
+      "start": "2022-02-01T00:21:00",
+      "end": "2022-02-01T00:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.23415,
+          -74.23805
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD162<br>Event no.410<br>74\u00b0 14.28'S         112\u00b0 14.05' W<br>Event: nan<br>Start: 2022-02-01 01:06:00<br>End: NaT"
+      },
+      "id": 409,
+      "start": "2022-02-01T01:06:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2668,
+          -74.2399
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD163<br>Event no.411<br>74\u00b0 14.39'S         112\u00b0 16.01' W<br>Event: nan<br>Start: 2022-02-01 01:52:00<br>End: 2022-02-01 02:17:00"
+      },
+      "id": 410,
+      "start": "2022-02-01T01:52:00",
+      "end": "2022-02-01T02:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2979,
+          -74.2380333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD164<br>Event no.412<br>74\u00b0 14.28'S         112\u00b0 17.87' W<br>Event: nan<br>Start: 2022-02-01 02:34:00<br>End: NaT"
+      },
+      "id": 411,
+      "start": "2022-02-01T02:34:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3331,
+          -74.2366
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD165<br>Event no.413<br>74\u00b0 14.2'S         112\u00b0 19.99' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 412,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0798,
+          -74.4001333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD166<br>Event no.451<br>74\u00b0 24.01'S         110\u00b0 4.79' W<br>Event: nan<br>Start: 2022-02-03 04:11:00<br>End: 2022-02-03 04:53:00"
+      },
+      "id": 450,
+      "start": "2022-02-03T04:11:00",
+      "end": "2022-02-03T04:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.085966666667,
+          -74.3928333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD167<br>Event no.452<br>74\u00b0 23.57'S         110\u00b0 5.16' W<br>Event: nan<br>Start: NaT<br>End: NaT"
+      },
+      "id": 451,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.090566666667,
+          -74.38600000000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD169<br>Event no.453<br>74\u00b0 23.16'S         110\u00b0 5.43' W<br>Event: nan<br>Start: 2022-02-03 08:48:00<br>End: 2022-02-03 09:22:00"
+      },
+      "id": 452,
+      "start": "2022-02-03T08:48:00",
+      "end": "2022-02-03T09:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.423433333333,
+          -74.1906166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD170<br>Event no.456<br>74\u00b0 11.44'S         110\u00b0 25.41' W<br>Event: nan<br>Start: 2022-02-03 13:37:00<br>End: 2022-02-03 13:52:00"
+      },
+      "id": 455,
+      "start": "2022-02-03T13:37:00",
+      "end": "2022-02-03T13:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.511333333333,
+          -74.16265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD171<br>Event no.458<br>74\u00b0 9.76'S         110\u00b0 30.68' W<br>Event: nan<br>Start: 2022-02-03 14:28:00<br>End: 2022-02-03 14:56:00"
+      },
+      "id": 457,
+      "start": "2022-02-03T14:28:00",
+      "end": "2022-02-03T14:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.65453333333299,
+          -74.1354333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD172<br>Event no.459<br>74\u00b0 8.13'S         110\u00b0 39.27' W<br>Event: nan<br>Start: 2022-02-03 15:37:00<br>End: 2022-02-03 16:03:00"
+      },
+      "id": 458,
+      "start": "2022-02-03T15:37:00",
+      "end": "2022-02-03T16:03:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.765183333333,
+          -74.0872833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD173<br>Event no.460<br>74\u00b0 5.24'S         110\u00b0 45.91' W<br>Event: nan<br>Start: 2022-02-03 17:08:00<br>End: 2022-02-03 17:38:00"
+      },
+      "id": 459,
+      "start": "2022-02-03T17:08:00",
+      "end": "2022-02-03T17:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.791191666667,
+          -74.0722166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD174<br>Event no.462<br>74\u00b0 4.33'S         110\u00b0 47.47' W<br>Event: nan<br>Start: 2022-02-03 18:13:00<br>End: 2022-02-03 18:33:00"
+      },
+      "id": 461,
+      "start": "2022-02-03T18:13:00",
+      "end": "2022-02-03T18:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.982233333333,
+          -74.0493666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD175<br>Event no.464<br>74\u00b0 2.96'S         110\u00b0 58.93' W<br>Event: nan<br>Start: 2022-02-03 19:32:00<br>End: 2022-02-03 19:58:00"
+      },
+      "id": 463,
+      "start": "2022-02-03T19:32:00",
+      "end": "2022-02-03T19:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.14045,
+          -74.0295333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD176<br>Event no.465<br>74\u00b0 1.77'S         111\u00b0 8.43' W<br>Event: nan<br>Start: 2022-02-03 20:54:00<br>End: 2022-02-03 21:19:00"
+      },
+      "id": 464,
+      "start": "2022-02-03T20:54:00",
+      "end": "2022-02-03T21:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.262566666667,
+          -74.0117666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD177<br>Event no.466<br>74\u00b0 0.71'S         111\u00b0 15.75' W<br>Event: nan<br>Start: 2022-02-03 21:49:00<br>End: 2022-02-03 22:18:00"
+      },
+      "id": 465,
+      "start": "2022-02-03T21:49:00",
+      "end": "2022-02-03T22:18:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.306616666667,
+          -74.03501666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD178<br>Event no.467<br>74\u00b0 2.1'S         111\u00b0 18.4' W<br>Event: nan<br>Start: 2022-02-03 22:42:00<br>End: 2022-02-03 23:13:00"
+      },
+      "id": 466,
+      "start": "2022-02-03T22:42:00",
+      "end": "2022-02-03T23:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.32928500000001,
+          -74.05791500000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD179<br>Event no.468<br>74\u00b0 3.47'S         111\u00b0 19.76' W<br>Event: nan<br>Start: 2022-02-03 23:40:00<br>End: 2022-02-04 00:08:00"
+      },
+      "id": 467,
+      "start": "2022-02-03T23:40:00",
+      "end": "2022-02-04T00:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.400166666667,
+          -74.1159666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD180<br>Event no.469<br>74\u00b0 6.96'S         111\u00b0 24.01' W<br>Event: nan<br>Start: 2022-02-04 00:45:00<br>End: 2022-02-04 01:08:00"
+      },
+      "id": 468,
+      "start": "2022-02-04T00:45:00",
+      "end": "2022-02-04T01:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.436433333333,
+          -74.1587666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD181<br>Event no.470<br>74\u00b0 9.53'S         111\u00b0 26.19' W<br>Event: nan<br>Start: 2022-02-04 01:41:00<br>End: 2022-02-04 02:01:00"
+      },
+      "id": 469,
+      "start": "2022-02-04T01:41:00",
+      "end": "2022-02-04T02:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.541333333333,
+          -74.099525
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD182<br>Event no.471<br>74\u00b0 5.97'S         111\u00b0 32.48' W<br>Event: nan<br>Start: 2022-02-04 02:40:00<br>End: 2022-02-04 02:58:00"
+      },
+      "id": 470,
+      "start": "2022-02-04T02:40:00",
+      "end": "2022-02-04T02:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.47301666666701,
+          -74.0149083333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD183<br>Event no.476<br>74\u00b0 0.89'S         113\u00b0 28.38' W<br>Event: nan<br>Start: NaT<br>End: 2022-02-04 13:54:00"
+      },
+      "id": 475,
+      "start": "NaT",
+      "end": "2022-02-04T13:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.43945333333299,
+          -74.1591266666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD184<br>Event no.484<br>74\u00b0 9.55'S         111\u00b0 26.37' W<br>Event: CTD/LADCP cast mission 7<br>Start: 2022-02-05 10:16:00<br>End: 2022-02-05 10:51:00"
+      },
+      "id": 483,
+      "start": "2022-02-05T10:16:00",
+      "end": "2022-02-05T10:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.41045,
+          -74.1679
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD186<br>Event no.553<br>74\u00b0 10.07'S         113\u00b0 24.63' W<br>Event: nan<br>Start: 2022-02-07 07:22:00<br>End: 2022-02-07 07:36:00"
+      },
+      "id": 552,
+      "start": "2022-02-07T07:22:00",
+      "end": "2022-02-07T07:36:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3842,
+          -74.17035
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD187<br>Event no.554<br>74\u00b0 10.22'S         113\u00b0 23.05' W<br>Event: nan<br>Start: 2022-02-07 07:57:00<br>End: 2022-02-07 08:11:00"
+      },
+      "id": 553,
+      "start": "2022-02-07T07:57:00",
+      "end": "2022-02-07T08:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3557,
+          -74.1739
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD188<br>Event no.555<br>74\u00b0 10.43'S         113\u00b0 21.34' W<br>Event: nan<br>Start: 2022-02-07 08:29:00<br>End: 2022-02-07 08:48:00"
+      },
+      "id": 554,
+      "start": "2022-02-07T08:29:00",
+      "end": "2022-02-07T08:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.331133333333,
+          -74.17335
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD189<br>Event no.556<br>74\u00b0 10.4'S         113\u00b0 19.87' W<br>Event: nan<br>Start: 2022-02-07 09:07:00<br>End: 2022-02-07 09:33:00"
+      },
+      "id": 555,
+      "start": "2022-02-07T09:07:00",
+      "end": "2022-02-07T09:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.299516666667,
+          -74.1705
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD190<br>Event no.557<br>74\u00b0 10.23'S         113\u00b0 17.97' W<br>Event: nan<br>Start: 2022-02-07 09:52:00<br>End: 2022-02-07 10:18:00"
+      },
+      "id": 556,
+      "start": "2022-02-07T09:52:00",
+      "end": "2022-02-07T10:18:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.26975,
+          -74.1725
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD191<br>Event no.558<br>74\u00b0 10.35'S         113\u00b0 16.19' W<br>Event: nan<br>Start: 2022-02-07 10:35:00<br>End: 2022-02-07 11:04:00"
+      },
+      "id": 557,
+      "start": "2022-02-07T10:35:00",
+      "end": "2022-02-07T11:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.240716666667,
+          -74.17755
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD192<br>Event no.559<br>74\u00b0 10.65'S         113\u00b0 14.44' W<br>Event: nan<br>Start: 2022-02-07 11:25:00<br>End: 2022-02-07 11:57:00"
+      },
+      "id": 558,
+      "start": "2022-02-07T11:25:00",
+      "end": "2022-02-07T11:57:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.20933333333299,
+          -74.1793833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD193<br>Event no.560<br>74\u00b0 10.76'S         113\u00b0 12.56' W<br>Event: nan<br>Start: 2022-02-07 12:17:00<br>End: 2022-02-07 12:52:00"
+      },
+      "id": 559,
+      "start": "2022-02-07T12:17:00",
+      "end": "2022-02-07T12:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.667296666667,
+          -73.799675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD194<br>Event no.564<br>73\u00b0 47.98'S         112\u00b0 40.04' W<br>Event: Southern polynya station revisit<br>Start: 2022-02-07 20:50:00<br>End: 2022-02-07 21:35:00"
+      },
+      "id": 563,
+      "start": "2022-02-07T20:50:00",
+      "end": "2022-02-07T21:35:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.312983333333,
+          -73.95505
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD197<br>Event no.612<br>73\u00b0 57.3'S         113\u00b0 18.78' W<br>Event: nan<br>Start: 2022-02-08 14:34:00<br>End: 2022-02-08 14:54:00"
+      },
+      "id": 611,
+      "start": "2022-02-08T14:34:00",
+      "end": "2022-02-08T14:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.243483333333,
+          -73.9277183333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD198<br>Event no.613<br>73\u00b0 55.66'S         113\u00b0 14.61' W<br>Event: nan<br>Start: 2022-02-08 15:23:00<br>End: 2022-02-08 15:48:00"
+      },
+      "id": 612,
+      "start": "2022-02-08T15:23:00",
+      "end": "2022-02-08T15:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.173983333333,
+          -73.9007166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD199<br>Event no.614<br>73\u00b0 54.04'S         113\u00b0 10.44' W<br>Event: nan<br>Start: 2022-02-08 16:25:00<br>End: 2022-02-08 16:51:00"
+      },
+      "id": 613,
+      "start": "2022-02-08T16:25:00",
+      "end": "2022-02-08T16:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.119366666667,
+          -73.8814666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD200<br>Event no.615<br>73\u00b0 52.89'S         113\u00b0 7.16' W<br>Event: nan<br>Start: 2022-02-08 17:18:00<br>End: 2022-02-08 17:51:00"
+      },
+      "id": 614,
+      "start": "2022-02-08T17:18:00",
+      "end": "2022-02-08T17:51:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.061333333333,
+          -73.8582833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD201<br>Event no.616<br>73\u00b0 51.5'S         113\u00b0 3.68' W<br>Event: nan<br>Start: 2022-02-08 18:16:00<br>End: 2022-02-08 18:55:00"
+      },
+      "id": 615,
+      "start": "2022-02-08T18:16:00",
+      "end": "2022-02-08T18:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.994966666667,
+          -73.8367666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD202<br>Event no.618<br>73\u00b0 50.21'S         112\u00b0 59.7' W<br>Event: nan<br>Start: 2022-02-08 19:20:00<br>End: 2022-02-08 20:02:00"
+      },
+      "id": 617,
+      "start": "2022-02-08T19:20:00",
+      "end": "2022-02-08T20:02:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.75585,
+          -73.9970166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD203<br>Event no.628<br>73\u00b0 59.82'S         113\u00b0 45.35' W<br>Event: nan<br>Start: 2022-02-09 12:08:00<br>End: 2022-02-09 12:47:00"
+      },
+      "id": 627,
+      "start": "2022-02-09T12:08:00",
+      "end": "2022-02-09T12:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.80736666666701,
+          -73.98215
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD204<br>Event no.630<br>73\u00b0 58.93'S         113\u00b0 48.44' W<br>Event: nan<br>Start: 2022-02-09 13:22:00<br>End: 2022-02-09 13:59:00"
+      },
+      "id": 629,
+      "start": "2022-02-09T13:22:00",
+      "end": "2022-02-09T13:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.869733333333,
+          -73.9594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD205<br>Event no.631<br>73\u00b0 57.56'S         113\u00b0 52.18' W<br>Event: nan<br>Start: 2022-02-09 14:32:00<br>End: 2022-02-09 14:58:00"
+      },
+      "id": 630,
+      "start": "2022-02-09T14:32:00",
+      "end": "2022-02-09T14:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.954475,
+          -73.8236466666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD206<br>Event no.634<br>73\u00b0 49.42'S         113\u00b0 57.27' W<br>Event: nan<br>Start: 2022-02-10 02:35:00<br>End: 2022-02-10 02:58:00"
+      },
+      "id": 633,
+      "start": "2022-02-10T02:35:00",
+      "end": "2022-02-10T02:58:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.423066666667,
+          -74.1333833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD207<br>Event no.650<br>74\u00b0 8.0'S         113\u00b0 25.38' W<br>Event: nan<br>Start: 2022-02-10 08:42:00<br>End: 2022-02-10 08:55:00"
+      },
+      "id": 649,
+      "start": "2022-02-10T08:42:00",
+      "end": "2022-02-10T08:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.417683333333,
+          -74.1338833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD208<br>Event no.651<br>74\u00b0 8.03'S         113\u00b0 25.06' W<br>Event: nan<br>Start: 2022-02-10 08:53:00<br>End: 2022-02-10 09:11:00"
+      },
+      "id": 650,
+      "start": "2022-02-10T08:53:00",
+      "end": "2022-02-10T09:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.404066666667,
+          -74.1358833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD209<br>Event no.652<br>74\u00b0 8.15'S         113\u00b0 24.24' W<br>Event: nan<br>Start: 2022-02-10 09:12:00<br>End: 2022-02-10 09:29:00"
+      },
+      "id": 651,
+      "start": "2022-02-10T09:12:00",
+      "end": "2022-02-10T09:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3875,
+          -74.1381333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD210<br>Event no.653<br>74\u00b0 8.29'S         113\u00b0 23.25' W<br>Event: nan<br>Start: 2022-02-10 09:30:00<br>End: 2022-02-10 09:48:00"
+      },
+      "id": 652,
+      "start": "2022-02-10T09:30:00",
+      "end": "2022-02-10T09:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.370933333333,
+          -74.1404333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD211<br>Event no.654<br>74\u00b0 8.43'S         113\u00b0 22.26' W<br>Event: nan<br>Start: 2022-02-10 09:49:00<br>End: 2022-02-10 10:08:00"
+      },
+      "id": 653,
+      "start": "2022-02-10T09:49:00",
+      "end": "2022-02-10T10:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.354933333333,
+          -74.1431166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD212<br>Event no.655<br>74\u00b0 8.59'S         113\u00b0 21.3' W<br>Event: nan<br>Start: 2022-02-10 10:10:00<br>End: 2022-02-10 10:30:00"
+      },
+      "id": 654,
+      "start": "2022-02-10T10:10:00",
+      "end": "2022-02-10T10:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.335883333333,
+          -74.1462666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD213<br>Event no.656<br>74\u00b0 8.78'S         113\u00b0 20.15' W<br>Event: nan<br>Start: 2022-02-10 10:31:00<br>End: 2022-02-10 10:50:00"
+      },
+      "id": 655,
+      "start": "2022-02-10T10:31:00",
+      "end": "2022-02-10T10:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.502466666667,
+          -73.99955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD214<br>Event no.660<br>73\u00b0 59.97'S         111\u00b0 30.15' W<br>Event: nan<br>Start: 2022-02-11 05:20:00<br>End: 2022-02-11 05:40:00"
+      },
+      "id": 659,
+      "start": "2022-02-11T05:20:00",
+      "end": "2022-02-11T05:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4535,
+          -73.9713666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD215<br>Event no.661<br>73\u00b0 58.28'S         111\u00b0 27.21' W<br>Event: nan<br>Start: 2022-02-11 06:05:00<br>End: 2022-02-11 06:32:00"
+      },
+      "id": 660,
+      "start": "2022-02-11T06:05:00",
+      "end": "2022-02-11T06:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.418216666667,
+          -73.94115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD216<br>Event no.662<br>73\u00b0 56.47'S         111\u00b0 25.09' W<br>Event: nan<br>Start: 2022-02-11 07:05:00<br>End: 2022-02-11 07:38:00"
+      },
+      "id": 661,
+      "start": "2022-02-11T07:05:00",
+      "end": "2022-02-11T07:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.376933333333,
+          -73.9135666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD217<br>Event no.663<br>73\u00b0 54.81'S         111\u00b0 22.62' W<br>Event: nan<br>Start: 2022-02-11 08:12:00<br>End: 2022-02-11 08:38:00"
+      },
+      "id": 662,
+      "start": "2022-02-11T08:12:00",
+      "end": "2022-02-11T08:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.33468333333299,
+          -73.8832166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD218<br>Event no.666<br>73\u00b0 52.99'S         111\u00b0 20.08' W<br>Event: nan<br>Start: 2022-02-11 09:06:00<br>End: 2022-02-11 09:25:00"
+      },
+      "id": 665,
+      "start": "2022-02-11T09:06:00",
+      "end": "2022-02-11T09:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.364583333333,
+          -74.08658333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD219<br>Event no.668<br>74\u00b0 5.19'S         111\u00b0 21.87' W<br>Event: nan<br>Start: 2022-02-11 11:04:00<br>End: 2022-02-11 11:22:00"
+      },
+      "id": 667,
+      "start": "2022-02-11T11:04:00",
+      "end": "2022-02-11T11:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.900333333333,
+          -74.2004166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD220<br>Event no.671<br>74\u00b0 12.03'S         110\u00b0 54.02' W<br>Event: BGC CTD<br>Start: 2022-02-11 12:47:00<br>End: 2022-02-11 13:24:00"
+      },
+      "id": 670,
+      "start": "2022-02-11T12:47:00",
+      "end": "2022-02-11T13:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.84471166666701,
+          -74.1796033333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD222<br>Event no.674<br>74\u00b0 10.78'S         110\u00b0 50.68' W<br>Event: nan<br>Start: 2022-02-11 15:10:00<br>End: 2022-02-11 15:30:00"
+      },
+      "id": 673,
+      "start": "2022-02-11T15:10:00",
+      "end": "2022-02-11T15:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.385933333333,
+          -74.0037333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD223<br>Event no.678<br>74\u00b0 0.22'S         111\u00b0 23.16' W<br>Event: nan<br>Start: 2022-02-12 09:04:00<br>End: 2022-02-12 09:31:00"
+      },
+      "id": 677,
+      "start": "2022-02-12T09:04:00",
+      "end": "2022-02-12T09:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.473266666667,
+          -73.9852166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD224<br>Event no.680<br>73\u00b0 59.11'S         111\u00b0 28.4' W<br>Event: nan<br>Start: 2022-02-12 09:59:00<br>End: 2022-02-12 10:19:00"
+      },
+      "id": 679,
+      "start": "2022-02-12T09:59:00",
+      "end": "2022-02-12T10:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.433933333333,
+          -73.955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD225                                                                                  <br>Event no.681<br>73\u00b0 57.3'S         111\u00b0 26.04' W<br>Event: nan<br>Start: 2022-02-12 10:46:00<br>End: 2022-02-12 11:17:00"
+      },
+      "id": 680,
+      "start": "2022-02-12T10:46:00",
+      "end": "2022-02-12T11:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.616216666667,
+          -73.98995
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD226<br>Event no.685<br>73\u00b0 59.4'S         111\u00b0 36.97' W<br>Event: nan<br>Start: 2022-02-12 13:59:00<br>End: 2022-02-12 14:22:00"
+      },
+      "id": 684,
+      "start": "2022-02-12T13:59:00",
+      "end": "2022-02-12T14:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.559283333333,
+          -74.0297
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD227<br>Event no.686<br>74\u00b0 1.78'S         111\u00b0 33.56' W<br>Event: nan<br>Start: 2022-02-12 14:58:00<br>End: 2022-02-12 15:20:00"
+      },
+      "id": 685,
+      "start": "2022-02-12T14:58:00",
+      "end": "2022-02-12T15:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.55141666666701,
+          -74.0678833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD228<br>Event no.688<br>74\u00b0 4.07'S         111\u00b0 33.09' W<br>Event: nan<br>Start: 2022-02-12 18:04:00<br>End: 2022-02-12 18:22:00"
+      },
+      "id": 687,
+      "start": "2022-02-12T18:04:00",
+      "end": "2022-02-12T18:22:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.234416666667,
+          -74.1006333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD229<br>Event no.691<br>74\u00b0 6.04'S         111\u00b0 14.07' W<br>Event: nan<br>Start: 2022-02-12 19:13:00<br>End: 2022-02-12 19:34:00"
+      },
+      "id": 690,
+      "start": "2022-02-12T19:13:00",
+      "end": "2022-02-12T19:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3858,
+          -73.9844333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD230<br>Event no.693<br>73\u00b0 59.07'S         113\u00b0 23.15' W<br>Event: nan<br>Start: 2022-02-13 02:22:00<br>End: 2022-02-13 02:40:00"
+      },
+      "id": 692,
+      "start": "2022-02-13T02:22:00",
+      "end": "2022-02-13T02:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.758333333333,
+          -73.7310333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD231<br>Event no.695<br>73\u00b0 43.86'S         113\u00b0 45.5' W<br>Event: nan<br>Start: 2022-02-13 08:15:00<br>End: 2022-02-13 08:46:00"
+      },
+      "id": 694,
+      "start": "2022-02-13T08:15:00",
+      "end": "2022-02-13T08:46:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.82276666666701,
+          -73.7623666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD232<br>Event no.697<br>73\u00b0 45.74'S         113\u00b0 49.37' W<br>Event: nan<br>Start: 2022-02-13 09:15:00<br>End: 2022-02-13 09:40:00"
+      },
+      "id": 696,
+      "start": "2022-02-13T09:15:00",
+      "end": "2022-02-13T09:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.892683333333,
+          -73.7931166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD233<br>Event no.698<br>73\u00b0 47.59'S         113\u00b0 53.56' W<br>Event: nan<br>Start: 2022-02-13 10:08:00<br>End: 2022-02-13 10:25:00"
+      },
+      "id": 697,
+      "start": "2022-02-13T10:08:00",
+      "end": "2022-02-13T10:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.955383333333,
+          -73.8267166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD234<br>Event no.699<br>73\u00b0 49.6'S         113\u00b0 57.32' W<br>Event: nan<br>Start: 2022-02-13 11:00:00<br>End: 2022-02-13 11:17:00"
+      },
+      "id": 698,
+      "start": "2022-02-13T11:00:00",
+      "end": "2022-02-13T11:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.01635,
+          -73.8623333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD235<br>Event no.700<br>73\u00b0 51.74'S         114\u00b0 0.98' W<br>Event: nan<br>Start: 2022-02-13 11:49:00<br>End: 2022-02-13 12:16:00"
+      },
+      "id": 699,
+      "start": "2022-02-13T11:49:00",
+      "end": "2022-02-13T12:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.499516666667,
+          -73.7825166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD237<br>Event no.706<br>73\u00b0 46.95'S         118\u00b0 29.97' W<br>Event: nan<br>Start: 2022-02-13 22:46:00<br>End: 2022-02-13 23:32:00"
+      },
+      "id": 705,
+      "start": "2022-02-13T22:46:00",
+      "end": "2022-02-13T23:32:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.617576666667,
+          -73.78277666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD238<br>Event no.707<br>73\u00b0 46.97'S         118\u00b0 37.05' W<br>Event: nan<br>Start: 2022-02-14 00:01:00<br>End: 2022-02-14 00:30:00"
+      },
+      "id": 706,
+      "start": "2022-02-14T00:01:00",
+      "end": "2022-02-14T00:30:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7323,
+          -73.782961
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD239<br>Event no.708<br>73\u00b0 46.98'S         118\u00b0 43.94' W<br>Event: nan<br>Start: 2022-02-14 00:58:00<br>End: 2022-02-14 01:16:00"
+      },
+      "id": 707,
+      "start": "2022-02-14T00:58:00",
+      "end": "2022-02-14T01:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.50398500000001,
+          -73.9760366666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD240<br>Event no.730<br>73\u00b0 58.56'S         118\u00b0 30.24' W<br>Event: nan<br>Start: 2022-02-14 14:40:00<br>End: 2022-02-14 15:45:00"
+      },
+      "id": 729,
+      "start": "2022-02-14T14:40:00",
+      "end": "2022-02-14T15:45:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.739075,
+          -73.8811333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD241<br>Event no.734<br>73\u00b0 52.87'S         118\u00b0 44.34' W<br>Event: CTD over unusual Megacore<br>Start: 2022-02-14 21:48:00<br>End: 2022-02-14 22:33:00"
+      },
+      "id": 733,
+      "start": "2022-02-14T21:48:00",
+      "end": "2022-02-14T22:33:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.85815500000001,
+          -73.9140316666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD242<br>Event no.735<br>73\u00b0 54.84'S         118\u00b0 51.49' W<br>Event: Start of hunt for channel outflow<br>Start: 2022-02-14 23:44:00<br>End: 2022-02-15 00:04:00"
+      },
+      "id": 734,
+      "start": "2022-02-14T23:44:00",
+      "end": "2022-02-15T00:04:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.83795,
+          -73.9221666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD243<br>Event no.736<br>73\u00b0 55.33'S         118\u00b0 50.28' W<br>Event: indications of outflow 150-200 m<br>Start: 2022-02-15 00:33:00<br>End: 2022-02-15 01:07:00"
+      },
+      "id": 735,
+      "start": "2022-02-15T00:33:00",
+      "end": "2022-02-15T01:07:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.818533333333,
+          -73.9213666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD244<br>Event no.737<br>73\u00b0 55.28'S         118\u00b0 49.11' W<br>Event: meltwater, but no clear outflow layer<br>Start: 2022-02-15 01:32:00<br>End: 2022-02-15 02:11:00"
+      },
+      "id": 736,
+      "start": "2022-02-15T01:32:00",
+      "end": "2022-02-15T02:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.838,
+          -73.92156666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD245<br>Event no.738<br>73\u00b0 55.29'S         118\u00b0 50.28' W<br>Event: ARTEMIS station<br>Start: 2022-02-15 02:36:00<br>End: 2022-02-15 03:11:00"
+      },
+      "id": 737,
+      "start": "2022-02-15T02:36:00",
+      "end": "2022-02-15T03:11:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8033,
+          -73.923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD247<br>Event no.741<br>73\u00b0 55.38'S         118\u00b0 48.2' W<br>Event: nan<br>Start: 2022-02-15 05:04:00<br>End: 2022-02-15 05:48:00"
+      },
+      "id": 740,
+      "start": "2022-02-15T05:04:00",
+      "end": "2022-02-15T05:48:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.78681666666701,
+          -73.92565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD248<br>Event no.742<br>73\u00b0 55.54'S         118\u00b0 47.21' W<br>Event: nan<br>Start: 2022-02-15 06:07:00<br>End: 2022-02-15 06:57:00"
+      },
+      "id": 741,
+      "start": "2022-02-15T06:07:00",
+      "end": "2022-02-15T06:57:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.773416666667,
+          -73.9289
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD249<br>Event no.743<br>73\u00b0 55.73'S         118\u00b0 46.41' W<br>Event: nan<br>Start: 2022-02-15 07:14:00<br>End: 2022-02-15 08:07:00"
+      },
+      "id": 742,
+      "start": "2022-02-15T07:14:00",
+      "end": "2022-02-15T08:07:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.648066666667,
+          -73.9564833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD520<br>Event no.744<br>73\u00b0 57.39'S         118\u00b0 38.88' W<br>Event: nan<br>Start: 2022-02-15 08:39:00<br>End: 2022-02-15 09:31:00"
+      },
+      "id": 743,
+      "start": "2022-02-15T08:39:00",
+      "end": "2022-02-15T09:31:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2978,
+          -74.0056666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD251<br>Event no.745<br>74\u00b0 0.34'S         118\u00b0 17.87' W<br>Event: nan<br>Start: 2022-02-15 10:35:00<br>End: 2022-02-15 11:20:00"
+      },
+      "id": 744,
+      "start": "2022-02-15T10:35:00",
+      "end": "2022-02-15T11:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.10576666666701,
+          -74.0214666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD252<br>Event no.750<br>74\u00b0 1.29'S         118\u00b0 6.35' W<br>Event: nan<br>Start: 2022-02-15 15:37:00<br>End: 2022-02-15 16:26:00"
+      },
+      "id": 749,
+      "start": "2022-02-15T15:37:00",
+      "end": "2022-02-15T16:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.870483333333,
+          -74.0146666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD253<br>Event no.751<br>74\u00b0 0.88'S         117\u00b0 52.23' W<br>Event: nan<br>Start: 2022-02-15 17:08:00<br>End: 2022-02-15 17:56:00"
+      },
+      "id": 750,
+      "start": "2022-02-15T17:08:00",
+      "end": "2022-02-15T17:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.74393333333299,
+          -74.0228666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD254<br>Event no.753<br>74\u00b0 1.37'S         117\u00b0 44.64' W<br>Event: nan<br>Start: 2022-02-15 18:31:00<br>End: 2022-02-15 19:07:00"
+      },
+      "id": 752,
+      "start": "2022-02-15T18:31:00",
+      "end": "2022-02-15T19:07:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.694383333333,
+          -74.0423833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD255<br>Event no.754<br>74\u00b0 2.54'S         117\u00b0 41.66' W<br>Event: nan<br>Start: 2022-02-15 19:39:00<br>End: 2022-02-15 20:14:00"
+      },
+      "id": 753,
+      "start": "2022-02-15T19:39:00",
+      "end": "2022-02-15T20:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6446,
+          -74.0487666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD256<br>Event no.755<br>74\u00b0 2.93'S         117\u00b0 38.68' W<br>Event: nan<br>Start: 2022-02-15 20:37:00<br>End: 2022-02-15 20:55:00"
+      },
+      "id": 754,
+      "start": "2022-02-15T20:37:00",
+      "end": "2022-02-15T20:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55755,
+          -74.05365
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD257<br>Event no.757<br>74\u00b0 3.22'S         117\u00b0 33.45' W<br>Event: nan<br>Start: 2022-02-15 21:25:00<br>End: 2022-02-15 21:40:00"
+      },
+      "id": 756,
+      "start": "2022-02-15T21:25:00",
+      "end": "2022-02-15T21:40:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.66785,
+          -73.8005166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD258<br>Event no.770<br>73\u00b0 48.03'S         112\u00b0 40.07' W<br>Event: nan<br>Start: 2022-02-17 12:05:00<br>End: 2022-02-17 13:01:00"
+      },
+      "id": 769,
+      "start": "2022-02-17T12:05:00",
+      "end": "2022-02-17T13:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.74693333333299,
+          -73.8835
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD261<br>Event no.792<br>73\u00b0 53.01'S         118\u00b0 44.82' W<br>Event: Start of vent/seep valley transect<br>Start: 2022-02-19 13:47:00<br>End: 2022-02-19 14:16:00"
+      },
+      "id": 791,
+      "start": "2022-02-19T13:47:00",
+      "end": "2022-02-19T14:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7333,
+          -73.878075
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD262<br>Event no.793<br>73\u00b0 52.68'S         118\u00b0 44.0' W<br>Event: nan<br>Start: 2022-02-19 14:41:00<br>End: 2022-02-19 15:14:00"
+      },
+      "id": 792,
+      "start": "2022-02-19T14:41:00",
+      "end": "2022-02-19T15:14:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.722816666667,
+          -73.87491666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD263<br>Event no.794<br>73\u00b0 52.5'S         118\u00b0 43.37' W<br>Event: nan<br>Start: 2022-02-19 16:06:00<br>End: 2022-02-19 16:43:00"
+      },
+      "id": 793,
+      "start": "2022-02-19T16:06:00",
+      "end": "2022-02-19T16:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.743833333333,
+          -73.87575
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD264<br>Event no.795<br>73\u00b0 52.54'S         118\u00b0 44.63' W<br>Event: nan<br>Start: 2022-02-19 17:30:00<br>End: 2022-02-19 18:05:00"
+      },
+      "id": 794,
+      "start": "2022-02-19T17:30:00",
+      "end": "2022-02-19T18:05:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.72200000000001,
+          -73.8804
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD265<br>Event no.796<br>73\u00b0 52.82'S         118\u00b0 43.32' W<br>Event: nan<br>Start: 2022-02-19 19:09:00<br>End: 2022-02-19 19:43:00"
+      },
+      "id": 795,
+      "start": "2022-02-19T19:09:00",
+      "end": "2022-02-19T19:43:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.74191666666701,
+          -73.8816333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD266<br>Event no.799<br>73\u00b0 52.9'S         118\u00b0 44.52' W<br>Event: nan<br>Start: 2022-02-19 20:36:00<br>End: 2022-02-19 21:12:00"
+      },
+      "id": 798,
+      "start": "2022-02-19T20:36:00",
+      "end": "2022-02-19T21:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.739425,
+          -73.88073666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD267<br>Event no.800<br>73\u00b0 52.84'S         118\u00b0 44.37' W<br>Event: nan<br>Start: 2022-02-19 22:04:00<br>End: 2022-02-19 22:47:00"
+      },
+      "id": 799,
+      "start": "2022-02-19T22:04:00",
+      "end": "2022-02-19T22:47:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.873516666667,
+          -73.7151333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD269<br>Event no.818<br>73\u00b0 42.91'S         116\u00b0 52.41' W<br>Event: Getz B Trough - shallow<br>Start: 2022-02-20 17:07:00<br>End: 2022-02-20 17:38:00"
+      },
+      "id": 817,
+      "start": "2022-02-20T17:07:00",
+      "end": "2022-02-20T17:38:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.83369499999999,
+          -73.7482683333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD270<br>Event no.821<br>73\u00b0 44.9'S         116\u00b0 50.02' W<br>Event: Getz B Trough - deep<br>Start: 2022-02-20 18:30:00<br>End: 2022-02-20 19:10:00"
+      },
+      "id": 820,
+      "start": "2022-02-20T18:30:00",
+      "end": "2022-02-20T19:10:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.85366833333299,
+          -73.7316816666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD271<br>Event no.822<br>73\u00b0 43.9'S         116\u00b0 51.22' W<br>Event: Getz B Trough - ARTEMIS Station<br>Start: 2022-02-20 20:05:00<br>End: 2022-02-20 20:50:00"
+      },
+      "id": 821,
+      "start": "2022-02-20T20:05:00",
+      "end": "2022-02-20T20:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2033,
+          -73.94265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD273<br>Event no.830<br>73\u00b0 56.56'S         116\u00b0 12.2' W<br>Event: nan<br>Start: 2022-02-21 02:07:00<br>End: 2022-02-21 02:26:00"
+      },
+      "id": 829,
+      "start": "2022-02-21T02:07:00",
+      "end": "2022-02-21T02:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.238823333333,
+          -73.9560166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD274<br>Event no.832<br>73\u00b0 57.36'S         116\u00b0 14.33' W<br>Event: nan<br>Start: 2022-02-21 02:46:00<br>End: 2022-02-21 03:19:00"
+      },
+      "id": 831,
+      "start": "2022-02-21T02:46:00",
+      "end": "2022-02-21T03:19:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.247933333333,
+          -73.9640833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD275<br>Event no.834<br>73\u00b0 57.84'S         116\u00b0 14.88' W<br>Event: nan<br>Start: 2022-02-21 03:38:00<br>End: 2022-02-21 04:13:00"
+      },
+      "id": 833,
+      "start": "2022-02-21T03:38:00",
+      "end": "2022-02-21T04:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.186283333333,
+          -74.0280166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD276<br>Event no.835<br>74\u00b0 1.68'S         116\u00b0 11.18' W<br>Event: nan<br>Start: 2022-02-21 05:07:00<br>End: 2022-02-21 05:44:00"
+      },
+      "id": 834,
+      "start": "2022-02-21T05:07:00",
+      "end": "2022-02-21T05:44:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.154583333333,
+          -74.0417833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD277<br>Event no.836<br>74\u00b0 2.51'S         116\u00b0 9.27' W<br>Event: nan<br>Start: 2022-02-21 06:10:00<br>End: 2022-02-21 06:53:00"
+      },
+      "id": 835,
+      "start": "2022-02-21T06:10:00",
+      "end": "2022-02-21T06:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.00595,
+          -74.0770166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD278<br>Event no.837<br>74\u00b0 4.62'S         116\u00b0 0.36' W<br>Event: nan<br>Start: 2022-02-21 07:27:00<br>End: 2022-02-21 08:12:00"
+      },
+      "id": 836,
+      "start": "2022-02-21T07:27:00",
+      "end": "2022-02-21T08:12:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.210516666667,
+          -73.4230833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD279<br>Event no.841<br>73\u00b0 25.38'S         114\u00b0 12.63' W<br>Event: biogeochemistry CTD to calibrate SG579<br>Start: 2022-02-21 17:04:00<br>End: 2022-02-21 17:55:00"
+      },
+      "id": 840,
+      "start": "2022-02-21T17:04:00",
+      "end": "2022-02-21T17:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.87713333333299,
+          -74.1018
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD281<br>Event no.853<br>74\u00b0 6.11'S         115\u00b0 52.63' W<br>Event: nan<br>Start: 2022-02-22 06:30:00<br>End: 2022-02-22 07:13:00"
+      },
+      "id": 852,
+      "start": "2022-02-22T06:30:00",
+      "end": "2022-02-22T07:13:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.731433333333,
+          -74.1167833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD282<br>Event no.855<br>74\u00b0 7.01'S         115\u00b0 43.89' W<br>Event: nan<br>Start: 2022-02-22 07:49:00<br>End: 2022-02-22 08:34:00"
+      },
+      "id": 854,
+      "start": "2022-02-22T07:49:00",
+      "end": "2022-02-22T08:34:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.55643333333299,
+          -74.135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD283<br>Event no.856<br>74\u00b0 8.1'S         115\u00b0 33.39' W<br>Event: nan<br>Start: 2022-02-22 09:10:00<br>End: 2022-02-22 09:52:00"
+      },
+      "id": 855,
+      "start": "2022-02-22T09:10:00",
+      "end": "2022-02-22T09:52:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3765,
+          -74.1463333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD284<br>Event no.857<br>74\u00b0 8.78'S         115\u00b0 22.59' W<br>Event: nan<br>Start: 2022-02-22 10:27:00<br>End: 2022-02-22 11:16:00"
+      },
+      "id": 856,
+      "start": "2022-02-22T10:27:00",
+      "end": "2022-02-22T11:16:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2659,
+          -74.1405833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD285<br>Event no.868<br>74\u00b0 8.43'S         115\u00b0 15.95' W<br>Event: nan<br>Start: 2022-02-22 11:46:00<br>End: 2022-02-22 12:27:00"
+      },
+      "id": 867,
+      "start": "2022-02-22T11:46:00",
+      "end": "2022-02-22T12:27:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.22095,
+          -74.1363333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD286<br>Event no.869<br>74\u00b0 8.18'S         115\u00b0 13.26' W<br>Event: nan<br>Start: 2022-02-22 12:47:00<br>End: 2022-02-22 13:26:00"
+      },
+      "id": 868,
+      "start": "2022-02-22T12:47:00",
+      "end": "2022-02-22T13:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.17628333333299,
+          -74.1359833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD287<br>Event no.870<br>74\u00b0 8.16'S         115\u00b0 10.58' W<br>Event: nan<br>Start: 2022-02-22 13:43:00<br>End: 2022-02-22 14:20:00"
+      },
+      "id": 869,
+      "start": "2022-02-22T13:43:00",
+      "end": "2022-02-22T14:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.144916666667,
+          -74.13545
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD288<br>Event no.871<br>74\u00b0 8.13'S         115\u00b0 8.7' W<br>Event: nan<br>Start: 2022-02-22 14:35:00<br>End: 2022-02-22 14:56:00"
+      },
+      "id": 870,
+      "start": "2022-02-22T14:35:00",
+      "end": "2022-02-22T14:56:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.289916666667,
+          -73.83800000000001
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD290<br>Event no.872<br>73\u00b0 50.28'S         111\u00b0 17.4' W<br>Event: calibration for seal-tag data; waiting for brighter condition for seal tagging<br>Start: 2022-02-23 09:17:00<br>End: 2022-02-23 09:35:00"
+      },
+      "id": 871,
+      "start": "2022-02-23T09:17:00",
+      "end": "2022-02-23T09:35:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.444683333333,
+          -73.7758833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD291<br>Event no.881<br>73\u00b0 46.55'S         112\u00b0 26.68' W<br>Event: nan<br>Start: 2022-02-23 21:32:00<br>End: 2022-02-23 22:01:00"
+      },
+      "id": 880,
+      "start": "2022-02-23T21:32:00",
+      "end": "2022-02-23T22:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.76201666666701,
+          -73.8114016666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD292<br>Event no.882<br>73\u00b0 48.68'S         112\u00b0 45.72' W<br>Event: nan<br>Start: 2022-02-23 22:54:00<br>End: 2022-02-23 23:29:00"
+      },
+      "id": 881,
+      "start": "2022-02-23T22:54:00",
+      "end": "2022-02-23T23:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.881615,
+          -73.82338666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD293<br>Event no.883<br>73\u00b0 49.4'S         112\u00b0 52.9' W<br>Event: nan<br>Start: 2022-02-23 23:58:00<br>End: 2022-02-24 00:28:00"
+      },
+      "id": 882,
+      "start": "2022-02-23T23:58:00",
+      "end": "2022-02-24T00:28:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.693266666667,
+          -73.3589333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD294<br>Event no.886<br>73\u00b0 21.54'S         114\u00b0 41.6' W<br>Event: nan<br>Start: 2022-02-24 09:33:00<br>End: 2022-02-24 10:17:00"
+      },
+      "id": 885,
+      "start": "2022-02-24T09:33:00",
+      "end": "2022-02-24T10:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.333816666667,
+          -73.2501166666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD295<br>Event no.888<br>73\u00b0 15.01'S         114\u00b0 20.03' W<br>Event: nan<br>Start: 2022-02-24 11:29:00<br>End: 2022-02-24 12:08:00"
+      },
+      "id": 887,
+      "start": "2022-02-24T11:29:00",
+      "end": "2022-02-24T12:08:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.39901,
+          -71.999985
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD296<br>Event no.890<br>71\u00b0 60.0'S         119\u00b0 23.94' W<br>Event: ARTEMIS shelf/slope station - <br>Start: 2022-02-25 00:24:00<br>End: 2022-02-25 01:46:00"
+      },
+      "id": 889,
+      "start": "2022-02-25T00:24:00",
+      "end": "2022-02-25T01:46:00"
+    }
+  ]
+}

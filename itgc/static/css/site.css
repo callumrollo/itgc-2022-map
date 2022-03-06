@@ -1,0 +1,73 @@
+body {
+
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    color: #000000;
+}
+
+.dropdown-menu {
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+
+.totals {
+    margin-bottom: 20px;
+}
+
+.quicklinks {
+    margin-bottom: 20px;
+}
+footer {
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.error-message {
+    color: #a00d0d;
+    text-align: center;
+}
+
+.welcome {
+    margin-bottom: 20px;
+}
+
+.glider-list {
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+.timesel {
+        max-width: 600px;
+        align-self: center;
+}
+
+.instructions {
+    max-width: 1000px;
+    margin-left:40px;
+    margin-bottom: 40px;
+    margin-block: 40px;
+}
+
+.oldphp h1 {
+    color: red;
+}
+
+
+.img-thumbnail{
+    border:0;
+}
+
+.heading-text{
+    margin-left:10px;
+    font-size:28px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align:bottom;
+}
+.navdives{
+    font-size:34px;
+}

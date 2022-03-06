@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.06416666666667,
+          -64.77333333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Palmer Station<br>64\u00b0 46.4' S<br>64\u00b0 3.85' W"
+      }
+    }
+  ]
+}

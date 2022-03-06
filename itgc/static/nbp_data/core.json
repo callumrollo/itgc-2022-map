@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: LC005<br>Event no.47<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: no sediment captured<br>Start: 2022-01-15 13:14:00<br>End: NaT<br>JSW: added cast #"
+      },
+      "id": 46,
+      "start": "2022-01-15T13:14:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: LC007<br>Event no.54<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT<br>Core failed.  This time daisy chain was tightened.  Video shows trigger as soon as released.  Need to rearrange so tension not released before impact."
+      },
+      "id": 53,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34465,
+          -74.02906
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: CTD139<br>Event no.320<br>74\u00b0 1.74'S         113\u00b0 20.68' W<br>Event: nan<br>Start: 2022-01-29 07:04:00<br>End: NaT<br>Monocore (LC-01) successfully deployed on conventional CTD with drop"
+      },
+      "id": 319,
+      "start": "2022-01-29T07:04:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.644883333333,
+          -73.8069666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC196<br>Event no.568<br>73\u00b0 48.42'S         112\u00b0 38.69' W<br>Event: nan<br>Start: 2022-02-07 22:16:00<br>End: 2022-02-07 23:21:00<br>LC-02"
+      },
+      "id": 567,
+      "start": "2022-02-07T22:16:00",
+      "end": "2022-02-07T23:21:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC236<br>Event no.703<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT<br>LC-03"
+      },
+      "id": 702,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.838033333333,
+          -73.92156666666669
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: TMC246<br>Event no.740<br>73\u00b0 55.29'S         118\u00b0 50.28' W<br>Event: nan<br>Start: 2022-02-15 03:28:00<br>End: NaT<br>LC-04"
+      },
+      "id": 739,
+      "start": "2022-02-15T03:28:00",
+      "end": "NaT"
+    }
+  ]
+}

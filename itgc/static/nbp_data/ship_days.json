@@ -1,0 +1,755 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.99955106666667,
+          -57.79180185
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 8"
+      },
+      "start": "2022-01-08 16:59:33",
+      "end": "2022-01-08 16:59:33"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0033623,
+          -59.17727795
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 9"
+      },
+      "start": "2022-01-09 00:01:00",
+      "end": "2022-01-09 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49979176666666,
+          -63.399859183333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 10"
+      },
+      "start": "2022-01-10 00:01:00",
+      "end": "2022-01-10 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74352475,
+          -65.73596763333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 11"
+      },
+      "start": "2022-01-11 00:01:00",
+      "end": "2022-01-11 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99282696666668,
+          -68.10265855
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 12"
+      },
+      "start": "2022-01-12 00:01:00",
+      "end": "2022-01-12 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3693282,
+          -69.34636728333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 13"
+      },
+      "start": "2022-01-13 00:01:00",
+      "end": "2022-01-13 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3656592,
+          -69.37674665
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 14"
+      },
+      "start": "2022-01-14 00:01:00",
+      "end": "2022-01-14 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8755915,
+          -71.22510396666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 15"
+      },
+      "start": "2022-01-15 00:01:00",
+      "end": "2022-01-15 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.31651553333332,
+          -72.25929641666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 16"
+      },
+      "start": "2022-01-16 00:01:00",
+      "end": "2022-01-16 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.89719858333332,
+          -73.12017411666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 17"
+      },
+      "start": "2022-01-17 00:01:00",
+      "end": "2022-01-17 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.78996133333334,
+          -73.82376925
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 18"
+      },
+      "start": "2022-01-18 00:01:00",
+      "end": "2022-01-18 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.44198826666668,
+          -73.81762986666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 19"
+      },
+      "start": "2022-01-19 00:01:00",
+      "end": "2022-01-19 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.522602,
+          -74.23347576666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 20"
+      },
+      "start": "2022-01-20 00:01:00",
+      "end": "2022-01-20 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49108385,
+          -74.19218415
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 21"
+      },
+      "start": "2022-01-21 00:01:00",
+      "end": "2022-01-21 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89863076666668,
+          -74.15036309999998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 22"
+      },
+      "start": "2022-01-22 00:01:00",
+      "end": "2022-01-22 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.18774043333332,
+          -74.17477851666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 23"
+      },
+      "start": "2022-01-23 00:01:00",
+      "end": "2022-01-23 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.23250075,
+          -74.17552215
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 24"
+      },
+      "start": "2022-01-24 00:01:00",
+      "end": "2022-01-24 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.22496681666668,
+          -74.23968821666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 25"
+      },
+      "start": "2022-01-25 00:01:00",
+      "end": "2022-01-25 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21203611666668,
+          -74.16971468333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 26"
+      },
+      "start": "2022-01-26 00:01:00",
+      "end": "2022-01-26 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.34457355,
+          -74.1753026
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 27"
+      },
+      "start": "2022-01-27 00:01:00",
+      "end": "2022-01-27 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90761081666666,
+          -74.09520226666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 28"
+      },
+      "start": "2022-01-28 00:01:00",
+      "end": "2022-01-28 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35172403333334,
+          -74.04932668333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 29"
+      },
+      "start": "2022-01-29 00:01:00",
+      "end": "2022-01-29 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.16332311666666,
+          -74.12175181666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 30"
+      },
+      "start": "2022-01-30 00:01:00",
+      "end": "2022-01-30 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.08359595,
+          -74.07594021666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 31"
+      },
+      "start": "2022-01-31 00:01:00",
+      "end": "2022-01-31 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.16539228333332,
+          -74.23295141666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 32"
+      },
+      "start": "2022-02-01 00:01:00",
+      "end": "2022-02-01 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.50774865,
+          -74.19254215
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 33"
+      },
+      "start": "2022-02-02 00:01:00",
+      "end": "2022-02-02 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.69239740000002,
+          -74.19124175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 34"
+      },
+      "start": "2022-02-03 00:01:00",
+      "end": "2022-02-03 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.32875671666666,
+          -74.0576816
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 35"
+      },
+      "start": "2022-02-04 00:01:00",
+      "end": "2022-02-04 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.04644763333332,
+          -74.0637592
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 36"
+      },
+      "start": "2022-02-05 00:01:00",
+      "end": "2022-02-05 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.51086593333332,
+          -74.15399261666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 37"
+      },
+      "start": "2022-02-06 00:01:00",
+      "end": "2022-02-06 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.75132853333334,
+          -74.21189376666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 38"
+      },
+      "start": "2022-02-07 00:01:00",
+      "end": "2022-02-07 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.64971015,
+          -73.8182238
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 39"
+      },
+      "start": "2022-02-08 00:01:00",
+      "end": "2022-02-08 00:01:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57801948333334,
+          -73.9357406
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 40"
+      },
+      "start": "2022-02-09 00:00:59",
+      "end": "2022-02-09 00:00:59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.48215151666666,
+          -73.87281721666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 41"
+      },
+      "start": "2022-02-10 00:00:59",
+      "end": "2022-02-10 00:00:59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.02851293333332,
+          -74.14319823333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 42"
+      },
+      "start": "2022-02-11 00:00:59",
+      "end": "2022-02-11 00:00:59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7092728,
+          -74.05727056666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 43"
+      },
+      "start": "2022-02-12 00:01:59",
+      "end": "2022-02-12 00:01:59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.73849185,
+          -74.04784601666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 44"
+      },
+      "start": "2022-02-13 00:00:59",
+      "end": "2022-02-13 00:00:59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.61759109999998,
+          -73.78277171666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 45"
+      },
+      "start": "2022-02-14 00:00:59",
+      "end": "2022-02-14 00:00:59"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.85813311666666,
+          -73.91403763333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 46"
+      },
+      "start": "2022-02-15 00:01:01",
+      "end": "2022-02-15 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84458400000001,
+          -73.93177546666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 47"
+      },
+      "start": "2022-02-16 00:01:01",
+      "end": "2022-02-16 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04174088333332,
+          -73.92108470000002
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 48"
+      },
+      "start": "2022-02-17 00:01:01",
+      "end": "2022-02-17 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.01093691666668,
+          -73.94379276666666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 49"
+      },
+      "start": "2022-02-18 00:01:01",
+      "end": "2022-02-18 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92738490000002,
+          -73.76323183333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 50"
+      },
+      "start": "2022-02-19 00:01:01",
+      "end": "2022-02-19 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.73939641666666,
+          -73.88073728333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 51"
+      },
+      "start": "2022-02-20 00:01:01",
+      "end": "2022-02-20 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.04820919999999,
+          -73.73660015
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 52"
+      },
+      "start": "2022-02-21 00:01:01",
+      "end": "2022-02-21 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.49886761666669,
+          -73.69522148333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 53"
+      },
+      "start": "2022-02-22 00:01:01",
+      "end": "2022-02-22 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.42198158333332,
+          -73.78043093333334
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 54"
+      },
+      "start": "2022-02-23 00:01:01",
+      "end": "2022-02-23 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.88159626666666,
+          -73.82338753333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 55"
+      },
+      "start": "2022-02-24 00:01:01",
+      "end": "2022-02-24 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2531528,
+          -72.03709313333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 56"
+      },
+      "start": "2022-02-25 00:01:01",
+      "end": "2022-02-25 00:01:01"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.27753108333332,
+          -69.76409141666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Start UTC julian day 57"
+      },
+      "start": "2022-02-26 00:01:47",
+      "end": "2022-02-26 00:01:47"
+    }
+  ]
+}

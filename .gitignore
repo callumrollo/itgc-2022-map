@@ -137,9 +137,6 @@ dmypy.json
 *.swo
 *~
 server/server_setup.sh
-alembic.ini
-itgc/static/json
 output
 
 itgc/static/img/tiles/
-itgc/static/nbp_data/

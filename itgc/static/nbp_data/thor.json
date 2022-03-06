@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.948033333333,
+          -73.1443666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC01<br>Event no.63<br>73\u00b0 8.66'S         113\u00b0 56.88' W<br>Event: Mega core, niskin bottle, GoPro camera<br>Start: 2022-01-16 09:45:00<br>End: NaT<br>Bottom of Niskin bottle is half a meter above the bottom rail of the mega core; 11/12 tubes successful"
+      },
+      "id": 62,
+      "start": "2022-01-16T09:45:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.266456666667,
+          -74.1669616666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC02<br>Event no.186<br>74\u00b0 10.02'S         113\u00b0 15.99' W<br>Event: nan<br>Start: 2022-01-23 05:37:00<br>End: 2022-01-23 06:29:00<br>1.5 m KC, 20x70 lbs weights, did not hit sea floor."
+      },
+      "id": 185,
+      "start": "2022-01-23T05:37:00",
+      "end": "2022-01-23T06:29:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.266441666667,
+          -74.1669533333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC03<br>Event no.187<br>74\u00b0 10.02'S         113\u00b0 15.99' W<br>Event: nan<br>Start: 2022-01-23 06:38:00<br>End: NaT<br>1.5 m KC, 20x70 lbs weights, overpenetrated seafloor"
+      },
+      "id": 186,
+      "start": "2022-01-23T06:38:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.26618166666701,
+          -74.1669616666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC04<br>Event no.188<br>74\u00b0 10.02'S         113\u00b0 15.97' W<br>Event: nan<br>Start: 2022-01-23 07:43:00<br>End: NaT<br>3 m KC, 20x70 lbs weights"
+      },
+      "id": 187,
+      "start": "2022-01-23T07:43:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.26618166666701,
+          -74.1669616666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC05<br>Event no.189<br>74\u00b0 10.02'S         113\u00b0 15.97' W<br>Event: nan<br>Start: 2022-01-23 09:26:00<br>End: NaT<br>11/12 tubes successful, one appears to have penetrated but not closed; Niskin bottle did not fire"
+      },
+      "id": 188,
+      "start": "2022-01-23T09:26:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.268561666667,
+          -74.092025
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC06<br>Event no.358<br>74\u00b0 5.52'S         112\u00b0 16.11' W<br>Event: nan<br>Start: 2022-01-30 00:37:00<br>End: 2022-01-30 01:41:00<br>~180 cm recovery"
+      },
+      "id": 357,
+      "start": "2022-01-30T00:37:00",
+      "end": "2022-01-30T01:41:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2685,
+          -74.092
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC07<br>Event no.359<br>74\u00b0 5.52'S         112\u00b0 16.11' W<br>Event: nan<br>Start: 2022-01-30 02:14:00<br>End: 2022-01-30 03:26:00<br>12/12 tubes successful, niskin and gopro also deployed"
+      },
+      "id": 358,
+      "start": "2022-01-30T02:14:00",
+      "end": "2022-01-30T03:26:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.145981666667,
+          -74.16457333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC08<br>Event no.396<br>74\u00b0 9.87'S         112\u00b0 8.76' W<br>Event: nan<br>Start: 2022-01-31 04:35:00<br>End: 2022-01-31 05:54:00<br>nan"
+      },
+      "id": 395,
+      "start": "2022-01-31T04:35:00",
+      "end": "2022-01-31T05:54:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.14615,
+          -74.1644666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC09<br>Event no.397<br>74\u00b0 9.87'S         112\u00b0 8.77' W<br>Event: nan<br>Start: 2022-01-31 06:33:00<br>End: 2022-01-31 07:50:00<br>Niskin and 12 tubes deployed.  GoPro power supply failed before deployment  and not sent down.  Mega core only recovered 3/12 tubes. Possibly took a tumble on the seafloor. "
+      },
+      "id": 396,
+      "start": "2022-01-31T06:33:00",
+      "end": "2022-01-31T07:50:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.11265,
+          -74.4137666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC10<br>Event no.454<br>74\u00b0 24.83'S         110\u00b0 6.76' W<br>Event: nan<br>Start: 2022-02-03 10:19:00<br>End: NaT<br>over penetrated by ~0.5 m; ice movement requires ship to get underway---no megacore"
+      },
+      "id": 453,
+      "start": "2022-02-03T10:19:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.073166666667,
+          -74.06343333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC11<br>Event no.475<br>74\u00b0 3.81'S         113\u00b0 4.39' W<br>Event: nan<br>Start: 2022-02-04 10:28:00<br>End: NaT<br>nan"
+      },
+      "id": 474,
+      "start": "2022-02-04T10:28:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.07241666666701,
+          -74.06343333333331
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC12<br>Event no.477<br>74\u00b0 3.81'S         113\u00b0 4.35' W<br>Event: nan<br>Start: 2022-02-04 11:36:00<br>End: 2022-02-04 12:20:00<br>Niskin and 12 tubes deployed. 9 subcores recovered, two were shorter in length. Niskin fired correctly, however the GoPro footage was not aimed at the Niskin."
+      },
+      "id": 476,
+      "start": "2022-02-04T11:36:00",
+      "end": "2022-02-04T12:20:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.578041666667,
+          -73.935745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC13<br>Event no.620<br>73\u00b0 56.14'S         113\u00b0 34.68' W<br>Event: nan<br>Start: 2022-02-09 00:01:00<br>End: NaT<br>3m Kasten core with 12 weights. Lots of water sloshing around the top, pebbly top.  Total recovery 28 cm plus cc."
+      },
+      "id": 619,
+      "start": "2022-02-09T00:01:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.578071666667,
+          -73.9357383333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC14<br>Event no.621<br>73\u00b0 56.14'S         113\u00b0 34.68' W<br>Event: Repeat of KC13<br>Start: 2022-02-09 01:00:00<br>End: NaT<br>3m Kasten core with 20 weights. No recovery."
+      },
+      "id": 620,
+      "start": "2022-02-09T01:00:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC15<br>Event no.694<br>0\u00b0 0.0'S         0\u00b0 0.0' W<br>Event: nan<br>Start: NaT<br>End: NaT<br>nan"
+      },
+      "id": 693,
+      "start": "NaT",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.85300500000001,
+          -73.9735033333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC16<br>Event no.696<br>73\u00b0 58.41'S         113\u00b0 51.18' W<br>Event: nan<br>Start: 2022-02-13 05:20:00<br>End: NaT<br>JSW edits: with successful Niskin deployment and GoPro; ship repositioned due to ice, about 60 m away from KC location"
+      },
+      "id": 695,
+      "start": "2022-02-13T05:20:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.73909833333299,
+          -73.8806266666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC17<br>Event no.731<br>73\u00b0 52.84'S         118\u00b0 44.35' W<br>Event: nan<br>Start: 2022-02-14 17:03:00<br>End: 2022-02-14 17:53:00<br>nan"
+      },
+      "id": 730,
+      "start": "2022-02-14T17:03:00",
+      "end": "2022-02-14T17:53:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.73909833333299,
+          -73.88115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC18<br>Event no.732<br>73\u00b0 52.87'S         118\u00b0 44.35' W<br>Event: nan<br>Start: 2022-02-14 18:32:00<br>End: 2022-02-14 19:24:00<br>nan"
+      },
+      "id": 731,
+      "start": "2022-02-14T18:32:00",
+      "end": "2022-02-14T19:24:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.739081666667,
+          -73.88115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC19<br>Event no.733<br>73\u00b0 52.87'S         118\u00b0 44.34' W<br>Event: nan<br>Start: 2022-02-14 20:03:00<br>End: 2022-02-14 20:59:00<br>nan"
+      },
+      "id": 732,
+      "start": "2022-02-14T20:03:00",
+      "end": "2022-02-14T20:59:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.719516666667,
+          -73.86265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC20<br>Event no.787<br>73\u00b0 51.76'S         118\u00b0 43.17' W<br>Event: seal tag on kasten corer, 21 weights, 3 m<br>Start: 2022-02-19 04:26:00<br>End: 2022-02-19 05:25:00<br>nan"
+      },
+      "id": 786,
+      "start": "2022-02-19T04:26:00",
+      "end": "2022-02-19T05:25:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.725998333333,
+          -73.8728716666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC21<br>Event no.788<br>73\u00b0 52.37'S         118\u00b0 43.56' W<br>Event: seal tag on kasten corer, 21 weights, 3 m<br>Start: 2022-02-19 06:01:00<br>End: 2022-02-19 03:55:00<br>nan"
+      },
+      "id": 787,
+      "start": "2022-02-19T06:01:00",
+      "end": "2022-02-19T03:55:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7331,
+          -73.8778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC22<br>Event no.790<br>73\u00b0 52.67'S         118\u00b0 43.99' W<br>Event: seal tag on kasten corer, 21 weights, 3 m<br>Start: 2022-02-19 07:20:00<br>End: 2022-02-19 08:15:00<br>nan"
+      },
+      "id": 789,
+      "start": "2022-02-19T07:20:00",
+      "end": "2022-02-19T08:15:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.744903333333,
+          -73.8832633333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC23<br>Event no.791<br>73\u00b0 53.0'S         118\u00b0 44.69' W<br>Event: seal tag on kasten corer, 21 weights, 3 m<br>Start: 2022-02-19 08:53:00<br>End: 2022-02-19 09:17:00<br>nan"
+      },
+      "id": 790,
+      "start": "2022-02-19T08:53:00",
+      "end": "2022-02-19T09:17:00"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.72226,
+          -73.880325
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC24<br>Event no.797<br>73\u00b0 52.82'S         118\u00b0 43.34' W<br>Event: seal tag on kasten corer, 21 weights, 3 m<br>Start: 2022-02-19 11:12:00<br>End: NaT<br>nan"
+      },
+      "id": 796,
+      "start": "2022-02-19T11:12:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.701508333333,
+          -73.874955
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC25<br>Event no.798<br>73\u00b0 52.5'S         118\u00b0 42.09' W<br>Event: seal tag on kasten corer, 21 weights, 1.5 m barrel<br>Start: 2022-02-19 12:36:00<br>End: NaT<br>nan"
+      },
+      "id": 797,
+      "start": "2022-02-19T12:36:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.741508333333,
+          -73.8818733333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC26<br>Event no.803<br>73\u00b0 52.91'S         118\u00b0 44.49' W<br>Event: seal tag on kasten corer, 21 weights, 3 m<br>Start: 2022-02-20 00:33:00<br>End: NaT<br>nan"
+      },
+      "id": 802,
+      "start": "2022-02-20T00:33:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.74145,
+          -73.8818666666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC27<br>Event no.804<br>73\u00b0 52.91'S         118\u00b0 44.49' W<br>Event: seal tag, niskin, and gopro on megacore frame<br>Start: 2022-02-20 02:13:00<br>End: NaT<br>5 tubes"
+      },
+      "id": 803,
+      "start": "2022-02-20T02:13:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.49875,
+          -73.6951833333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC28<br>Event no.852<br>73\u00b0 41.71'S         115\u00b0 29.93' W<br>Event: nan<br>Start: 2022-02-22 01:51:00<br>End: NaT<br>nan"
+      },
+      "id": 851,
+      "start": "2022-02-22T01:51:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.19091666666701,
+          -74.1251333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: KC29<br>Event no.859<br>74\u00b0 7.51'S         115\u00b0 11.46' W<br>Event: nan<br>Start: 2022-02-22 17:56:00<br>End: NaT<br>kasten with pebbly gravel layer at bottom;4 of 8 bolts sheared off nose"
+      },
+      "id": 858,
+      "start": "2022-02-22T17:56:00",
+      "end": "NaT"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.190866666667,
+          -74.1251333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cast: MC30<br>Event no.860<br>74\u00b0 7.51'S         115\u00b0 11.45' W<br>Event: Niskin and GoPro attached, both successful<br>Start: 2022-02-22 19:28:00<br>End: NaT<br>10 subcores"
+      },
+      "id": 859,
+      "start": "2022-02-22T19:28:00",
+      "end": "NaT"
+    }
+  ]
+}

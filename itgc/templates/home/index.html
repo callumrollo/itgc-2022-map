@@ -459,16 +459,8 @@
             var terminator = L.terminator();
             // Optional layers that plot on top of the basemap
             let mapLayers = {
-
-                "Ocean shading": L.tileLayer("https://maps.nbp.usap.gov/maptiles/ocean_tiles/{z}/{y}/{x}.png",
-                    {maxZoom: 16, attribution: "© Esri, USGS, NOAA", errorTileUrl: '/static/img/transparent-tile.png'}),
-                Labels: L.tileLayer("https://maps.nbp.usap.gov/maptiles/label_tiles/{z}/{y}/{x}.png",
-                    {maxZoom: 8, attribution: "© Esri, USGS, NOAA", errorTileUrl: '/maptiles/transparent-tile.png'}),
-                // Bathymetry layer for the southern ocean (below 60S)  Created by J. Race and C. Linden during NBP1704.  There are notes in the admin wiki about how this was done.
-                Bathymetry: L.tileLayer("https://maps.nbp.usap.gov/maptiles/Bathymetry/{z}/{x}/{y}.png",
-                    {minZoom: 1, maxZoom: 12, attribution: "GEBCO", errorTileUrl: '/maptiles/transparent-tile.png'}),
                 "Graticule": graticuleHighLat,
-                "GEBCO 2020 <span style='color: red'>50 m</span><br><span style='color: blue'>200 m</span> <span style='color: grey'>500 m</span> 1000 m)<br><hr>": gebcoLinesLayer,
+                "GEBCO 2020 (<span style='color: red'>50 m</span><br><span style='color: blue'>200 m</span> <span style='color: grey'>500 m</span> 1000 m)<br><hr>": gebcoLinesLayer,
 
                 Ship: shipLayer,
                 "gliders": glidersLayer,

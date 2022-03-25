@@ -1,5 +1,11 @@
 # itgc-2022-map
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6383012.svg)](https://doi.org/10.5281/zenodo.6383012)
+
+
+
 A Python-flask site to display science of [ITGC](https://thwaitesglacier.org/) cruise NBP 2202 in a leaflet map.
 
 This repo contains the source code for the interactive map at [nbp2202map.com/](https://nbp2202map.com/)

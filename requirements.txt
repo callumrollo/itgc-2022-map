@@ -1,0 +1,9 @@
+flask
+geopandas
+shapely
+netcdf4
+xarray
+numpy
+matplotlib
+zeep
+xmltodict

@@ -16,15 +16,28 @@ All data are from the ITGC 2202 NBP cruise aboard the Nathaniel B Palmer. All da
 approximate and subject to arbitrary change. Contact the PIs of ITGC for all data quieries. Data are stored
 as geojson in [itgc/static/nbp_data](https://github.com/callumrollo/itgc-2022-map/tree/main/itgc/static/nbp_data).
 
-# Copyright
+# How to run this app
+
+1. Download the [nbp2202 website source code](https://github.com/callumrollo/itgc-2022-map) from this GitHub repository
+[click here](https://github.com/callumrollo/itgc-2022-map/archive/refs/heads/main.zip) to get the zip file
+2. Create a Python environment using pip and the requirements.txt file or conda and the environment.yml file. Each works as well as the other
+3. navigate to the directory where the environment files are and run the command `python itgc/app.py`
+4. Open a browser window and go to http://127.0.0.1:5000/
+5. That's it! You're running the app on your very own PC. You should see a website that looks and functions just like the one at [nbp2202map.com](https://nbp2202map.com) but it is running solely on your PC
+
+For more detail on how to adapt the site to your needs, or host it on an cloud server, check out the [blog post](https://callumrollo.github.io/flask_leaflet.html)
+
+### Copyright
 
 This project is open source and avaialbe under the [MIT license](https://github.com/callumrollo/itgc-2022-map/blob/main/LICENSE). Feel free to copy, remix and reuse with attribution.
 
 This is a personal project by Callum Rollo. It has no official support or endorsment from ITGC.
 
+This project was made possible by [Voice of the Ocean Foundation](https://voiceoftheocean.org) paying Callum Rollo's salary while he built it.
+
 ### TODO
 
-- [ ] add installation instructions
+- [x] add installation instructions
 - [x] upload static data
 - [ ] remove unnecessary JS
 - [ ] create branch for use on NBP

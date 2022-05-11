@@ -1,0 +1,13 @@
+name: nbpweb
+channels:
+  - conda-forge
+dependencies:
+        - flask
+        - geopandas
+        - shapely
+        - netcdf4
+        - xarray
+        - numpy
+        - matplotlib
+        - zeep
+        - xmltodict

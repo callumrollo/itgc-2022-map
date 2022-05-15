@@ -43,6 +43,7 @@ footer {
 .timesel {
         max-width: 600px;
         align-self: center;
+        margin-bottom: 20px;
 }
 
 .instructions {

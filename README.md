@@ -20,10 +20,13 @@ as geojson in [itgc/static/nbp_data](https://github.com/callumrollo/itgc-2022-ma
 
 1. Download the [nbp2202 website source code](https://github.com/callumrollo/itgc-2022-map) from this GitHub repository
 [click here](https://github.com/callumrollo/itgc-2022-map/archive/refs/heads/main.zip) to get the zip file
-2. Create a Python environment using pip and the requirements.txt file or conda and the environment.yml file. Each works as well as the other
-3. navigate to the directory where the environment files are and run the command `python itgc/app.py`
+2. Create a Python environment using pip with the requirements.txt file or conda with the environment.yml file.
+3. navigate to the directory containing this README and run the command `python itgc/app.py`
 4. Open a browser window and go to http://127.0.0.1:5000/
 5. That's it! You're running the app on your very own PC. You should see a website that looks and functions just like the one at [nbp2202map.com](https://nbp2202map.com) but it is running solely on your PC
+
+
+**NB** The ice imagery was too big for GitHub, it is included in the zenodo repository
 
 For more detail on how to adapt the site to your needs, or host it on an cloud server, check out the [blog post](https://callumrollo.github.io/flask_leaflet.html)
 
